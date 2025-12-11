@@ -1,0 +1,8960 @@
+{
+  "notes": "data is an array of arrays (rows), column names for rows in row_headers",
+  "row_headers": [
+    "Rank",
+    "Time Spent (seconds)",
+    "Number of People",
+    "Activity",
+    "Document",
+    "Category",
+    "Productivity"
+  ],
+  "rows": [
+    [
+      1,
+      34038,
+      1,
+      "effective-xylophone-p7pwqqvv9jc966j.github.dev",
+      "No Details",
+      "General Software Development",
+      2
+    ],
+    [
+      2,
+      20040,
+      1,
+      "Facebook for Android",
+      "No Details",
+      "General Social Networking",
+      -2
+    ],
+    [
+      3,
+      8602,
+      1,
+      "Visual Studio Code",
+      "justSendContactToEzy.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      4,
+      7758,
+      1,
+      "postman",
+      "No Details",
+      "General Software Development",
+      2
+    ],
+    [
+      5,
+      6024,
+      1,
+      "beeper nightly",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      6,
+      5750,
+      1,
+      "Visual Studio Code",
+      "post_appointments_batch.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      7,
+      5456,
+      1,
+      "Google Chrome for Android",
+      "No Details",
+      "Browsers",
+      0
+    ],
+    [
+      8,
+      3962,
+      1,
+      "hmrah.use1.ezyvet.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      9,
+      3499,
+      1,
+      "YouTube for Android",
+      "No Details",
+      "Video",
+      -2
+    ],
+    [
+      10,
+      3345,
+      1,
+      "Facebook Messenger",
+      "No Details",
+      "Communications",
+      -1
+    ],
+    [
+      11,
+      3305,
+      1,
+      "Visual Studio Code",
+      "fetch_visit_history.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      12,
+      3115,
+      1,
+      "mobile - com.beeper.android",
+      "No Details",
+      "Instant Message",
+      0
+    ],
+    [
+      13,
+      3050,
+      1,
+      "hmrah.usw2.trial.ezyvet.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      14,
+      3030,
+      1,
+      "Visual Studio Code",
+      "enrich_missing_animals.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      15,
+      2980,
+      1,
+      "Visual Studio Code",
+      "post_animals_batch.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      16,
+      2857,
+      1,
+      "mobile - com.nytimes.crossword",
+      "No Details",
+      "General Entertainment",
+      -2
+    ],
+    [
+      17,
+      2831,
+      1,
+      "Visual Studio Code",
+      "compare_pets_in_files.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      18,
+      2443,
+      1,
+      "super-duper-bassoon-5vxrpp67xpfvjq7.github.dev",
+      "No Details",
+      "General Software Development",
+      2
+    ],
+    [
+      19,
+      2161,
+      1,
+      "mobile - com.redcell.goldandgoblins",
+      "No Details",
+      "Games",
+      -2
+    ],
+    [
+      20,
+      2062,
+      1,
+      "meet.google.com",
+      "Meet - 2nd Annual Holiday Party - Camera and microphone recording - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      21,
+      2016,
+      1,
+      "Visual Studio Code",
+      "post_contacts_batch.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      22,
+      1819,
+      1,
+      "Visual Studio Code",
+      "compare_contacts_in_files.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      23,
+      1800,
+      1,
+      "Duolingo: Learn Languages Free",
+      "No Details",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      24,
+      1796,
+      1,
+      "Google Maps for Android",
+      "No Details",
+      "Maps & Regional",
+      -1
+    ],
+    [
+      25,
+      1742,
+      1,
+      "Visual Studio Code",
+      "build_ezyvet_payloads.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      26,
+      1707,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      27,
+      1703,
+      1,
+      "github desktop",
+      "No Details",
+      "General Software Development",
+      2
+    ],
+    [
+      28,
+      1685,
+      1,
+      "Visual Studio Code",
+      "ezyvet_api.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      29,
+      1667,
+      1,
+      "hopemillsroadanimalhospital.vetspire.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      30,
+      1635,
+      1,
+      "google.com/notebook",
+      "No Details",
+      "Intelligence",
+      2
+    ],
+    [
+      31,
+      1631,
+      1,
+      "Visual Studio Code",
+      "post_contact_to_ezy.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      32,
+      1466,
+      1,
+      "beeper nightly",
+      "Beeper",
+      "Uncategorized",
+      0
+    ],
+    [
+      33,
+      1425,
+      1,
+      "gemini.google.com",
+      "Google Gemini - Google Chrome",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      34,
+      1263,
+      1,
+      "Visual Studio Code",
+      "post_animal_to_ezyvet.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      35,
+      1223,
+      1,
+      "Google Now",
+      "No Details",
+      "Search",
+      0
+    ],
+    [
+      36,
+      1131,
+      1,
+      "Visual Studio Code",
+      "fetch_vetspire_patients.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      37,
+      1116,
+      1,
+      "Visual Studio Code",
+      "post_appointment_to_ezyvet.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      38,
+      1108,
+      1,
+      "Visual Studio Code",
+      "post_consults_from_payloads.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      39,
+      1064,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 1.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      40,
+      1056,
+      1,
+      "Visual Studio Code",
+      "inspect_encounter_sections.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      41,
+      998,
+      1,
+      "GMail for Android",
+      "No Details",
+      "Email",
+      0
+    ],
+    [
+      42,
+      950,
+      1,
+      "Visual Studio Code",
+      "post_vitals_to_ezyvet.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      43,
+      948,
+      1,
+      "mobile - com.hospet.app",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      44,
+      921,
+      1,
+      "Visual Studio Code",
+      "enrich_missing_contacts.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      45,
+      834,
+      1,
+      "Visual Studio Code",
+      "fetch_vitals.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      46,
+      823,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 2.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      47,
+      802,
+      1,
+      "Visual Studio Code",
+      "vetspire_visit_history.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      48,
+      788,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 1.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      49,
+      766,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 2.0 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      50,
+      758,
+      1,
+      "Visual Studio Code",
+      "sections_flattened.filtered.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      51,
+      749,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 2.6 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      52,
+      712,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 1.6 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      53,
+      616,
+      1,
+      "developers.ezyvet.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      54,
+      615,
+      1,
+      "Visual Studio Code",
+      "build_mappings_from_appointments.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      55,
+      611,
+      1,
+      "rescuetime.com",
+      "RescueTime - Timesheets: My Timeline - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      56,
+      609,
+      1,
+      "meet.google.com",
+      "Meet - Weekly Deep Dive - Microphone recording - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      57,
+      602,
+      1,
+      "mobile - com.finch.finch",
+      "No Details",
+      "Health & Medicine",
+      1
+    ],
+    [
+      58,
+      589,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 2.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      59,
+      574,
+      1,
+      "Visual Studio Code",
+      "vetspire_appointments.success.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      60,
+      572,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 2.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      61,
+      564,
+      1,
+      "Github",
+      "Proposing resolutions for merge conflicts · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      62,
+      539,
+      1,
+      "mobile - com.openai.chatgpt",
+      "No Details",
+      "Intelligence",
+      2
+    ],
+    [
+      63,
+      537,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 1.7 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      64,
+      520,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 1.2 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      65,
+      519,
+      1,
+      "dbeaver",
+      "DBeaver 25.3.0 - Script-88",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      66,
+      515,
+      1,
+      "Cursor",
+      "populate_species_breed_maps.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      67,
+      515,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.enriched.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      68,
+      512,
+      1,
+      "cvbc.ca",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      69,
+      480,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 1.9 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      70,
+      457,
+      1,
+      "chatgpt",
+      "No Details",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      71,
+      452,
+      1,
+      "Visual Studio Code",
+      "contact_lookup.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      72,
+      440,
+      1,
+      "my.hospet.app",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      73,
+      433,
+      1,
+      "postman",
+      "SOC - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      74,
+      430,
+      1,
+      "Visual Studio Code",
+      "populate_species_breed_maps.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      75,
+      419,
+      1,
+      "Visual Studio Code",
+      "ezyvet_payloads.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      76,
+      418,
+      1,
+      "Sleep as Android",
+      "No Details",
+      "Health & Medicine",
+      -1
+    ],
+    [
+      77,
+      408,
+      1,
+      "facebook.com",
+      "Messenger | Facebook - High memory usage - 1.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      78,
+      398,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - Audio playing - High memory usage - 1.7 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      79,
+      381,
+      1,
+      "Visual Studio Code",
+      "vetspire_client.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      80,
+      376,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 1.8 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      81,
+      368,
+      1,
+      "Blank Web Browser",
+      "evc-prod-app - Microsoft Azure - Part of group product - High memory usage - 1.6 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      82,
+      368,
+      1,
+      "Visual Studio Code",
+      "build_consult_payloads.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      83,
+      363,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 2.2 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      84,
+      359,
+      1,
+      "Visual Studio Code",
+      "sections_by_encounter.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      85,
+      350,
+      1,
+      "TikTok",
+      "No Details",
+      "General Social Networking",
+      -2
+    ],
+    [
+      86,
+      349,
+      1,
+      "Visual Studio Code",
+      "analyze_post_appointments.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      87,
+      344,
+      1,
+      "Visual Studio Code",
+      "test_consult.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      88,
+      338,
+      1,
+      "Visual Studio Code",
+      "appointments_handoff_dedup.csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      89,
+      321,
+      1,
+      "Slack for Android",
+      "No Details",
+      "Instant Message",
+      1
+    ],
+    [
+      90,
+      317,
+      1,
+      "Google Spreadsheets",
+      "Patterson-InventoryAlly_SampleFile.xlsx - Google Sheets - Part of group product - Google Chrome",
+      "General Business",
+      2
+    ],
+    [
+      91,
+      315,
+      1,
+      "Visual Studio Code",
+      "vetspire_appointments.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      92,
+      312,
+      1,
+      "Blank Web Browser",
+      "Inventory Ally - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      93,
+      308,
+      1,
+      "Cursor",
+      "fetch_vetspire_patients.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      94,
+      304,
+      1,
+      "Visual Studio Code",
+      "build_vitals_payloads.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      95,
+      300,
+      1,
+      "Google Spreadsheets",
+      "Vetspire to ezyVet plan - Google Sheets - Part of group conversion - Google Chrome",
+      "General Business",
+      2
+    ],
+    [
+      96,
+      291,
+      1,
+      "Visual Studio Code",
+      "animal_id_mapping.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      97,
+      290,
+      1,
+      "Visual Studio Code",
+      "vetspire_appointments.failure.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      98,
+      276,
+      1,
+      "Visual Studio Code",
+      "filter_sections_flattened.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      99,
+      272,
+      1,
+      "Blank Web Browser",
+      "evc-prod-app - Microsoft Azure - Part of group product - High memory usage - 1.4 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      100,
+      271,
+      1,
+      "Visual Studio Code",
+      "vitals_payloads.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      101,
+      270,
+      1,
+      "Blank Web Browser",
+      "Meet - Courtenay/Sophia",
+      "Internet Utilities",
+      1
+    ],
+    [
+      102,
+      268,
+      1,
+      "Visual Studio Code",
+      "vetspire_contacts_missing_in_ezy.enriched.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      103,
+      268,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.awaiting_contact.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      104,
+      267,
+      1,
+      "mobile - com.google.android.apps.docs.editors.sheets",
+      "No Details",
+      "Writing",
+      2
+    ],
+    [
+      105,
+      263,
+      1,
+      "mobile - io.homeassistant.companion.android",
+      "No Details",
+      "Other",
+      0
+    ],
+    [
+      106,
+      259,
+      1,
+      "heapanalytics.com",
+      "Funnel - Heap | Mobile and Web Analytics - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      107,
+      257,
+      1,
+      "Visual Studio Code",
+      "sections_flattened.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      108,
+      256,
+      1,
+      "Visual Studio Code",
+      "vetspire_all_contacts.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      109,
+      255,
+      1,
+      "Visual Studio Code",
+      "fetch_soc_from_vetspire.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      110,
+      248,
+      1,
+      "Camera - Android",
+      "No Details",
+      "Photos",
+      -2
+    ],
+    [
+      111,
+      244,
+      1,
+      "Finder",
+      "vetspire-to-ezyvet",
+      "General Utilities",
+      1
+    ],
+    [
+      112,
+      239,
+      1,
+      "Visual Studio Code",
+      "No Details",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      113,
+      239,
+      1,
+      "Cursor",
+      "ezyvet_api.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      114,
+      233,
+      1,
+      "mobile - com.spotify.music",
+      "No Details",
+      "Music",
+      -2
+    ],
+    [
+      115,
+      232,
+      1,
+      "docs.ezyvet.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      116,
+      230,
+      1,
+      "Visual Studio Code",
+      "find_inactive_future_appointments.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      117,
+      222,
+      1,
+      "Visual Studio Code",
+      "fetch_vetspire_appointments.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      118,
+      217,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      119,
+      214,
+      1,
+      "Android home screen",
+      "No Details",
+      "General Utilities",
+      1
+    ],
+    [
+      120,
+      209,
+      1,
+      "Github",
+      "Refactor: Extract nested functions and decompose massive main functions by Copilot · Pull Request #2 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      121,
+      209,
+      1,
+      "Visual Studio Code",
+      "schema_introspection.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      122,
+      205,
+      1,
+      "Github",
+      "Code review analysis: Python developer strengths and improvement areas · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      123,
+      204,
+      1,
+      "mobile - name.boyle.chris.sgtpuzzles",
+      "No Details",
+      "Games",
+      -2
+    ],
+    [
+      124,
+      203,
+      1,
+      "Visual Studio Code",
+      "compare_visit_history.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      125,
+      201,
+      1,
+      "Visual Studio Code",
+      "sections_to_encounter_map.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      126,
+      188,
+      1,
+      "Visual Studio Code",
+      "HOWTO.md — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      127,
+      184,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 2.9 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      128,
+      183,
+      1,
+      "granola",
+      "No Details",
+      "Engineering & Technology",
+      1
+    ],
+    [
+      129,
+      182,
+      1,
+      "survey3.medallia.com",
+      "No Details",
+      "General Business",
+      2
+    ],
+    [
+      130,
+      182,
+      1,
+      "Github",
+      "Agents · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      131,
+      182,
+      1,
+      "Blank Web Browser",
+      "Meet - Weekly Deep Dive - Microphone recording - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      132,
+      180,
+      1,
+      "Cursor",
+      "enrich_missing_animals.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      133,
+      180,
+      1,
+      "Visual Studio Code",
+      "vetspire_appointments.pending.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      134,
+      177,
+      1,
+      "Github",
+      "Resolve Conflicts · Pull Request #2 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      135,
+      174,
+      1,
+      "Visual Studio Code",
+      "generate_sections_query_from_schema.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      136,
+      169,
+      1,
+      "Visual Studio Code",
+      "Contact_Export [hmrah.use1.ezyvet.com].csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      137,
+      166,
+      1,
+      "Activity Monitor",
+      "Activity Monitor – All Processes",
+      "General Utilities",
+      1
+    ],
+    [
+      138,
+      164,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.unmatched.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      139,
+      164,
+      1,
+      "Visual Studio Code",
+      "Inv Ally Demo/Q&A | anonymous | Microsoft Teams",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      140,
+      162,
+      1,
+      "Github",
+      "hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      141,
+      162,
+      1,
+      "Blank Web Browser",
+      "RescueTime - Timesheets: My Timeline - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      142,
+      160,
+      1,
+      "Visual Studio Code",
+      "Animal_Export [hmrah.use1.ezyvet.com].csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      143,
+      159,
+      1,
+      "Visual Studio Code",
+      "breed_map.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      144,
+      159,
+      1,
+      "Visual Studio Code",
+      "export_reservations_summary.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      145,
+      156,
+      1,
+      "Visual Studio Code",
+      "vetspire_contacts_manual_review.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      146,
+      148,
+      1,
+      "Visual Studio Code",
+      "reservation_summary.csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      147,
+      145,
+      1,
+      "Blank Web Browser",
+      "evc-prod-app - Microsoft Azure - Part of group product - High memory usage - 1.7 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      148,
+      145,
+      1,
+      "mobile - com.google.android.apps.recorder",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      149,
+      142,
+      1,
+      "Blank Web Browser",
+      "Google Gemini - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      150,
+      138,
+      1,
+      "facebook.com",
+      "Messenger | Facebook - High memory usage - 1.7 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      151,
+      137,
+      1,
+      "rescuetime.com",
+      "RescueTime - Categorize Activities - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      152,
+      137,
+      1,
+      "Cursor",
+      "Review: Update sex map data — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      153,
+      134,
+      1,
+      "epochconverter.com",
+      "No Details",
+      "General Software Development",
+      2
+    ],
+    [
+      154,
+      132,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Facebook - High memory usage  - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      155,
+      131,
+      1,
+      "Android Dialer",
+      "No Details",
+      "Voice Chat",
+      1
+    ],
+    [
+      156,
+      130,
+      1,
+      "facebook.com",
+      "Kamloops Dog Group | Does anyone have a couple of greenies pill pockets I could have or trade for | Facebook - High memory usage - 1.9 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      157,
+      129,
+      1,
+      "portal.azure.com",
+      "evc-prod-db (evc-prod-sql/evc-prod-db) - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      158,
+      129,
+      1,
+      "portal.azure.com",
+      "functions-eqoh-inventory (evcprodsb/functions-eqoh-inventory) - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      159,
+      129,
+      1,
+      "vetlogic-co.domo.com",
+      "No Details",
+      "Intelligence",
+      2
+    ],
+    [
+      160,
+      129,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 2.7 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      161,
+      129,
+      1,
+      "mobile - com.overdrive.mobile.android.libby",
+      "No Details",
+      "Home & Garden",
+      -1
+    ],
+    [
+      162,
+      127,
+      1,
+      "science.howstuffworks.com",
+      "No Details",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      163,
+      127,
+      1,
+      "Visual Studio Code",
+      "fetch_ezyvet_appointments.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      164,
+      127,
+      1,
+      "Github",
+      "Code review analysis: Python developer strengths and improvement areas · GitHub Copilot - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      165,
+      124,
+      1,
+      "Visual Studio Code",
+      "complianceToCustify.py — evc-tools",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      166,
+      123,
+      1,
+      "Visual Studio Code",
+      "vetspire_animals_missing_in_ezy.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      167,
+      123,
+      1,
+      "Github",
+      "No Details",
+      "General Software Development",
+      2
+    ],
+    [
+      168,
+      122,
+      1,
+      "Visual Studio Code",
+      "animal_map.sample.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      169,
+      121,
+      1,
+      "Visual Studio Code",
+      "reservations.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      170,
+      121,
+      1,
+      "Github",
+      "vetspire-to-ezyvet/scripts at main · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      171,
+      119,
+      1,
+      "meet.google.com",
+      "Meet - 2nd Annual Holiday Party - Camera and microphone recording - High memory usage - 1.1 GB - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      172,
+      119,
+      1,
+      "facebook.com",
+      "Messenger | Facebook - High memory usage - 1.8 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      173,
+      117,
+      1,
+      "Blank Web Browser",
+      "RescueTime - Your Monthly dashboard - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      174,
+      116,
+      1,
+      "Blank Web Browser",
+      "Meet - Weekly Deep Dive",
+      "Internet Utilities",
+      1
+    ],
+    [
+      175,
+      116,
+      1,
+      "Blank Web Browser",
+      "Users List - Heap | Mobile and Web Analytics - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      176,
+      114,
+      1,
+      "Visual Studio Code",
+      "vetspire_vitals-in-flight.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      177,
+      113,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 11 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      178,
+      113,
+      1,
+      "meet.google.com",
+      "Meet - 2nd Annual Holiday Party - Camera and microphone recording - High memory usage  - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      179,
+      112,
+      1,
+      "Github",
+      "Fix merge artifacts in justSendContactToEzy.py · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      180,
+      111,
+      1,
+      "iWork Numbers",
+      "patterson-daily_20251210",
+      "General Business",
+      2
+    ],
+    [
+      181,
+      109,
+      1,
+      "Github",
+      "Premium request analytics - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      182,
+      108,
+      1,
+      "postman",
+      "Appointment simple test - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      183,
+      107,
+      1,
+      "Github",
+      "[WIP] Review functionality changes in justSendContactToEzy.py · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      184,
+      102,
+      1,
+      "Github",
+      "hdsheena/vetspire-to-ezyvet - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      185,
+      101,
+      1,
+      "screenpal",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      186,
+      101,
+      1,
+      "Github",
+      "New chat · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      187,
+      100,
+      1,
+      "Google Photos",
+      "No Details",
+      "Photos",
+      -2
+    ],
+    [
+      188,
+      99,
+      1,
+      "Github",
+      "Budgets - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      189,
+      99,
+      1,
+      "Github",
+      "Add post_contact_batch.py wrapper for singular naming consistency · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      190,
+      98,
+      1,
+      "Microsoft Teams",
+      "Inv Ally Demo/Q&A | anonymous | Microsoft Teams",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      191,
+      98,
+      1,
+      "facebook.com",
+      "Facebook - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      192,
+      98,
+      1,
+      "Blank Web Browser",
+      "Meet - 2nd Annual Holiday Party - Camera and microphone recording - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      193,
+      97,
+      1,
+      "mobile - io.intercom.android",
+      "No Details",
+      "Customer Relations",
+      2
+    ],
+    [
+      194,
+      97,
+      1,
+      "Visual Studio Code",
+      "compare_animal_mappings.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      195,
+      97,
+      1,
+      "Visual Studio Code",
+      "ShepherdController.cs — evc",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      196,
+      95,
+      1,
+      "newtab",
+      "New Tab - Google Chrome",
+      "Browsers",
+      0
+    ],
+    [
+      197,
+      95,
+      1,
+      "Visual Studio Code",
+      "contact_id_mapping.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      198,
+      95,
+      1,
+      "Visual Studio Code",
+      ".gitignore — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      199,
+      95,
+      1,
+      "Github",
+      "Implement species map loading for strict animal matching in appointment resolution · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      200,
+      94,
+      1,
+      "Visual Studio Code",
+      "Animals-2025-12-10-12-47-30.csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      201,
+      93,
+      1,
+      "Github",
+      "hdsheena/vetspire-to-ezyvet at copilot/refactor-large-main-functions - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      202,
+      93,
+      1,
+      "Visual Studio Code",
+      "InventoryReportsController.cs — evc",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      203,
+      93,
+      1,
+      "Cursor",
+      "launch.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      204,
+      93,
+      1,
+      "Blank Web Browser",
+      "work_analysis_nov1_dec10.md — rescuetime-mcp [Codespaces: super-duper bassoon] — Visual Studio Code - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      205,
+      92,
+      1,
+      "Visual Studio Code",
+      "test_filter_sections_flattened.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      206,
+      90,
+      1,
+      "Visual Studio Code",
+      "reservation_245186.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      207,
+      90,
+      1,
+      "Visual Studio Code",
+      "vetspire_appointments.2025-12-10.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      208,
+      88,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - Audio playing - High memory usage - 2.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      209,
+      87,
+      1,
+      "mobile - com.google.android.apps.youtube.producer",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      210,
+      86,
+      1,
+      "portal.azure.com",
+      "evcprodsb - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      211,
+      86,
+      1,
+      "facebook.com",
+      "ezyVet Global Support Group [Unofficial] | Facebook - High memory usage - 1.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      212,
+      85,
+      1,
+      "Github",
+      "Reorganize repository: move deprecated one-off scripts and data to to-remove directory by Copilot · Pull Request #1 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      213,
+      84,
+      1,
+      "Github",
+      "Query encounters by appointment date range instead of sample file by Copilot · Pull Request #11 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      214,
+      83,
+      1,
+      "Gmail",
+      "Inbox - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      215,
+      83,
+      1,
+      "consumerlab.com",
+      "No Details",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      216,
+      82,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.enriched.1.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      217,
+      82,
+      1,
+      "Visual Studio Code",
+      "appointment_id_mapping.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      218,
+      81,
+      1,
+      "Github",
+      "Running Copilot coding agent · hdsheena/vetspire-to-ezyvet@421fd73 - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      219,
+      80,
+      1,
+      "Visual Studio Code",
+      "contacts_batch_failure_reasons.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      220,
+      79,
+      1,
+      "Visual Studio Code",
+      "contacts_sample.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      221,
+      79,
+      1,
+      "Github",
+      "Implement comprehensive 429 (Too Many Requests) handling in EzyVetAPIClient · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      222,
+      79,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 2.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      223,
+      78,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      224,
+      78,
+      1,
+      "facebook.com",
+      "Messenger | Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      225,
+      78,
+      1,
+      "Visual Studio Code",
+      "extract_appointments_by_date.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      226,
+      78,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Canine Rehab Cases and Q&A | Facebook - Audio playing - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      227,
+      78,
+      1,
+      "Visual Studio Code",
+      "compare_reference_dirs.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      228,
+      77,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 3.2 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      229,
+      77,
+      1,
+      "Github",
+      "Refactor functions to use single return point for easier debugging by Copilot · Pull Request #14 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      230,
+      77,
+      1,
+      "Visual Studio Code",
+      "File History (ShepherdController.cs) — evc",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      231,
+      77,
+      1,
+      "Visual Studio Code",
+      "extract_unmapped_uniques.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      232,
+      76,
+      1,
+      "facebook.com",
+      "Courtenay Watson | Facebook - High memory usage - 2.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      233,
+      76,
+      1,
+      "k9motion.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      234,
+      75,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 11 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      235,
+      75,
+      1,
+      "postman",
+      "Fetches a list containing Animal(s) - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      236,
+      75,
+      1,
+      "Visual Studio Code",
+      "appointment_type_map.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      237,
+      73,
+      1,
+      "Gmail",
+      "Tel appt Dec 3rd. - hdsheena@gmail.com - Gmail - High memory usage - 1.4 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      238,
+      73,
+      1,
+      "facebook.com",
+      "Phaedra Kurkiewicz | Facebook - High memory usage - 2.7 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      239,
+      72,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 1.0 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      240,
+      72,
+      1,
+      "rescuetime.com",
+      "RescueTime - Timesheets: Projects - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      241,
+      71,
+      1,
+      "Visual Studio Code",
+      "parse_visit_history.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      242,
+      71,
+      1,
+      "heapanalytics.com",
+      "Heap | Mobile and Web Analytics - Heap | Mobile and Web Analytics - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      243,
+      71,
+      1,
+      "Github",
+      "Fix merge artifacts in justSendContactToEzy.py · Task · GitHub Copilot - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      244,
+      71,
+      1,
+      "mobile - com.google.android.apps.subscriptions.red",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      245,
+      71,
+      1,
+      "Github",
+      "Add ezyVet v2 appointments fetching and comparison with Vetspire by Copilot · Pull Request #7 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      246,
+      69,
+      1,
+      "Visual Studio Code",
+      "test_fetch_visit_history.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      247,
+      69,
+      1,
+      "Pocket Casts",
+      "No Details",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      248,
+      69,
+      1,
+      "Github",
+      "[WIP] Refactor active status pattern for improved breakpoint handling · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      249,
+      69,
+      1,
+      "facebook.com",
+      "No Details",
+      "General Social Networking",
+      -2
+    ],
+    [
+      250,
+      69,
+      1,
+      "Gmail",
+      "Tel appt Dec 3rd. - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      251,
+      69,
+      1,
+      "Visual Studio Code",
+      "ezyvet_consults.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      252,
+      68,
+      1,
+      "Slack",
+      "Emmitt (DM) - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      253,
+      68,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Facebook - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      254,
+      67,
+      1,
+      "rescuetime.com",
+      "RescueTime - API Key Management - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      255,
+      67,
+      1,
+      "Visual Studio Code",
+      "ezyvet_match_results_debug.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      256,
+      67,
+      1,
+      "Visual Studio Code",
+      "vetspire_vitals_dec1_7.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      257,
+      67,
+      1,
+      "Github",
+      "Reorganize repository: move deprecated one-off scripts and data to to-remove directory · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      258,
+      66,
+      1,
+      "Visual Studio Code",
+      "vetspire_appointments.2025-12-11.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      259,
+      65,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Canine Rehab Cases and Q&A | Facebook - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      260,
+      65,
+      1,
+      "Life360 Family Locator",
+      "No Details",
+      "Uncategorized",
+      -1
+    ],
+    [
+      261,
+      64,
+      1,
+      "Visual Studio Code",
+      ".env — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      262,
+      64,
+      1,
+      "petkind.ca",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      263,
+      64,
+      1,
+      "facebook.com",
+      "We will need transport for our little Jiminy... - Riverhouse Rescue | Facebook - High memory usage - 1.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      264,
+      63,
+      1,
+      "Gmail",
+      "RE: Patterson + Inventory Ally Integration Discovery - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      265,
+      63,
+      1,
+      "Gmail",
+      "Front attachment replacement struts - Walkin' Pets - Contact Us - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      266,
+      63,
+      1,
+      "Gmail",
+      "Inventory Ally/Patterson Test PO - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.1 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      267,
+      63,
+      1,
+      "upwarddogrehab.janeapp.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      268,
+      63,
+      1,
+      "Visual Studio Code",
+      "vetspire_contacts_missing_in_ezy.contactdetails.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      269,
+      62,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 13 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      270,
+      62,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      271,
+      61,
+      1,
+      "Visual Studio Code",
+      "encounter_section_schema.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      272,
+      61,
+      1,
+      "Github",
+      "Add Copilot instructions for repository · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      273,
+      61,
+      1,
+      "Github",
+      "Fix merge artifacts in justSendContactToEzy.py by Copilot · Pull Request #3 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      274,
+      60,
+      1,
+      "Visual Studio Code",
+      "fetch_recent_consults.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      275,
+      60,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 3.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      276,
+      60,
+      1,
+      "Slack",
+      "Adrian Bishline, Aimee, Sophia (DM) - Veterinary Care Logistics - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      277,
+      60,
+      1,
+      "Blank Web Browser",
+      "post_contact_to_ezy.py — vetspire-to-ezyvet [Codespaces: effective xylophone] — Visual Studio Code - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      278,
+      59,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.inactive_contact.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      279,
+      59,
+      1,
+      "Gmail",
+      "Search results - hdsheena@gmail.com - Gmail - High memory usage - 1.3 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      280,
+      59,
+      1,
+      "google.com",
+      "psyllium husk contamination - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      281,
+      59,
+      1,
+      "omi",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      282,
+      58,
+      1,
+      "Github",
+      "Implement comprehensive 429 (Too Many Requests) handling in EzyVetAPIClient and eliminate raw requests usage by Copilot · Pull Request #12 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      283,
+      58,
+      1,
+      "facebook.com",
+      "Messenger | Facebook - High memory usage - 1.6 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      284,
+      57,
+      1,
+      "Github",
+      "Implement comprehensive 429 (Too Many Requests) handling in EzyVetAPIClient and eliminate raw requests usage by Copilot · Pull Request #12 · hdsheena/vetspire-to-ezyvet - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      285,
+      57,
+      1,
+      "Visual Studio Code",
+      "filter_future_reservations.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      286,
+      57,
+      1,
+      "squareone.ca",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      287,
+      57,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Canine Rehab Cases and Q&A | Facebook - Audio playing - High memory usage - 1.7 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      288,
+      57,
+      1,
+      "Github",
+      "vetspire-to-ezyvet/scripts/justSendContactToEzy.py at main · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      289,
+      57,
+      1,
+      "Gmail",
+      "Inventory Ally/Patterson Test PO - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      290,
+      56,
+      1,
+      "Github",
+      "Branches · hdsheena/vetspire-to-ezyvet - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      291,
+      55,
+      1,
+      "Visual Studio Code",
+      "test_build_ezyvet_payloads_consult_mapping.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      292,
+      54,
+      1,
+      "Visual Studio Code",
+      "vetspire_visit_history_comparison.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      293,
+      54,
+      1,
+      "Visual Studio Code",
+      "appointment_resource_type_failures.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      294,
+      54,
+      1,
+      "Visual Studio Code",
+      "tmp_first5.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      295,
+      54,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 1.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      296,
+      54,
+      1,
+      "Github",
+      "[WIP] Fix merge artifacts in justSendContactToEzy.py · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      297,
+      54,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - Audio playing - High memory usage - 1.6 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      298,
+      53,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.failure_reasons.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      299,
+      53,
+      1,
+      "Visual Studio Code",
+      "appointment_analysis.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      300,
+      52,
+      1,
+      "google.com/notebook",
+      "Vetspire to ezyVet conversion - NotebookLM - Part of group conversion - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      301,
+      52,
+      1,
+      "Gmail",
+      "Inbox - hdsheena@gmail.com - Gmail - High memory usage - 1.1 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      302,
+      52,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - 5 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      303,
+      52,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.deceased.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      304,
+      51,
+      1,
+      "Gmail",
+      "Inventory Ally/Patterson Test PO - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.0 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      305,
+      51,
+      1,
+      "Visual Studio Code",
+      "expanded_sections_from_schema.gql — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      306,
+      50,
+      1,
+      "Github",
+      "Fix merge artifacts in justSendContactToEzy.py · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      307,
+      49,
+      1,
+      "Github",
+      "Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      308,
+      49,
+      1,
+      "Visual Studio Code",
+      "Merging: ezyvet_api.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      309,
+      49,
+      1,
+      "Visual Studio Code",
+      "README.md — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      310,
+      49,
+      1,
+      "Github",
+      "[WIP] Organize repository by removing unused files · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      311,
+      49,
+      1,
+      "Blank Web Browser",
+      "Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      312,
+      48,
+      1,
+      "photos.google.com",
+      "No Details",
+      "Photos",
+      -2
+    ],
+    [
+      313,
+      48,
+      1,
+      "Cursor",
+      "match_all_vetspire_to_ezyvet.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      314,
+      48,
+      1,
+      "Visual Studio Code",
+      "vetspire_protocol_reminders.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      315,
+      48,
+      1,
+      "studio.youtube.com",
+      "No Details",
+      "Video Editing",
+      2
+    ],
+    [
+      316,
+      48,
+      1,
+      "Github",
+      "Port retry logic and deduplication from justSendContactToEzy to post_contact_to_ezy · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      317,
+      47,
+      1,
+      "postman",
+      "Get standard of care events - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      318,
+      47,
+      1,
+      "facebook.com",
+      "Sarah Rose | Facebook - High memory usage - 2.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      319,
+      47,
+      1,
+      "Github",
+      "Manage access - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      320,
+      47,
+      1,
+      "Github",
+      "Edit monthly budget - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      321,
+      46,
+      1,
+      "facebook.com",
+      "Facebook - Audio playing - High memory usage - 1.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      322,
+      46,
+      1,
+      "Azure Authenticator",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      323,
+      46,
+      1,
+      "Visual Studio Code",
+      "fetch_vetspire_reservation.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      324,
+      45,
+      1,
+      "theratogs.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      325,
+      45,
+      1,
+      "Visual Studio Code",
+      "user_map.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      326,
+      45,
+      1,
+      "Blank Web Browser",
+      "Inventory Ally - Backlog | Trello - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      327,
+      44,
+      1,
+      "Github",
+      "[WIP] Refactor active status pattern for improved breakpoint handling · GitHub Copilot - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      328,
+      44,
+      1,
+      "facebook.com",
+      "Veterinary Inventory Management Group | Hey guys!! My clinic is looking to switch our Pims from Neo to a different cloud-based system | Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      329,
+      43,
+      1,
+      "Github",
+      "New monthly budget - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      330,
+      42,
+      1,
+      "Blank Web Browser",
+      "Inventory Ally - Backlog | Trello - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      331,
+      42,
+      1,
+      "Visual Studio Code",
+      "appointments_handoff.csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      332,
+      42,
+      1,
+      "Slack",
+      "Activity - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      333,
+      42,
+      1,
+      "Visual Studio Code",
+      "vetspire_api.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      334,
+      42,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.already_exists.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      335,
+      42,
+      1,
+      "Github",
+      "Add Copilot instructions for repository by Copilot · Pull Request #6 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      336,
+      42,
+      1,
+      "doggon.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      337,
+      42,
+      1,
+      "facebook.com",
+      "Dogs in Carts in Kamloops | Really happy with the improvement in adding the front wheels | Facebook - High memory usage - 1.6 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      338,
+      42,
+      1,
+      "Visual Studio Code",
+      "animal_map.from_appointments.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      339,
+      41,
+      1,
+      "Blank Web Browser",
+      "RescueTime - Your Daily dashboard - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      340,
+      41,
+      1,
+      "Visual Studio Code",
+      "vetspire_animals_missing_in_ezy.1.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      341,
+      41,
+      1,
+      "Visual Studio Code",
+      "vetspire_vitals_payloads.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      342,
+      41,
+      1,
+      "Blank Web Browser",
+      "Meet - 2nd Annual Holiday Party",
+      "Internet Utilities",
+      1
+    ],
+    [
+      343,
+      40,
+      1,
+      "mobile - com.google.android.apps.weather",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      344,
+      40,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage  - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      345,
+      40,
+      1,
+      "Cursor",
+      "breed_map.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      346,
+      39,
+      1,
+      "Cursor",
+      "No Details",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      347,
+      39,
+      1,
+      "Github",
+      "Pull requests · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      348,
+      39,
+      1,
+      "Gmail",
+      "Home Energy Evaluation - 2339 Parkcrest Ave, Kamloops - hdsheena@gmail.com - Gmail - High memory usage - 1.3 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      349,
+      39,
+      1,
+      "Visual Studio Code",
+      "cxmlSamplePatterson.xml — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      350,
+      39,
+      1,
+      "Cursor",
+      "Animal_Export [hmrah.use1.ezyvet.com].csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      351,
+      38,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 3.7 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      352,
+      38,
+      1,
+      "Github",
+      "Billing Overview - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      353,
+      38,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      354,
+      38,
+      1,
+      "Github",
+      "[WIP] Fix merge artifacts in justSendContactToEzy.py · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      355,
+      38,
+      1,
+      "Github",
+      "Reorganize repository: move deprecated one-off scripts and data to to-remove directory · Task · GitHub Copilot - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      356,
+      38,
+      1,
+      "Github",
+      "[WIP] Set up Copilot instructions for repository by Copilot · Pull Request #6 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      357,
+      38,
+      1,
+      "Github",
+      "[WIP] Integrate logic from justsend into post_contact_to_ezy by Copilot · Pull Request #8 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      358,
+      38,
+      1,
+      "Blank Web Browser",
+      "connecting to shepherd throws an error in the ui on Inventory Ally - Bugs | Trello - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      359,
+      37,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 23 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      360,
+      37,
+      1,
+      "facebook.com",
+      "Horrifying reality of what airport... - Just for Jokes and Fun | Facebook - High memory usage - 1.0 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      361,
+      37,
+      1,
+      "facebook.com",
+      "Sarah Rose | Facebook - High memory usage - 2.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      362,
+      37,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 9 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      363,
+      37,
+      1,
+      "Visual Studio Code",
+      "bulk_update_consult_animals.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      364,
+      37,
+      1,
+      "Visual Studio Code",
+      "contact_id_mapping.json (Working Tree) (contact_id_mapping.json) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      365,
+      36,
+      1,
+      "Github",
+      "[WIP] Review functions for handling 429 errors from ezyvet API · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      366,
+      36,
+      1,
+      "Github",
+      "Billing Usage - High memory usage - 1.1 GB - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      367,
+      36,
+      1,
+      "Blank Web Browser",
+      "Inventory Ally - Bugs | Trello - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      368,
+      36,
+      1,
+      "Visual Studio Code",
+      "flatten_sectionsjson.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      369,
+      36,
+      1,
+      "Visual Studio Code",
+      "test_inspect_no_sample_fallback.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      370,
+      35,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 10 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      371,
+      35,
+      1,
+      "Blank Web Browser",
+      "Inventory Ally | Trello - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      372,
+      35,
+      1,
+      "Github",
+      "Add ezyVet v2 appointments fetching and comparison with Vetspire · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      373,
+      35,
+      1,
+      "Finder",
+      "Downloads",
+      "General Utilities",
+      1
+    ],
+    [
+      374,
+      35,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.active_with_inactive_contact.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      375,
+      35,
+      1,
+      "Github",
+      "Implement species map loading for strict animal matching in appointment resolution by Copilot · Pull Request #10 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      376,
+      34,
+      1,
+      "Visual Studio Code",
+      "vetspire_all_contacts.1.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      377,
+      34,
+      1,
+      "dbeaver",
+      "DBeaver 25.3.0 - CreateMappedOrderRecommendationsTable",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      378,
+      34,
+      1,
+      "Blank Web Browser",
+      "evc-prod-app - Microsoft Azure - Part of group product - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      379,
+      34,
+      1,
+      "Cursor",
+      "settings.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      380,
+      34,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 12 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      381,
+      34,
+      1,
+      "Visual Studio Code",
+      "extract_encounter_section_schema.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      382,
+      34,
+      1,
+      "Github",
+      "Device Activation - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      383,
+      33,
+      1,
+      "facebook.com",
+      "📣 Big Day for Animal PT... - Animal Physical Therapy Coalition - APTC | Facebook - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      384,
+      33,
+      1,
+      "Gmail",
+      "PSS INFO SHEET - hdsheena@gmail.com - Gmail - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      385,
+      33,
+      1,
+      "Github",
+      "Port retry logic and deduplication from justSendContactToEzy to post_contact_to_ezy and add batch contact posting by Copilot · Pull Request #8 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      386,
+      33,
+      1,
+      "Blank Web Browser",
+      "time_tracking_rules.md — rescuetime-mcp [Codespaces: super-duper bassoon] — Visual Studio Code - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      387,
+      33,
+      1,
+      "Google Documents",
+      "Desilets dog wanted post - Google Docs - Google Chrome",
+      "Writing",
+      2
+    ],
+    [
+      388,
+      33,
+      1,
+      "facebook.com",
+      "Kamloops Dog Group | Does anyone have a couple of greenies pill pockets I could have or trade for | Facebook - High memory usage - 1.8 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      389,
+      33,
+      1,
+      "Gmail",
+      "Fwd: ZyVet + Inventory Ally update - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.4 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      390,
+      33,
+      1,
+      "RescueTime",
+      "RescueTime",
+      "Intelligence",
+      2
+    ],
+    [
+      391,
+      32,
+      1,
+      "Slack",
+      "Aimee (DM) - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      392,
+      32,
+      1,
+      "Blank Web Browser",
+      "contact_activation.py — vetspire-to-ezyvet [Codespaces: effective xylophone] — Visual Studio Code - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      393,
+      32,
+      1,
+      "portal.azure.com",
+      "functions-ezyvet-transactions-prod (evcprodsb/functions-ezyvet-transactions-prod) - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      394,
+      32,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - Audio playing - High memory usage - 2.2 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      395,
+      32,
+      1,
+      "rescuetime.com",
+      "RescueTime - API Documentation - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      396,
+      32,
+      1,
+      "Slack",
+      "general (Channel) - Digitail Ecosystem & API - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      397,
+      31,
+      1,
+      "Visual Studio Code",
+      "future_reservation_ids.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      398,
+      31,
+      1,
+      "rescuetime.com",
+      "RescueTime - Timesheets settings - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      399,
+      31,
+      1,
+      "lesscancer.org",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      400,
+      31,
+      1,
+      "users",
+      "Pre Surgical Screening-RIH- IH #814428 - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      401,
+      31,
+      1,
+      "Github",
+      "GitHub · Where software is built - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      402,
+      30,
+      1,
+      "Gmail",
+      "Inventory Ally/Patterson Test PO - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.3 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      403,
+      30,
+      1,
+      "Visual Studio Code",
+      "order-review-finalized.component.html — evc",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      404,
+      30,
+      1,
+      "iWork Numbers",
+      "Animals-2025-12-10-12-47-30",
+      "General Business",
+      2
+    ],
+    [
+      405,
+      30,
+      1,
+      "facebook.com",
+      "Karen Rayne - Today in my last college class of the semester, one... | Facebook - High memory usage - 2.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      406,
+      30,
+      1,
+      "myhealthportal.interiorhealth.ca",
+      "No Details",
+      "General Business",
+      2
+    ],
+    [
+      407,
+      29,
+      1,
+      "Google Calendar for Android",
+      "No Details",
+      "Calendars",
+      1
+    ],
+    [
+      408,
+      29,
+      1,
+      "Github",
+      "Analysis: Document refactoring changes to justSendContactToEzy.py from PR #2 · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      409,
+      29,
+      1,
+      "Visual Studio Code",
+      "vetspire_contacts_missing_in_ezy.addresses.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      410,
+      29,
+      1,
+      "google.com",
+      "entyce canada - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      411,
+      29,
+      1,
+      "facebook.com",
+      "ord road train dog - Search Results | Facebook - High memory usage - 2.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      412,
+      29,
+      1,
+      "Visual Studio Code",
+      "vetspire_visit_history.progress.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      413,
+      29,
+      1,
+      "Visual Studio Code",
+      "appointments_handoff_dedup.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      414,
+      28,
+      1,
+      "Visual Studio Code",
+      "Contacts-2025-12-10-12-52-35.csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      415,
+      28,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Canine Rehab Cases and Q&A | Facebook - Audio playing - High memory usage - 1.8 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      416,
+      28,
+      1,
+      "Visual Studio Code",
+      "vetspire_inactive_future_appointments.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      417,
+      28,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 10 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      418,
+      28,
+      1,
+      "facebook.com",
+      "Ivana Komljenovic | Facebook - High memory usage - 1.2 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      419,
+      28,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 5 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      420,
+      27,
+      1,
+      "Visual Studio Code",
+      "fetch_vetspire_reservations_batch.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      421,
+      27,
+      1,
+      "Visual Studio Code",
+      "post_appointment_to_ezyvet.py (fe3dd9e) ↔ post_appointment_to_ezyvet.py (c989387) (post_appointment_to_ezyvet.py) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      422,
+      27,
+      1,
+      "portal.azure.com",
+      "functions-vetcove-orders-prod (evcprodsb/functions-vetcove-orders-prod) - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      423,
+      27,
+      1,
+      "Github",
+      "Refactor: Extract nested functions and decompose massive main functions · Task · GitHub Copilot - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      424,
+      27,
+      1,
+      "portal.azure.com",
+      "functions-order-recommendation-generator (evcprodsb/functions-order-recommendation-generator) - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      425,
+      27,
+      1,
+      "Blank Web Browser",
+      "Want List enhancement: Public access on secure link on Inventory Ally - Backlog | Trello - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      426,
+      27,
+      1,
+      "Slack",
+      "Adrian Bishline, Aimee, Sophia (DM) - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      427,
+      26,
+      1,
+      "Github",
+      "Compare · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      428,
+      26,
+      1,
+      "Microsoft Teams",
+      "Microsoft Teams meeting | Microsoft Teams",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      429,
+      26,
+      1,
+      "Slack",
+      "No Details",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      430,
+      26,
+      1,
+      "Github",
+      "Addressing comment on PR #3 · hdsheena/vetspire-to-ezyvet@ac4cddf - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      431,
+      26,
+      1,
+      "Visual Studio Code",
+      "history_to_ezyvet_csv.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      432,
+      26,
+      1,
+      "Gmail",
+      "Fwd: Hope Mills Rd | Vetspire/ezyVet PIMS Conversion | Private API Integration Request (Trial Env. access) - hdsheena@gmail.com - Gmail - High memory usage - 1.3 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      433,
+      26,
+      1,
+      "dbeaver",
+      "Confirm query execution",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      434,
+      26,
+      1,
+      "Visual Studio Code",
+      "appointment_comparison.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      435,
+      26,
+      1,
+      "Visual Studio Code",
+      "Untitled-1 — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      436,
+      25,
+      1,
+      "rescuetime.com",
+      "RescueTime - Your Daily dashboard - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      437,
+      25,
+      1,
+      "Gmail",
+      "Ghislaine ~ surgery information - hdsheena@gmail.com - Gmail - High memory usage - 1.4 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      438,
+      25,
+      1,
+      "reddit.com",
+      "Can Github copilot agent resolve merge conflicts? : r/GithubCopilot - Google Chrome",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      439,
+      25,
+      1,
+      "Terminal",
+      "No Details",
+      "Systems Operations",
+      2
+    ],
+    [
+      440,
+      25,
+      1,
+      "facebook.com",
+      "Kamloops Dog Group | Does anyone have a couple of greenies pill pockets I could have or trade for | Facebook - High memory usage - 2.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      441,
+      25,
+      1,
+      "Github",
+      "Refactor: Extract nested functions and decompose massive main functions · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      442,
+      25,
+      1,
+      "Slack",
+      "Emmitt (DM) - Veterinary Care Logistics - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      443,
+      24,
+      1,
+      "facebook.com",
+      "Messenger | Facebook - High memory usage - 2.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      444,
+      24,
+      1,
+      "Visual Studio Code",
+      "vetspire_all_contacts_without_historicalid.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      445,
+      24,
+      1,
+      "health-products.canada.ca",
+      "No Details",
+      "General Business",
+      2
+    ],
+    [
+      446,
+      24,
+      1,
+      "Gmail",
+      "Get pre-meeting briefs in Chat - Chat - Part of group product - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      447,
+      24,
+      1,
+      "google.com",
+      "whats the tech behind the fart machine at the airport - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      448,
+      24,
+      1,
+      "Google Docs: Drive",
+      "No Details",
+      "General Business",
+      2
+    ],
+    [
+      449,
+      24,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - Audio playing - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      450,
+      24,
+      1,
+      "Gmail",
+      "Fwd: Hope Mills Rd | Vetspire/ezyVet PIMS Conversion | Private API Integration Request (Trial Env. access) - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      451,
+      24,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Canine Rehab Cases and Q&A | Facebook - Audio playing - High memory usage - 1.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      452,
+      23,
+      1,
+      "Visual Studio Code",
+      "vetspire_contacts.already_exists.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      453,
+      23,
+      1,
+      "Visual Studio Code",
+      "consult_user_map.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      454,
+      23,
+      1,
+      "Google Spreadsheets",
+      "Inventory Ally - Master Dist. Coding.xlsx - Google Sheets - Part of group product - Google Chrome",
+      "General Business",
+      2
+    ],
+    [
+      455,
+      23,
+      1,
+      "Github",
+      "Analysis: Document refactoring changes to justSendContactToEzy.py from PR #2 · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      456,
+      23,
+      1,
+      "Blank Web Browser",
+      "hmrah_work_hours_by_date.md — rescuetime-mcp [Codespaces: super-duper bassoon] — Visual Studio Code - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      457,
+      23,
+      1,
+      "Github",
+      "ebowman/rescuetime-mcp: MCP interface to the rescuetime API - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      458,
+      23,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - 9 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      459,
+      23,
+      1,
+      "clubhouse.ca",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      460,
+      23,
+      1,
+      "Play Store",
+      "No Details",
+      "General Shopping",
+      -2
+    ],
+    [
+      461,
+      23,
+      1,
+      "Visual Studio Code",
+      "reservation_213206.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      462,
+      23,
+      1,
+      "home assistant",
+      "No Details",
+      "Other",
+      0
+    ],
+    [
+      463,
+      23,
+      1,
+      "Visual Studio Code",
+      "post_animal_to_ezyvet.py (b7f71f8) ↔ post_animal_to_ezyvet.py (b4d8ef3) (post_animal_to_ezyvet.py) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      464,
+      22,
+      1,
+      "dbeaver",
+      "DBeaver 25.3.0 - updateDefaultVendor",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      465,
+      22,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - 3 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      466,
+      22,
+      1,
+      "portal.azure.com",
+      "Prod Database Auto Dashboard - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      467,
+      22,
+      1,
+      "Github",
+      "New Issue - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      468,
+      22,
+      1,
+      "Gmail",
+      "Inbox - hdsheena@gmail.com - Gmail - High memory usage - 1.3 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      469,
+      22,
+      1,
+      "facebook.com",
+      "kamloops dog hit by train - Search Results | Facebook - High memory usage - 2.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      470,
+      21,
+      1,
+      "Visual Studio Code",
+      "vetspire_contacts_missing_in_ezy.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      471,
+      21,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - Audio playing - High memory usage - 1.8 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      472,
+      21,
+      1,
+      "Blank Web Browser",
+      "Heap | Mobile and Web Analytics - High memory usage - 1.0 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      473,
+      21,
+      1,
+      "Gmail",
+      "Inbox - hdsheena@gmail.com - Gmail - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      474,
+      21,
+      1,
+      "Github",
+      "Branches · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      475,
+      21,
+      1,
+      "portal.azure.com",
+      "functions-eqoh-prod (evcprodsb/functions-eqoh-prod) - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      476,
+      21,
+      1,
+      "Slack",
+      "Debra Noble (DM) - Veterinary Care Logistics - 5 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      477,
+      21,
+      1,
+      "Visual Studio Code",
+      "patterson-initial_20251125.csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      478,
+      21,
+      1,
+      "iWork Numbers",
+      "Animal_Export [hmrah.use1.ezyvet.com]",
+      "General Business",
+      2
+    ],
+    [
+      479,
+      21,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 3.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      480,
+      21,
+      1,
+      "Activity Monitor",
+      "No Details",
+      "General Utilities",
+      1
+    ],
+    [
+      481,
+      20,
+      1,
+      "facebook.com",
+      "Veterinary Inventory Management Group | Considering starting a veterinary consulting business……curious to know if there is a need | Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      482,
+      20,
+      1,
+      "Blank Web Browser",
+      "RescueTime MCP Server by ebowman | Glama - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      483,
+      20,
+      1,
+      "Github",
+      "Billing Usage - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      484,
+      20,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - 6 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      485,
+      20,
+      1,
+      "Github",
+      "Comparing main...copilot/refactor-large-main-functions · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      486,
+      20,
+      1,
+      "Finder",
+      "No Details",
+      "General Utilities",
+      1
+    ],
+    [
+      487,
+      19,
+      1,
+      "mobile - com.android.intentresolver",
+      "No Details",
+      "General Utilities",
+      1
+    ],
+    [
+      488,
+      19,
+      1,
+      "Github",
+      "Refactor functions to use single return point for easier debugging by Copilot · Pull Request #14 · hdsheena/vetspire-to-ezyvet - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      489,
+      19,
+      1,
+      "Github",
+      "Implement comprehensive 429 (Too Many Requests) handling in EzyVetAPIClient and eliminate raw requests usage · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      490,
+      19,
+      1,
+      "facebook.com",
+      "We will need transport for our little Jiminy... - Riverhouse Rescue | Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      491,
+      19,
+      1,
+      "Visual Studio Code",
+      "validate_animal_id_mapping.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      492,
+      19,
+      1,
+      "Blank Web Browser",
+      "ezyVet | HOPE MILLS ROAD ANIMAL HOSPITAL - Part of group conversion - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      493,
+      19,
+      1,
+      "amazon.ca",
+      "No Details",
+      "Office",
+      0
+    ],
+    [
+      494,
+      19,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - Audio playing - High memory usage - 1.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      495,
+      19,
+      1,
+      "Slack",
+      "Adrian Bishline, Aimee, Sophia (DM) - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      496,
+      19,
+      1,
+      "facebook.com",
+      "Zero Waste Kamloops | Facebook - High memory usage - 3.2 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      497,
+      18,
+      1,
+      "Slack",
+      "Emmitt, Sophia (DM) - Veterinary Care Logistics - 5 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      498,
+      18,
+      1,
+      "Visual Studio Code",
+      "clinical_payload_utils.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      499,
+      18,
+      1,
+      "portal.azure.com",
+      "Inv Ally Demo/Q&A | anonymous | Microsoft Teams",
+      "Systems Operations",
+      2
+    ],
+    [
+      500,
+      18,
+      1,
+      "Visual Studio Code",
+      "ezyvet_appointments.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      501,
+      18,
+      1,
+      "Gmail",
+      "It's time to review your home insurance. - hdsheena@gmail.com - Gmail - High memory usage - 1.3 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      502,
+      18,
+      1,
+      "Cursor",
+      "vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      503,
+      17,
+      1,
+      "Gmail",
+      "Fwd: ZyVet + Inventory Ally update - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.5 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      504,
+      17,
+      1,
+      "Github",
+      "[WIP] Organize repository by removing unused files · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      505,
+      17,
+      1,
+      "Visual Studio Code",
+      "post_visit_history.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      506,
+      17,
+      1,
+      "Gmail",
+      "LIVE 🎙 today! Join Us, 3pm Eastern - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      507,
+      17,
+      1,
+      "Visual Studio Code",
+      "post_appointments_batch.py (fe3dd9e) ↔ post_appointments_batch.py (c989387) (post_appointments_batch.py) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      508,
+      17,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Helpful video on wheelchairs.Comment #wheels & I’ll share 🔗 | Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      509,
+      17,
+      1,
+      "pawesomept.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      510,
+      17,
+      1,
+      "facebook.com",
+      "The Overwhelmed Vet Tech | Facebook - High memory usage - 1.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      511,
+      17,
+      1,
+      "Visual Studio Code",
+      "sessions.pyi — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      512,
+      17,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 2.8 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      513,
+      17,
+      1,
+      "dbeaver",
+      "No Details",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      514,
+      16,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      515,
+      16,
+      1,
+      "Blank Web Browser",
+      "Vetspire - Part of group conversion - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      516,
+      16,
+      1,
+      "facebook.com",
+      "Video | Facebook - High memory usage - 1.2 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      517,
+      16,
+      1,
+      "Blank Web Browser",
+      "hmrah_work_summary_nov1_dec10.md — rescuetime-mcp [Codespaces: super-duper bassoon] — Visual Studio Code - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      518,
+      16,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Canine Rehab Cases and Q&A | Facebook - Audio playing - High memory usage - 2.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      519,
+      16,
+      1,
+      "Visual Studio Code",
+      "test_visit_history_api.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      520,
+      15,
+      1,
+      "Visual Studio Code",
+      "contacts_batch_failures.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      521,
+      15,
+      1,
+      "Gmail",
+      "Inbox - hdsheena@gmail.com - Gmail - High memory usage - 1.0 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      522,
+      15,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.progress.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      523,
+      15,
+      1,
+      "Blank Web Browser",
+      "heap - Google Search - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      524,
+      15,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Canine Rehab Cases and Q&A | Facebook - Audio playing - High memory usage - 1.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      525,
+      15,
+      1,
+      "facebook.com",
+      "KAMLOOPS MISSING PETS | Facebook - High memory usage - 1.8 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      526,
+      15,
+      1,
+      "Visual Studio Code",
+      "filter_vitals_by_inserted_at.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      527,
+      15,
+      1,
+      "Visual Studio Code",
+      "fetch_vetspire_contacts.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      528,
+      15,
+      1,
+      "iWork Numbers",
+      "Animal_Export [hmrah.use1.ezyvet.com] (1)",
+      "General Business",
+      2
+    ],
+    [
+      529,
+      15,
+      1,
+      "Blank Web Browser",
+      "rescuetime mcp - Google Search - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      530,
+      15,
+      1,
+      "Github",
+      "Your profile - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      531,
+      15,
+      1,
+      "Github",
+      "Refactor: Extract nested functions and decompose massive main functions · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      532,
+      15,
+      1,
+      "Slack",
+      "inventory-ally (Channel) - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      533,
+      14,
+      1,
+      "facebook.com",
+      "I believe that if you are healthy and have a... - Spencer Greenberg | Facebook - High memory usage - 1.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      534,
+      14,
+      1,
+      "Cursor",
+      "species_map.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      535,
+      14,
+      1,
+      "Gmail",
+      "Chartwell Kamloops - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      536,
+      14,
+      1,
+      "dbeaver",
+      "DBeaver 25.3.0 - EVC_-_FIX_ALERTS.sql",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      537,
+      14,
+      1,
+      "docs.github.com",
+      "No Details",
+      "General Software Development",
+      2
+    ],
+    [
+      538,
+      14,
+      1,
+      "google.com",
+      "can github agent resolve conflicts - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      539,
+      14,
+      1,
+      "Slack",
+      "Ashley (DM) - Veterinary Care Logistics - 5 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      540,
+      14,
+      1,
+      "Blank Web Browser",
+      "Budgets - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      541,
+      14,
+      1,
+      "Visual Studio Code",
+      "test_email_utils.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      542,
+      14,
+      1,
+      "Visual Studio Code",
+      "appointment_resource_type_failures.dec9bak.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      543,
+      14,
+      1,
+      "Github",
+      "✨ Set up Copilot instructions · Issue #5 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      544,
+      14,
+      1,
+      "Github",
+      "Query encounters by appointment date range instead of sample file · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      545,
+      14,
+      1,
+      "Github",
+      "[WIP] Update fetch_visit_history to retrieve recent pet encounters · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      546,
+      14,
+      1,
+      "portal.azure.com",
+      "evc-prod-sql - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      547,
+      14,
+      1,
+      "Slack",
+      "intercom-new-sign-up (Channel) - Veterinary Care Logistics - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      548,
+      14,
+      1,
+      "facebook.com",
+      "The Pulse Beneath the Skin | Facebook - High memory usage  - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      549,
+      13,
+      1,
+      "Blank Web Browser",
+      "generated post-finalize pdf isnt alphabetical anymore on Inventory Ally - Bugs | Trello - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      550,
+      13,
+      1,
+      "Github",
+      "Analysis: Document refactoring changes to justSendContactToEzy.py from PR #2 by Copilot · Pull Request #4 · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      551,
+      13,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 16 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      552,
+      13,
+      1,
+      "Github",
+      "Reorganize repository: move deprecated one-off scripts and data to to-remove directory by Copilot · Pull Request #1 · hdsheena/vetspire-to-ezyvet - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      553,
+      13,
+      1,
+      "Github",
+      "[WIP] Refactor files with large main functions and nested functions · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      554,
+      13,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 3.0 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      555,
+      13,
+      1,
+      "facebook.com",
+      "Messenger | Facebook - High memory usage - 1.9 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      556,
+      13,
+      1,
+      "Slack",
+      "Emmitt, Sophia (DM) - Veterinary Care Logistics - 16 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      557,
+      13,
+      1,
+      "Github",
+      "Refactor functions to use single return point for easier debugging · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      558,
+      13,
+      1,
+      "Slack",
+      "Emmitt, Sophia (DM) - Veterinary Care Logistics - 15 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      559,
+      13,
+      1,
+      "Blank Web Browser",
+      "post_animals_batch.py — vetspire-to-ezyvet [Codespaces: effective xylophone] — Visual Studio Code - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      560,
+      13,
+      1,
+      "Gmail",
+      "No Details",
+      "Email",
+      1
+    ],
+    [
+      561,
+      13,
+      1,
+      "Gmail",
+      "Inbox - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.4 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      562,
+      13,
+      1,
+      "Gmail",
+      "Get pre-meeting briefs in Chat - Chat - Part of group product - High memory usage - 1.3 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      563,
+      13,
+      1,
+      "facebook.com",
+      "Kamloops Dog Group | Does anyone have a couple of greenies pill pockets I could have or trade for | Facebook - High memory usage - 2.0 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      564,
+      13,
+      1,
+      "Github",
+      "Use a saved passkey for github.com",
+      "General Software Development",
+      2
+    ],
+    [
+      565,
+      13,
+      1,
+      "Slack",
+      "Later - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      566,
+      12,
+      1,
+      "Visual Studio Code",
+      "post_contact_to_ezy.py (cd26a56) ↔ post_contact_to_ezy.py (c9b608e) (post_contact_to_ezy.py) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      567,
+      12,
+      1,
+      "Visual Studio Code",
+      "species_map.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      568,
+      12,
+      1,
+      "Blank Web Browser",
+      "evc-prod-app - Microsoft Azure - Part of group product - High memory usage - 1.3 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      569,
+      12,
+      1,
+      "developer.vetspire.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      570,
+      12,
+      1,
+      "mypetstore.telushealth.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      571,
+      12,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 12 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      572,
+      12,
+      1,
+      "civtedu.org",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      573,
+      12,
+      1,
+      "Github",
+      "vetspire-to-ezyvet/src at main · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      574,
+      12,
+      1,
+      "Visual Studio Code",
+      "address_mismatch.log — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      575,
+      12,
+      1,
+      "Blank Web Browser",
+      "evcprodsb - Microsoft Azure - Part of group product - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      576,
+      12,
+      1,
+      "facebook.com",
+      "Messenger | Facebook - High memory usage - 2.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      577,
+      12,
+      1,
+      "google.com",
+      "ezyvet patient code prefix - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      578,
+      12,
+      1,
+      "postman",
+      "Clinical - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      579,
+      12,
+      1,
+      "rescuetime.com",
+      "RescueTime - API Key Setup Summary - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      580,
+      12,
+      1,
+      "Gmail",
+      "Fwd: Hope Mills Rd | Vetspire/ezyVet PIMS Conversion | Private API Integration Request (Trial Env. access) - hdsheena@gmail.com - Gmail - High memory usage - 1.0 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      581,
+      12,
+      1,
+      "Cursor",
+      "trello.py",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      582,
+      12,
+      1,
+      "Gmail",
+      "Inbox - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.5 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      583,
+      12,
+      1,
+      "Blank Web Browser",
+      "Inbox (2,981) - hdsheena@gmail.com - Gmail - High memory usage - 1.4 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      584,
+      12,
+      1,
+      "Gmail",
+      "med instructions - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      585,
+      12,
+      1,
+      "iWork Numbers",
+      "No Details",
+      "General Business",
+      2
+    ],
+    [
+      586,
+      11,
+      1,
+      "Github",
+      "Add post_contact_batch.py wrapper for singular naming consistency · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      587,
+      11,
+      1,
+      "Visual Studio Code",
+      "test_build_ezyvet_payloads_consult_description.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      588,
+      11,
+      1,
+      "Gmail",
+      "Front attachment replacement struts - Walkin' Pets - Contact Us - hdsheena@gmail.com - Gmail - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      589,
+      11,
+      1,
+      "Gmail",
+      "Inbox - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      590,
+      11,
+      1,
+      "Visual Studio Code",
+      "animal_id_mapping.bak2.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      591,
+      11,
+      1,
+      "google.com",
+      "greenies pill pockets - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      592,
+      11,
+      1,
+      "Visual Studio Code",
+      "fetch_visit_history.py (changes from chat) (fetch_visit_history.py) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      593,
+      11,
+      1,
+      "facebook.com",
+      "KAMLOOPS MISSING PETS | Facebook - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      594,
+      11,
+      1,
+      "Visual Studio Code",
+      "__init__.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      595,
+      11,
+      1,
+      "Blank Web Browser",
+      "Inventory Ally - Bugs | Trello - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      596,
+      11,
+      1,
+      "facebook.com",
+      "Emily Nogle | Facebook - High memory usage - 1.6 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      597,
+      11,
+      1,
+      "Blank Web Browser",
+      "hmrah_work_hours_by_date.md — rescuetime-mcp [Codespaces: super-duper bassoon] — Visual Studio Code - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      598,
+      11,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - High memory usage - 1.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      599,
+      11,
+      1,
+      "Blank Web Browser",
+      "meet.google.com is sharing your screen.",
+      "Internet Utilities",
+      1
+    ],
+    [
+      600,
+      11,
+      1,
+      "storeuid",
+      "No Details",
+      "General Utilities",
+      1
+    ],
+    [
+      601,
+      11,
+      1,
+      "Blank Web Browser",
+      "New Tab - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      602,
+      11,
+      1,
+      "cdmv.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      603,
+      11,
+      1,
+      "Gmail",
+      "Get pre-meeting briefs in Chat - Chat - Part of group product - High memory usage - 1.1 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      604,
+      11,
+      1,
+      "Gmail",
+      "⚠️ Your Goodfood Delivery ⚠️ - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      605,
+      11,
+      1,
+      "google.com",
+      "Google Image Result - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      606,
+      11,
+      1,
+      "Github",
+      "Comparing main...main · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      607,
+      11,
+      1,
+      "portal.azure.com",
+      "evc-prod-db (evc-prod-sql/evc-prod-db) - Microsoft Azure - Part of group product - High memory usage  - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      608,
+      11,
+      1,
+      "facebook.com",
+      "Facebook - High memory usage - 3.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      609,
+      11,
+      1,
+      "google.com",
+      "jenny moe - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      610,
+      10,
+      1,
+      "Visual Studio Code",
+      "appointments_handoff_dedup_filtered.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      611,
+      10,
+      1,
+      "google.com",
+      "clobhouse lemon and herbs - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      612,
+      10,
+      1,
+      "Visual Studio Code",
+      "check_appointment_values.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      613,
+      10,
+      1,
+      "portal.azure.com",
+      "functions-rebuild-index-command (evcprodsb/functions-rebuild-index-command) - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      614,
+      10,
+      1,
+      "amazon.com",
+      "Amazon.com : Yes4All Balance Pad Massage/Yoga Pad with Foot Massage Mat for Physical Therapy and Fitness Workout Training, Suitable for Home, Work, Rehabilitation- Purple X-Large : Sports & Outdoors - Google Chrome",
+      "General Shopping",
+      -2
+    ],
+    [
+      615,
+      10,
+      1,
+      "homedepot.ca",
+      "No Details",
+      "Home & Garden",
+      0
+    ],
+    [
+      616,
+      10,
+      1,
+      "dbeaver",
+      "DBeaver 25.3.0 - RunDomoSPs",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      617,
+      10,
+      1,
+      "Cursor",
+      "Extension: GitHub Copilot Chat — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      618,
+      10,
+      1,
+      "Visual Studio Code",
+      "InventoryExtensions.cs — evc",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      619,
+      10,
+      1,
+      "rescuetime.com",
+      "RescueTime - effective-xylophone-p7pwqqvv9jc966j.github.dev - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      620,
+      10,
+      1,
+      "portal.azure.com",
+      "evcprodftp - Microsoft Azure - Part of group product - High memory usage - 1.2 GB - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      621,
+      10,
+      1,
+      "facebook.com",
+      "Living with Dogs with Disabilities | Canine Rehab Cases and Q&A | Facebook - Audio playing - High memory usage - 1.6 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      622,
+      10,
+      1,
+      "portal.azure.com",
+      "patterson-orders - Microsoft Azure - Part of group product - High memory usage - 1.2 GB - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      623,
+      10,
+      1,
+      "Gmail",
+      "Inv Ally Demo/Q&A | anonymous | Microsoft Teams",
+      "Email",
+      1
+    ],
+    [
+      624,
+      10,
+      1,
+      "Blank Web Browser",
+      "RescueTime - Blank Web Browser - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      625,
+      10,
+      1,
+      "iWork Numbers",
+      "Open",
+      "General Business",
+      2
+    ],
+    [
+      626,
+      9,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 24 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      627,
+      9,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - Audio playing - High memory usage - 1.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      628,
+      9,
+      1,
+      "Terminal",
+      "m4mbp — -zsh",
+      "Systems Operations",
+      2
+    ],
+    [
+      629,
+      9,
+      1,
+      "Github",
+      "Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      630,
+      9,
+      1,
+      "Blank Web Browser",
+      "(1) Messenger | Facebook - High memory usage - 1.7 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      631,
+      9,
+      1,
+      "meet.google.com",
+      "No Details",
+      "Meetings",
+      1
+    ],
+    [
+      632,
+      9,
+      1,
+      "Microsoft Teams",
+      "Microsoft Teams",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      633,
+      9,
+      1,
+      "Gmail",
+      "Search results - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      634,
+      9,
+      1,
+      "Cursor",
+      "Update sex map data — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      635,
+      9,
+      1,
+      "Github",
+      "Confirm access - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      636,
+      9,
+      1,
+      "Slack",
+      "Emmitt (DM) - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      637,
+      9,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      638,
+      9,
+      1,
+      "Blank Web Browser",
+      "Dog Gear Discussions | ISO leash recommendations | Facebook - High memory usage - 1.6 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      639,
+      9,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - High memory usage - 1.6 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      640,
+      9,
+      1,
+      "rescuetime.com",
+      "RescueTime - Software Development - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      641,
+      9,
+      1,
+      "Visual Studio Code",
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      642,
+      9,
+      1,
+      "Gmail",
+      "Search results - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.1 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      643,
+      9,
+      1,
+      "rescuetime.com",
+      "RescueTime - Your Monthly dashboard - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      644,
+      9,
+      1,
+      "postman",
+      "ezyVet Copy - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      645,
+      8,
+      1,
+      "Gmail",
+      "Inbox - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      646,
+      8,
+      1,
+      "Slack",
+      "intercom-new-sign-up (Channel) - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      647,
+      8,
+      1,
+      "Visual Studio Code",
+      "valueOnHandToCustify.py — evc-tools",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      648,
+      8,
+      1,
+      "google.com",
+      "dr happy kamloops - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      649,
+      8,
+      1,
+      "Visual Studio Code",
+      "vetspire_appointments.pending.dec9bak.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      650,
+      8,
+      1,
+      "mobile - com.google.android.photopicker",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      651,
+      8,
+      1,
+      "postman",
+      "Vitals - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      652,
+      8,
+      1,
+      "Blank Web Browser",
+      "producttransaction records are missing for covetrustransactions on Inventory Ally | Trello - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      653,
+      8,
+      1,
+      "youtube.com",
+      "YouTube - Google Chrome",
+      "Video",
+      -2
+    ],
+    [
+      654,
+      8,
+      1,
+      "Github",
+      "Initial plan · hdsheena/vetspire-to-ezyvet@e99de6e - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      655,
+      8,
+      1,
+      "google.com",
+      "locards principle - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      656,
+      8,
+      1,
+      "Visual Studio Code",
+      "sample_single_consult_payload.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      657,
+      8,
+      1,
+      "facebook.com",
+      "Print",
+      "General Social Networking",
+      -2
+    ],
+    [
+      658,
+      8,
+      1,
+      "rescuetime.com",
+      "Sign in to RescueTime - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      659,
+      8,
+      1,
+      "Github",
+      "hdsheena/vetspire-to-ezyvet at copilot/cleanup-repo-structure - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      660,
+      8,
+      1,
+      "Github",
+      "Implement species map loading for strict animal matching in appointment resolution · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      661,
+      8,
+      1,
+      "Visual Studio Code",
+      "vetspire_graphql_explorer.ipynb — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      662,
+      8,
+      1,
+      "Visual Studio Code",
+      "prompt_variations.py — StockOutMCP",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      663,
+      8,
+      1,
+      "Visual Studio Code",
+      "test_sections_to_encounter_map.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      664,
+      7,
+      1,
+      "Visual Studio Code",
+      ".env.prod — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      665,
+      7,
+      1,
+      "Visual Studio Code",
+      "financialDataToCustify.py — evc-tools",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      666,
+      7,
+      1,
+      "facebook.com",
+      "I believe that if you are healthy and have a... - Spencer Greenberg | Facebook - High memory usage - 1.2 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      667,
+      7,
+      1,
+      "Gmail",
+      "Search results - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      668,
+      7,
+      1,
+      "Blank Web Browser",
+      "Choose what to share with meet.google.com",
+      "Internet Utilities",
+      1
+    ],
+    [
+      669,
+      7,
+      1,
+      "vetlogic-co-2.domo.com",
+      "No Details",
+      "Intelligence",
+      2
+    ],
+    [
+      670,
+      7,
+      1,
+      "Visual Studio Code",
+      "ezyvet_match_results_run.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      671,
+      7,
+      1,
+      "portal.azure.com",
+      "evc-prod-app - Microsoft Azure - Part of group product - High memory usage - 1.2 GB - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      672,
+      7,
+      1,
+      "Finder",
+      "GitHub",
+      "General Utilities",
+      1
+    ],
+    [
+      673,
+      7,
+      1,
+      "Slack",
+      "intercom-new-sign-up (Channel) - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      674,
+      7,
+      1,
+      "Github",
+      "Initial plan · hdsheena/vetspire-to-ezyvet@421fd73 - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      675,
+      7,
+      1,
+      "facebook.com",
+      "Courtenay Watson | Facebook - High memory usage - 1.0 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      676,
+      7,
+      1,
+      "aka.ms",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      677,
+      7,
+      1,
+      "Visual Studio Code",
+      "animal_id_mapping copy.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      678,
+      7,
+      1,
+      "Visual Studio Code",
+      "Patterson-InventoryAlly_SampleFile.xlsx — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      679,
+      7,
+      1,
+      "Visual Studio Code",
+      "test_flatten_sectionsjson.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      680,
+      7,
+      1,
+      "facebook.com",
+      "Dogs in Carts in Kamloops | Really happy with the improvement in adding the front wheels | Facebook - High memory usage - 1.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      681,
+      7,
+      1,
+      "Google Documents",
+      "Untitled document - Google Docs - Google Chrome",
+      "Writing",
+      2
+    ],
+    [
+      682,
+      7,
+      1,
+      "Visual Studio Code",
+      "animal_map.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      683,
+      7,
+      1,
+      "Blank Web Browser",
+      "No Details",
+      "Internet Utilities",
+      1
+    ],
+    [
+      684,
+      7,
+      1,
+      "google.com",
+      "Zinsser Gardz - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      685,
+      7,
+      1,
+      "authenticator.cursor.sh",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      686,
+      7,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 18 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      687,
+      7,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.enriched.json (Working Tree) (vetspire_patients.enriched.json) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      688,
+      6,
+      1,
+      "Android System",
+      "No Details",
+      "General Utilities",
+      1
+    ],
+    [
+      689,
+      6,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 3 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      690,
+      6,
+      1,
+      "facebook.com",
+      "Mary Hinson | Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      691,
+      6,
+      1,
+      "Github",
+      "Authorize application - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      692,
+      6,
+      1,
+      "Visual Studio Code",
+      "fetch_visit_history.py (Working Tree) (fetch_visit_history.py) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      693,
+      6,
+      1,
+      "Github",
+      "Untitled - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      694,
+      6,
+      1,
+      "facebook.com",
+      "Lil Helper | Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      695,
+      6,
+      1,
+      "google.com",
+      "canine hip line wrap - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      696,
+      6,
+      1,
+      "Visual Studio Code",
+      "animal_id_mapping.bak.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      697,
+      6,
+      1,
+      "rescuetime.com",
+      "RescueTime - Github Integration - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      698,
+      6,
+      1,
+      "google.com",
+      "Untitled - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      699,
+      6,
+      1,
+      "Visual Studio Code",
+      "ezyvet_recent_consults.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      700,
+      6,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - 8 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      701,
+      6,
+      1,
+      "Blank Web Browser",
+      "post_animals_batch.py — vetspire-to-ezyvet [Codespaces: effective xylophone] — Visual Studio Code - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      702,
+      6,
+      1,
+      "Finder",
+      "Recents",
+      "General Utilities",
+      1
+    ],
+    [
+      703,
+      6,
+      1,
+      "google.com",
+      "Dr. Steve Marsden - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      704,
+      6,
+      1,
+      "meet.google.com",
+      "Meet - Courtenay/Sophia - Microphone recording - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      705,
+      6,
+      1,
+      "Github",
+      "hdsheena/rescuetime-mcp: MCP interface to the rescuetime API - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      706,
+      6,
+      1,
+      "Gmail",
+      "Fwd: ZyVet + Inventory Ally update - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      707,
+      6,
+      1,
+      "Blank Web Browser",
+      "Messenger | Facebook - High memory usage - 1.6 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      708,
+      6,
+      1,
+      "Visual Studio Code",
+      "demo_mapping.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      709,
+      6,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - 4 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      710,
+      6,
+      1,
+      "127.0.0.1:24282",
+      "No Details",
+      "General Software Development",
+      2
+    ],
+    [
+      711,
+      6,
+      1,
+      "Cursor",
+      "Cursor",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      712,
+      5,
+      1,
+      "Blank Web Browser",
+      "Facebook - High memory usage - 1.5 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      713,
+      5,
+      1,
+      "Blank Web Browser",
+      "contact_activation.py — vetspire-to-ezyvet [Codespaces: effective xylophone] — Visual Studio Code - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      714,
+      5,
+      1,
+      "google.com",
+      "clobhouse lemon and herbs epicure equivalent - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      715,
+      5,
+      1,
+      "Visual Studio Code",
+      "File History (vetspire_visit_history.json) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      716,
+      5,
+      1,
+      "Dictionary",
+      "No Details",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      717,
+      5,
+      1,
+      "google.com",
+      "canine hip line - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      718,
+      5,
+      1,
+      "facebook.com",
+      "Super short notice, but if anyone needs a ride... - Courtenay Watson | Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      719,
+      5,
+      1,
+      "Finder",
+      "evc-tools",
+      "General Utilities",
+      1
+    ],
+    [
+      720,
+      5,
+      1,
+      "Github",
+      "GitHub · Change is constant. GitHub keeps you ahead. · GitHub - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      721,
+      5,
+      1,
+      "facebook.com",
+      "Zero Waste Kamloops | Does anyone have dog nail clippers , dog undercoat rake for a husky , dog slicker brush and dog finishing comb | Facebook - High memory usage - 1.2 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      722,
+      5,
+      1,
+      "Visual Studio Code",
+      "animal_id_mapping.bak2 copy.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      723,
+      5,
+      1,
+      "facebook.com",
+      "Horrifying reality of what airport... - Just for Jokes and Fun | Facebook - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      724,
+      5,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 18 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      725,
+      5,
+      1,
+      "Blank Web Browser",
+      "post_contact_to_ezy.py — vetspire-to-ezyvet [Codespaces: effective xylophone] — Visual Studio Code - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      726,
+      5,
+      1,
+      "Visual Studio Code",
+      "stockOutToCustify.py — evc-tools",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      727,
+      5,
+      1,
+      "portal.azure.com",
+      "evc-prod-app - Microsoft Azure - Part of group product - High memory usage - 1.1 GB - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      728,
+      5,
+      1,
+      "Github",
+      "Spark - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      729,
+      5,
+      1,
+      "Visual Studio Code",
+      "compare_pets_in_files.py (cd26a56) ↔ compare_pets_in_files.py (c9b608e) (compare_pets_in_files.py) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      730,
+      5,
+      1,
+      "Blank Web Browser",
+      "post_contact_to_ezy.py — vetspire-to-ezyvet [Codespaces: effective xylophone] — Visual Studio Code - High memory usage - 1.1 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      731,
+      5,
+      1,
+      "Github",
+      "hdsheena (Courtenay) - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      732,
+      5,
+      1,
+      "Visual Studio Code",
+      "product_map.sample.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      733,
+      5,
+      1,
+      "Slack",
+      "Emmitt (DM) - Veterinary Care Logistics - 3 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      734,
+      5,
+      1,
+      "Gmail",
+      "Front attachment replacement struts - Walkin' Pets - Contact Us - hdsheena@gmail.com - Gmail - High memory usage - 1.0 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      735,
+      5,
+      1,
+      "Gmail",
+      "Search results - hdsheena@gmail.com - Gmail - High memory usage - 1.1 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      736,
+      5,
+      1,
+      "Blank Web Browser",
+      "(1) Messenger | Facebook - High memory usage - 1.6 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      737,
+      5,
+      1,
+      "facebook.com",
+      "jenny moe - Search Results | Facebook - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      738,
+      5,
+      1,
+      "Blank Web Browser",
+      "Get pre-meeting briefs in Chat - Chat - Part of group product - High memory usage - 1.2 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      739,
+      5,
+      1,
+      "Visual Studio Code",
+      "to-order-page.component.ts — evc",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      740,
+      5,
+      1,
+      "Visual Studio Code",
+      "consults_batch_successes.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      741,
+      5,
+      1,
+      "google.com",
+      "aerosol killz - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      742,
+      5,
+      1,
+      "portal.azure.com",
+      "in/patterson-daily_20251210.csv - Microsoft Azure - Part of group product - High memory usage  - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      743,
+      5,
+      1,
+      "Gmail",
+      "Inv Ally Test PO - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.1 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      744,
+      5,
+      1,
+      "facebook.com",
+      "Erin Lindsay | Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      745,
+      5,
+      1,
+      "google.com",
+      "theratogs - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      746,
+      5,
+      1,
+      "Github",
+      "Payment Information - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      747,
+      5,
+      1,
+      "Blank Web Browser",
+      "Login - Heap | Mobile and Web Analytics - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      748,
+      5,
+      1,
+      "google.com",
+      "ezyvet \"shelteranimalbooking\" - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      749,
+      5,
+      1,
+      "google.com",
+      "ezyvet shelteranimalbooking - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      750,
+      4,
+      1,
+      "Blank Web Browser",
+      "Do we send products to vetcove differenltly than we use for mapping and cart? it seems like it on Inventory Ally - Bugs | Trello - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      751,
+      4,
+      1,
+      "Github",
+      "Verify Session - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      752,
+      4,
+      1,
+      "Blank Web Browser",
+      "RescueTime - API Key Management - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      753,
+      4,
+      1,
+      "Gmail",
+      "New Information in Portal - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      754,
+      4,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - 10 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      755,
+      4,
+      1,
+      "google.com",
+      "10907+8541+982 - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      756,
+      4,
+      1,
+      "Visual Studio Code",
+      "File History (Animal_Export [hmrah.use1.ezyvet.com].csv) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      757,
+      4,
+      1,
+      "Visual Studio Code",
+      ".gitignore (Working Tree) (.gitignore) — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      758,
+      4,
+      1,
+      "Blank Web Browser",
+      "Heap | Mobile and Web Analytics - Heap | Mobile and Web Analytics - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      759,
+      4,
+      1,
+      "Visual Studio Code",
+      "#!/usr/bin/env python3 • Untitled-1 — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      760,
+      4,
+      1,
+      "facebook.com",
+      "kilz - Search Results | Facebook - High memory usage - 2.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      761,
+      4,
+      1,
+      "Gmail",
+      "Recent Download History",
+      "Email",
+      1
+    ],
+    [
+      762,
+      4,
+      1,
+      "Github",
+      "GitHub - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      763,
+      4,
+      1,
+      "Github",
+      "Copilot coding agent - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      764,
+      4,
+      1,
+      "Gmail",
+      "Your one-time code - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      765,
+      4,
+      1,
+      "Visual Studio Code",
+      "clients.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      766,
+      4,
+      1,
+      "login.cdmv.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      767,
+      4,
+      1,
+      "Visual Studio Code",
+      "DbSet.cs — evc",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      768,
+      4,
+      1,
+      "facebook.com",
+      "Facebook - Audio playing - High memory usage - 1.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      769,
+      4,
+      1,
+      "Github",
+      "Your Repositories - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      770,
+      4,
+      1,
+      "Gmail",
+      "Fwd: Hope Mills Rd | Vetspire/ezyVet PIMS Conversion | Private API Integration Request (Trial Env. access) - hdsheena@gmail.com - Gmail - High memory usage - 1.1 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      771,
+      4,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 6 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      772,
+      4,
+      1,
+      "Visual Studio Code",
+      "vetspire_appointments.failure.dec9bak2.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      773,
+      4,
+      1,
+      "facebook.com",
+      "Facebook - Audio playing - High memory usage  - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      774,
+      4,
+      1,
+      "Blank Web Browser",
+      "Edit monthly budget - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      775,
+      4,
+      1,
+      "rescuetime.com",
+      "RescueTime - Account settings - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      776,
+      4,
+      1,
+      "Blank Web Browser",
+      "ebowman/rescuetime-mcp: MCP interface to the rescuetime API - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      777,
+      4,
+      1,
+      "Visual Studio Code",
+      "encounter.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      778,
+      4,
+      1,
+      "portal.azure.com",
+      "in/patterson-daily_20251210.csv - Microsoft Azure - Part of group product - High memory usage - 1.2 GB - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      779,
+      4,
+      1,
+      "Github",
+      "Models - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      780,
+      4,
+      1,
+      "google chrome",
+      "hmrah_work_hours_by_date.md — rescuetime-mcp [Codespaces: super-duper bassoon] — Visual Studio Code - High memory usage - 801 MB - Google Chrome",
+      "Browsers",
+      0
+    ],
+    [
+      781,
+      4,
+      1,
+      "Slack",
+      "Aimee (DM) - Veterinary Care Logistics - 3 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      782,
+      4,
+      1,
+      "trello.com",
+      "connecting to shepherd throws an error in the ui on Inventory Ally - Bugs | Trello - High memory usage  - Google Chrome",
+      "Project Management",
+      1
+    ],
+    [
+      783,
+      3,
+      1,
+      "Slack",
+      "Activity - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      784,
+      3,
+      1,
+      "Blank Web Browser",
+      "sort want list items by date submitted on Inventory Ally - Backlog | Trello - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      785,
+      3,
+      1,
+      "Blank Web Browser",
+      "Inbox (2,983) - hdsheena@gmail.com - Gmail - High memory usage - 1.4 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      786,
+      3,
+      1,
+      "rescuetime.com",
+      "Take Control of Your Time: Automatic time tracking with RescueTime! - Google Chrome",
+      "Intelligence",
+      2
+    ],
+    [
+      787,
+      3,
+      1,
+      "meet.google.com",
+      "Meet - 2nd Annual Holiday Party - Microphone recording - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      788,
+      3,
+      1,
+      "Slack",
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      789,
+      3,
+      1,
+      "Github",
+      "Two-factor authentication · GitHub - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      790,
+      3,
+      1,
+      "accounts.google.com",
+      "Gmail - Part of group product - Google Chrome",
+      "General Communication & Scheduling",
+      0
+    ],
+    [
+      791,
+      3,
+      1,
+      "petkind.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      792,
+      3,
+      1,
+      "mobile - net.biyee.onvifer",
+      "No Details",
+      "Design & Planning",
+      2
+    ],
+    [
+      793,
+      3,
+      1,
+      "accounts.google.com",
+      "Use a saved passkey for google.com",
+      "General Communication & Scheduling",
+      0
+    ],
+    [
+      794,
+      3,
+      1,
+      "facebook.com",
+      "Courtenay Watson | Facebook - High memory usage - 1.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      795,
+      3,
+      1,
+      "reddit.com",
+      "Reddit - The heart of the internet - Google Chrome",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      796,
+      3,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - High memory usage - 2.0 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      797,
+      3,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 13 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      798,
+      3,
+      1,
+      "cursor.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      799,
+      3,
+      1,
+      "google.com",
+      "google.com/search?q=cdmv&oq=cdmv&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIGCAEQRRhAMgYIAhBFGDsyDAgDEAAYFBiHAhiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDEzOTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      800,
+      3,
+      1,
+      "Gmail",
+      "RE: Patterson + Inventory Ally Integration Discovery - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - Crashed - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      801,
+      3,
+      1,
+      "Finder",
+      "old files",
+      "General Utilities",
+      1
+    ],
+    [
+      802,
+      3,
+      1,
+      "Google Play Services",
+      "No Details",
+      "General Shopping",
+      -2
+    ],
+    [
+      803,
+      3,
+      1,
+      "postman",
+      "Animal Management - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      804,
+      3,
+      1,
+      "cotypist",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      805,
+      3,
+      1,
+      "postman",
+      "Postman",
+      "General Software Development",
+      2
+    ],
+    [
+      806,
+      3,
+      1,
+      "Visual Studio Code",
+      "user_map.sample.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      807,
+      3,
+      1,
+      "Github",
+      "Budgets - High memory usage - 1.1 GB - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      808,
+      3,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - High memory usage - 1.7 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      809,
+      3,
+      1,
+      "Gmail",
+      "Inbox - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      810,
+      3,
+      1,
+      "facebook.com",
+      "Adoptable Bro Dogs | Just a quick reminder that all posts MUST be submitted with the pinned template, which can be found in the featured tab on the group page | Facebook - High memory usage - 1.6 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      811,
+      3,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 15 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      812,
+      3,
+      1,
+      "Finder",
+      "Scripts",
+      "General Utilities",
+      1
+    ],
+    [
+      813,
+      3,
+      1,
+      "portal.azure.com",
+      "Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      814,
+      3,
+      1,
+      "Blank Web Browser",
+      "Inventory Ally/Patterson Test PO - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.2 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      815,
+      3,
+      1,
+      "Blank Web Browser",
+      "hmrah_raw_data_nov1_dec10.md — rescuetime-mcp [Codespaces: super-duper bassoon] — Visual Studio Code - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      816,
+      3,
+      1,
+      "Android Settings",
+      "No Details",
+      "General Utilities",
+      1
+    ],
+    [
+      817,
+      3,
+      1,
+      "google.com",
+      "myvetstore telus - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      818,
+      3,
+      1,
+      "Gmail",
+      "Search results - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      819,
+      3,
+      1,
+      "Gmail",
+      "Inbox - hdsheena@gmail.com - Gmail - High memory usage - 1.4 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      820,
+      3,
+      1,
+      "gemini.google.com",
+      "No Details",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      821,
+      3,
+      1,
+      "Blank Web Browser",
+      "in/patterson-daily_20251210.csv - Microsoft Azure - Part of group product - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      822,
+      3,
+      1,
+      "Visual Studio Code",
+      "vetspire_vitals.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      823,
+      3,
+      1,
+      "Blank Web Browser",
+      "(1) Messenger | Facebook - High memory usage - 1.8 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      824,
+      3,
+      1,
+      "Github",
+      "Your Repositories - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      825,
+      3,
+      1,
+      "Gmail",
+      "Search results - hdsheena@gmail.com - Gmail - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      826,
+      3,
+      1,
+      "Blank Web Browser",
+      "The page you were looking for doesn't exist – Heap Help Center | Documentation & Support - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      827,
+      2,
+      1,
+      "portal.azure.com",
+      "in/patterson-initial_20251125.csv - Microsoft Azure - Part of group product - High memory usage - 1.2 GB - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      828,
+      2,
+      1,
+      "meet.google.com",
+      "Meet - 2nd Annual Holiday Party - Audio playing - High memory usage  - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      829,
+      2,
+      1,
+      "Gmail",
+      "Inbox - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.3 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      830,
+      2,
+      1,
+      "google.com",
+      "tripett - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      831,
+      2,
+      1,
+      "Slack",
+      "Debra Noble (DM) - Veterinary Care Logistics - 6 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      832,
+      2,
+      1,
+      "portal.azure.com",
+      "evc-prod-sql - Microsoft Azure - Part of group product - High memory usage  - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      833,
+      2,
+      1,
+      "Visual Studio Code",
+      "test_inspect_fallback.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      834,
+      2,
+      1,
+      "Github",
+      "Reorganize repository: move deprecated one-off scripts and data to to-remove directory · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      835,
+      2,
+      1,
+      "mycovetrus.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      836,
+      2,
+      1,
+      "google chrome",
+      "New Tab - Google Chrome",
+      "Browsers",
+      0
+    ],
+    [
+      837,
+      2,
+      1,
+      "Terminal",
+      "Terminal — -zsh",
+      "Systems Operations",
+      2
+    ],
+    [
+      838,
+      2,
+      1,
+      "rescuetime.com",
+      "No Details",
+      "Intelligence",
+      2
+    ],
+    [
+      839,
+      2,
+      1,
+      "Blank Web Browser",
+      "New want list UI on Inventory Ally - Backlog | Trello - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      840,
+      2,
+      1,
+      "google.com",
+      "cdmv - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      841,
+      2,
+      1,
+      "Blank Web Browser",
+      "Sign in - Google Accounts - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      842,
+      2,
+      1,
+      "Blank Web Browser",
+      "Inbox (126) - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.4 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      843,
+      2,
+      1,
+      "Finder",
+      "⁨Documents⁩ — Local",
+      "General Utilities",
+      1
+    ],
+    [
+      844,
+      2,
+      1,
+      "Blank Web Browser",
+      "evc-prod-sql - Microsoft Azure - Part of group product - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      845,
+      2,
+      1,
+      "hospet.app",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      846,
+      2,
+      1,
+      "postman",
+      "Auth Prod Hope - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      847,
+      2,
+      1,
+      "Blank Web Browser",
+      "functions-rebuild-index-command (evcprodsb/functions-rebuild-index-command) - Microsoft Azure - Part of group product - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      848,
+      2,
+      1,
+      "Blank Web Browser",
+      "Action Requested: Upward Dog Rehab & Wellness - You have a form to complete - hdsheena@gmail.com - Gmail - High memory usage - 1.4 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      849,
+      2,
+      1,
+      "Slack",
+      "! Activity - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      850,
+      2,
+      1,
+      "Blank Web Browser",
+      "Heap - Better Insights. Faster. | Heap - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      851,
+      2,
+      1,
+      "google.com",
+      "rescuetime - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      852,
+      2,
+      1,
+      "teams.microsoft.com",
+      "No Details",
+      "General Communication & Scheduling",
+      0
+    ],
+    [
+      853,
+      2,
+      1,
+      "Gmail",
+      "Veterinary Care Logistics Inc. Mail - Part of group product - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      854,
+      2,
+      1,
+      "my.inventoryally.com",
+      "Inventory Ally - Google Chrome",
+      "General Business",
+      2
+    ],
+    [
+      855,
+      2,
+      1,
+      "facebook.com",
+      "Dan messaged you - High memory usage - 2.0 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      856,
+      2,
+      1,
+      "Slack",
+      "Activity - Digitail Ecosystem & API - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      857,
+      2,
+      1,
+      "Blank Web Browser",
+      "accounts.google.com/signin/oauth/consent?authuser=1&part=AJi8hAPxTxO3OCNM4QdGp9CYM9jSUnkfbcvgZRdt3ZDCNZnEALmj6E1squHPjM3EhqorOdwxv8zCxX4E1NttTB2lZ7bu8DGXVSHCRdYh3QrOconzWzARhr4fIWQ7XF7PiWLSrEgtAzTkkMmUtBhgSy9tJBvZHQjoC38YSQYuWhP3ltQ7DRi6ndOhhzY9ofAac340Mp",
+      "Internet Utilities",
+      1
+    ],
+    [
+      858,
+      2,
+      1,
+      "Visual Studio Code",
+      "test_post_contact_helpers.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      859,
+      2,
+      1,
+      "Gmail",
+      "Page Unresponsive",
+      "Email",
+      1
+    ],
+    [
+      860,
+      2,
+      1,
+      "Slack",
+      "Ashley (DM) - Veterinary Care Logistics - 7 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      861,
+      2,
+      1,
+      "screenpal.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      862,
+      2,
+      1,
+      "rescuetime.com",
+      "Check your saved passwords",
+      "Intelligence",
+      2
+    ],
+    [
+      863,
+      2,
+      1,
+      "Github",
+      "Analysis: Document refactoring changes to justSendContactToEzy.py from PR #2 · Task · GitHub Copilot - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      864,
+      2,
+      1,
+      "google.com",
+      "A 4% chlorhexidine brush/sponge is used for this purpose. The BD E-Z Scrub 747 sponge is available at most drug stores, approximate cost $2.00. - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      865,
+      2,
+      1,
+      "Gmail",
+      "Inbox - hdsheena@gmail.com - Gmail - High memory usage - 1.6 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      866,
+      2,
+      1,
+      "facebook.com",
+      "Video | Facebook - High memory usage - 2.0 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      867,
+      2,
+      1,
+      "Slack",
+      "Threads - Veterinary Care Logistics - 7 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      868,
+      2,
+      1,
+      "Blank Web Browser",
+      "Untitled - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      869,
+      2,
+      1,
+      "Github",
+      "[WIP] Set up Copilot instructions for repository · Task · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      870,
+      2,
+      1,
+      "mobile - com.viber.voip",
+      "No Details",
+      "Communications",
+      -1
+    ],
+    [
+      871,
+      2,
+      1,
+      "Visual Studio Code",
+      "email_utils.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      872,
+      2,
+      1,
+      "meet.google.com",
+      "Meet - zxr-jvwf-gbm - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      873,
+      2,
+      1,
+      "grass",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      874,
+      2,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 5 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      875,
+      2,
+      1,
+      "facebook.com",
+      "Melody messaged you - High memory usage - 1.6 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      876,
+      2,
+      1,
+      "dbeaver",
+      "Commit changes during reconnection",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      877,
+      2,
+      1,
+      "usernotificationcenter",
+      "No Details",
+      "General Utilities",
+      1
+    ],
+    [
+      878,
+      2,
+      1,
+      "portal.azure.com",
+      "functions-vendor-inventory-update (evcprodsb/functions-vendor-inventory-update) - Microsoft Azure - Part of group product - Google Chrome",
+      "Systems Operations",
+      2
+    ],
+    [
+      879,
+      2,
+      1,
+      "gemini.google.com",
+      "‎Google Gemini - Google Chrome",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      880,
+      2,
+      1,
+      "Slack",
+      "Emmitt, Mykola, Sophia (DM) - Veterinary Care Logistics - 15 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      881,
+      2,
+      1,
+      "Github",
+      "Commits · hdsheena/vetspire-to-ezyvet - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      882,
+      2,
+      1,
+      "ollama",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      883,
+      2,
+      1,
+      "avast security",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      884,
+      2,
+      1,
+      "facebook.com",
+      "ezyVet Global Support Group [Unofficial] | Facebook - High memory usage - 1.7 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      885,
+      2,
+      1,
+      "Blank Web Browser",
+      "work_analysis_nov1_dec10.md — rescuetime-mcp [Codespaces] — Visual Studio Code - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      886,
+      2,
+      1,
+      "Github",
+      "Sign in to GitHub · GitHub - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      887,
+      2,
+      1,
+      "Github",
+      "New chat · GitHub Copilot - High memory usage - 1.1 GB - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      888,
+      2,
+      1,
+      "Slack",
+      "inventory-ally (Channel) - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      889,
+      2,
+      1,
+      "Slack",
+      "Sophia (DM) - Veterinary Care Logistics - 14 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      890,
+      2,
+      1,
+      "Slack",
+      "! Adrian Bishline, Aimee, Sophia (DM) - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      891,
+      2,
+      1,
+      "Gmail",
+      "Chartwell Kamloops - hdsheena@gmail.com - Gmail - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      892,
+      2,
+      1,
+      "Slack",
+      "inventory-ally (Channel) - Veterinary Care Logistics - 3 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      893,
+      2,
+      1,
+      "dbeaver",
+      "Tip of the day",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      894,
+      2,
+      1,
+      "Github",
+      "hdsheena/rescuetime-mcp: MCP interface to the rescuetime API - High memory usage - 1.1 GB - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      895,
+      2,
+      1,
+      "Slack",
+      "! Sophia (DM) - Veterinary Care Logistics - 24 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      896,
+      2,
+      1,
+      "Finder",
+      "dev",
+      "General Utilities",
+      1
+    ],
+    [
+      897,
+      2,
+      1,
+      "google.com",
+      "airport scanner mm wave - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      898,
+      2,
+      1,
+      "Visual Studio Code",
+      ".env.test — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      899,
+      2,
+      1,
+      "Blank Web Browser",
+      "connecting to shepherd throws an error in the ui on Inventory Ally - Bugs | Trello - High memory usage  - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      900,
+      2,
+      1,
+      "Visual Studio Code",
+      "Welcome",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      901,
+      2,
+      1,
+      "Github",
+      "Port retry logic and deduplication from justSendContactToEzy to post_contact_to_ezy · Task · GitHub Copilot - High memory usage  - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      902,
+      2,
+      1,
+      "Visual Studio Code",
+      "appointments_handoff.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      903,
+      2,
+      1,
+      "Blank Web Browser",
+      "functions-ezyvet-transactions-prod (evcprodsb/functions-ezyvet-transactions-prod) - Microsoft Azure - Part of group product - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      904,
+      2,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 25 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      905,
+      1,
+      1,
+      "facebook.com",
+      "Horrifying reality of what airport... - Just for Jokes and Fun | Facebook - High memory usage  - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      906,
+      1,
+      1,
+      "Github",
+      "General - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      907,
+      1,
+      1,
+      "meet.google.com",
+      "Untitled - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      908,
+      1,
+      1,
+      "Gmail",
+      "Action Requested: Upward Dog Rehab & Wellness - You have a form to complete - hdsheena@gmail.com - Gmail - High memory usage - 1.3 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      909,
+      1,
+      1,
+      "mobile - com.google.android.apps.bard",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      910,
+      1,
+      1,
+      "facebook.com",
+      "Melody messaged you - High memory usage - 1.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      911,
+      1,
+      1,
+      "google chrome",
+      "Proposing resolutions for merge conflicts · GitHub Copilot - Google Chrome",
+      "Browsers",
+      0
+    ],
+    [
+      912,
+      1,
+      1,
+      "Blank Web Browser",
+      "Inbox (126) - courtney@vetlogic.co - Veterinary Care Logistics Inc. Mail - Part of group product - High memory usage - 1.3 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      913,
+      1,
+      1,
+      "l.facebook.com",
+      "No Details",
+      "General Social Networking",
+      -2
+    ],
+    [
+      914,
+      1,
+      1,
+      "trello.com",
+      "connecting to shepherd throws an error in the ui on Inventory Ally - Bugs | Trello - Google Chrome",
+      "Project Management",
+      1
+    ],
+    [
+      915,
+      1,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 19 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      916,
+      1,
+      1,
+      "postman",
+      "standardofcare - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      917,
+      1,
+      1,
+      "google.com",
+      "cc loop - Google Search - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      918,
+      1,
+      1,
+      "Github",
+      "github.com/login?return_to=https://github.com/login/device - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      919,
+      1,
+      1,
+      "Visual Studio Code",
+      "test_history_to_ezyvet_csv.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      920,
+      1,
+      1,
+      "Slack",
+      "! Threads - Veterinary Care Logistics - 6 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      921,
+      1,
+      1,
+      "Slack",
+      "! inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 23 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      922,
+      1,
+      1,
+      "trello.com",
+      "Inventory Ally - Bugs | Trello - High memory usage  - Google Chrome",
+      "Project Management",
+      1
+    ],
+    [
+      923,
+      1,
+      1,
+      "google.com",
+      "google.com/search?q=canine+hip+line&oq=canine+hip+line&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDEzOTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 - Google Chrom",
+      "Search",
+      0
+    ],
+    [
+      924,
+      1,
+      1,
+      "Slack",
+      "! inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 12 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      925,
+      1,
+      1,
+      "postman",
+      "Creates a HealthStatus - Vetspire to Ezyvet",
+      "General Software Development",
+      2
+    ],
+    [
+      926,
+      1,
+      1,
+      "Cursor",
+      "justSendContactToEzy.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      927,
+      1,
+      1,
+      "Google Spreadsheets",
+      "mobile counting usage Dec 2025 - Google Sheets - Part of group product - High memory usage  - Google Chrome",
+      "General Business",
+      2
+    ],
+    [
+      928,
+      1,
+      1,
+      "Visual Studio Code",
+      "sample_history_small.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      929,
+      1,
+      1,
+      "Gmail",
+      "Important Details about your Request for a Call Back from Upward Dog Rehab - hdsheena@gmail.com - Gmail - High memory usage - 1.3 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      930,
+      1,
+      1,
+      "Slack",
+      "! Emmitt (DM) - Veterinary Care Logistics - 6 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      931,
+      1,
+      1,
+      "facebook.com",
+      "Greg messaged Greg · PAINT SALE - High memory usage - 2.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      932,
+      1,
+      1,
+      "Terminal",
+      "Terminal — login",
+      "Systems Operations",
+      2
+    ],
+    [
+      933,
+      1,
+      1,
+      "facebook.com",
+      "Courtenay Watson | Facebook - High memory usage  - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      934,
+      1,
+      1,
+      "Slack",
+      "! Emmitt (DM) - Veterinary Care Logistics - 4 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      935,
+      1,
+      1,
+      "facebook.com",
+      "Horrifying reality of what airport... - Just for Jokes and Fun - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      936,
+      1,
+      1,
+      "Slack",
+      "! Debra Noble (DM) - Veterinary Care Logistics - 6 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      937,
+      1,
+      1,
+      "Blank Web Browser",
+      "google.com/search?q=rescuetime+mcp&oq=rescuetime+mcp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiGAxiABBiKBTIKCAIQABiABBiiBDIKCAMQABiABBiiBDIHCAQQABjvBTIKCAUQABiiBBiJBdIBCDE3NDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      938,
+      1,
+      1,
+      "Visual Studio Code",
+      "vetspire_visit_history.bak2.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      939,
+      1,
+      1,
+      "Microsoft Teams",
+      "No Details",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      940,
+      1,
+      1,
+      "Slack",
+      "! Emmitt (DM) - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      941,
+      1,
+      1,
+      "Blank Web Browser",
+      "Trello - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      942,
+      1,
+      1,
+      "mor.nlm.nih.gov",
+      "No Details",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      943,
+      1,
+      1,
+      "Gmail",
+      "New Information in Portal - hdsheena@gmail.com - Gmail - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      944,
+      1,
+      1,
+      "Visual Studio Code",
+      "test_build_ezyvet_payloads_physical_exams.py — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      945,
+      1,
+      1,
+      "youtube.com",
+      "(1) YouTube - Google Chrome",
+      "Video",
+      -2
+    ],
+    [
+      946,
+      1,
+      1,
+      "Blank Web Browser",
+      "Users List - Heap | Mobile and Web Analytics - High memory usage - 1.0 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      947,
+      1,
+      1,
+      "meet.google.com",
+      "Meet - Weekly Deep Dive - Camera and microphone recording - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      948,
+      1,
+      1,
+      "Gmail",
+      "It's time to review your home insurance. - hdsheena@gmail.com - Gmail - High memory usage - 1.2 GB - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      949,
+      1,
+      1,
+      "Slack",
+      "Emmitt (DM) - Veterinary Care Logistics - 6 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      950,
+      1,
+      1,
+      "facebook.com",
+      "KAMLOOPS MISSING PETS - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      951,
+      1,
+      1,
+      "Blank Web Browser",
+      "effective-xylophone-p7pwqqvv9jc966j.github.dev - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      952,
+      1,
+      1,
+      "Visual Studio Code",
+      "vetspire_patients.enriched.csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      953,
+      1,
+      1,
+      "accounts.google.com",
+      "No Details",
+      "General Communication & Scheduling",
+      0
+    ],
+    [
+      954,
+      1,
+      1,
+      "google.com",
+      "google.com/imgres?imgurl=https://www.cuisine.co.nz/wp-content/uploads/2023/02/Cuisine-Magazine-Emelia-Jackson-Recipe-Honey-layer-cake-medovik.jpg&tbnid=e37f07T3a0d6HM&vet=1&imgrefurl=https://www.cuisine.co.nz/recipe/honey-layer-cake-medovik/&docid=afRKIZH",
+      "Search",
+      0
+    ],
+    [
+      955,
+      1,
+      1,
+      "dbeaver community",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      956,
+      1,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - High memory usage - 2.1 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      957,
+      1,
+      1,
+      "Blank Web Browser",
+      "Get pre-meeting briefs in Chat - Chat - Part of group product - High memory usage - 1.3 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      958,
+      1,
+      1,
+      "app.intercom.com",
+      "New message from Stripe - Google Chrome",
+      "General Business",
+      2
+    ],
+    [
+      959,
+      1,
+      1,
+      "Slack",
+      "Emmitt, Sophia (DM) - Veterinary Care Logistics - 18 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      960,
+      1,
+      1,
+      "Gmail",
+      "mail.google.com/mail/u/1/ - Part of group product - High memory usage  - Google Chrome",
+      "Email",
+      1
+    ],
+    [
+      961,
+      1,
+      1,
+      "Slack",
+      "! Threads - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      962,
+      1,
+      1,
+      "share.google",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      963,
+      1,
+      1,
+      "google.com",
+      "New Tab - Google Chrome",
+      "Search",
+      0
+    ],
+    [
+      964,
+      1,
+      1,
+      "Slack",
+      "Emmitt, Mykola, Sophia (DM) - Veterinary Care Logistics - 16 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      965,
+      1,
+      1,
+      "Visual Studio Code",
+      "appointment_status_map.json — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      966,
+      1,
+      1,
+      "Slack",
+      "! Adrian Bishline, Aimee, Sophia (DM) - Veterinary Care Logistics - 2 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      967,
+      1,
+      1,
+      "Github",
+      "github.com - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      968,
+      1,
+      1,
+      "store.mwiah.com",
+      "No Details",
+      "Uncategorized",
+      0
+    ],
+    [
+      969,
+      1,
+      1,
+      "Slack",
+      "* Aimee (DM) - Veterinary Care Logistics - 1 new item - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      970,
+      1,
+      1,
+      "Visual Studio Code",
+      "DiagnosticRequest_Export [hmrah.use1.ezyvet.com].csv — vetspire-to-ezyvet",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      971,
+      1,
+      1,
+      "portal.azure.com",
+      "Recent Download History",
+      "Systems Operations",
+      2
+    ],
+    [
+      972,
+      1,
+      1,
+      "Slack",
+      "* Threads - Veterinary Care Logistics - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      973,
+      1,
+      1,
+      "google.com",
+      "google.com/search?q=rescuetime&oq=rescuetime&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyDQgFEC4YrwEYxwEYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxMTAzajBqN6gCALACAA&sourceid=ch",
+      "Search",
+      0
+    ],
+    [
+      974,
+      1,
+      1,
+      "meet.google.com",
+      "Google Meet - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      975,
+      1,
+      1,
+      "users",
+      "PSS Clinic.pdf - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      976,
+      1,
+      1,
+      "facebook.com",
+      "Facebook Live | Facebook - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      977,
+      1,
+      1,
+      "Github",
+      "[WIP] Integrate logic from justsend into post_contact_to_ezy · GitHub Copilot - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      978,
+      1,
+      1,
+      "Slack",
+      "! Sophia (DM) - Veterinary Care Logistics - 18 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      979,
+      1,
+      1,
+      "Finder",
+      "tmp",
+      "General Utilities",
+      1
+    ],
+    [
+      980,
+      1,
+      1,
+      "portal.azure.com",
+      "portal.azure.com says",
+      "Systems Operations",
+      2
+    ],
+    [
+      981,
+      1,
+      1,
+      "Google Documents",
+      "No Details",
+      "Writing",
+      2
+    ],
+    [
+      982,
+      1,
+      1,
+      "Slack",
+      "! Sophia (DM) - Veterinary Care Logistics - 6 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      983,
+      1,
+      1,
+      "facebook.com",
+      "Super short notice, but if anyone needs a ride... - Courtenay Watson | Facebook - High memory usage - 1.5 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      984,
+      1,
+      1,
+      "Blank Web Browser",
+      "(2) Messenger | Facebook - High memory usage - 1.7 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      985,
+      1,
+      1,
+      "meet.google.com",
+      "Meet - Google Chrome",
+      "Meetings",
+      1
+    ],
+    [
+      986,
+      1,
+      1,
+      "google chrome",
+      "Pre Surgical Screening-RIH- IH #814428 - Google Chrome",
+      "Browsers",
+      0
+    ],
+    [
+      987,
+      1,
+      1,
+      "Visual Studio Code",
+      "Granola",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      988,
+      1,
+      1,
+      "facebook.com",
+      "Dan messaged you - High memory usage - 2.3 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      989,
+      1,
+      1,
+      "Blank Web Browser",
+      "Autocaptured Data – Heap Help Center | Documentation & Support - Google Chrome",
+      "Internet Utilities",
+      1
+    ],
+    [
+      990,
+      1,
+      1,
+      "app.custify.com",
+      "Eagle River Pet Hospital - Custify - Google Chrome",
+      "General Software Development",
+      2
+    ],
+    [
+      991,
+      1,
+      1,
+      "meet.google.com",
+      "Granola",
+      "Meetings",
+      1
+    ],
+    [
+      992,
+      1,
+      1,
+      "Slack",
+      "inventory-ally-urgent-or-not (Channel) - Veterinary Care Logistics - 23 new items - Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      993,
+      1,
+      1,
+      "facebook.com",
+      "Melody messaged you - High memory usage - 1.4 GB - Google Chrome",
+      "General Social Networking",
+      -2
+    ],
+    [
+      994,
+      1,
+      1,
+      "Blank Web Browser",
+      "Search results - hdsheena@gmail.com - Gmail - High memory usage - 1.4 GB - Google Chrome",
+      "Internet Utilities",
+      1
+    ]
+  ]
+}

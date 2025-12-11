@@ -1,0 +1,4321 @@
+{
+  "period": "Nov 1 - Dec 10, 2025",
+  "total_seconds": 170008,
+  "total_hours": 47.224444444444444,
+  "total_formatted": "47h 13m",
+  "batches": [
+    {
+      "date_range": "Nov 1-7",
+      "total_seconds": 8693,
+      "entries": [
+        {
+          "activity": "postman",
+          "document": "No Details",
+          "seconds": 3862,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "docs.github.com",
+          "document": "No Details",
+          "seconds": 966,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "github desktop",
+          "document": "No Details",
+          "seconds": 614,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "hmrah.use1.ezyvet.com",
+          "document": "No Details",
+          "seconds": 563,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "developers.ezyvet.com",
+          "document": "No Details",
+          "seconds": 434,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Run tests with specified LLM models and credentials \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 243,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Review code logic and evaluate unnecessary files \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 184,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add batch comparison tool for LLM model and prompt evaluation \u00b7 Task \u00b7 GitHub Copilot - High memory usage - 1.2 GB - Google Chrome",
+          "seconds": 176,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "github-evc/CODE_ANALYSIS.md at copilot/evaluate-code-logic-and-files \u00b7 hdsheena/github-evc - Google Chrome",
+          "seconds": 173,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Agents \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 167,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Code analysis and cleanup: Remove duplicate project, build artifacts, and metadata files \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 123,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Code evaluation and logic overview of \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 110,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "New chat \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 87,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "github.blog",
+          "document": "No Details",
+          "seconds": 86,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "githubdesktop",
+          "document": "No Details",
+          "seconds": 83,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Code review and repository cleanup by Copilot \u00b7 Pull Request #1 \u00b7 hdsheena/evc-stockout-mcp - Google Chrome",
+          "seconds": 81,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Review code logic and evaluate unnecessary files \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 77,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "dbeaver/dbeaver#4212 github copilot by Destrolaric \u00b7 Pull Request #37270 \u00b7 dbeaver/dbeaver - Google Chrome",
+          "seconds": 69,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Copilot integration \u00b7 Issue #20072 \u00b7 dbeaver/dbeaver - Google Chrome",
+          "seconds": 53,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "AI Smart Assistance in DBeaver Community \u00b7 dbeaver/dbeaver Wiki - Google Chrome",
+          "seconds": 50,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "hdsheena/evc-stockout-mcp - Google Chrome",
+          "seconds": 44,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "New Personal Access Token (Classic) - Google Chrome",
+          "seconds": 42,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add batch comparison tool for LLM model and prompt evaluation \u00b7 Task \u00b7 GitHub Copilot - High memory usage - 1.0 GB - Google Chrome",
+          "seconds": 40,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[FEATURE REQ] add 2024-12-01-preview apiVersion in AzureOpenAIClientOptions \u00b7 Issue #47809 \u00b7 Azure/azure-sdk-for-net - Google Chrome",
+          "seconds": 40,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Apply to the Copilot partner program - Google Chrome",
+          "seconds": 35,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Code review and repository cleanup \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 34,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add batch comparison tool for LLM model and prompt evaluation \u00b7 Task \u00b7 GitHub Copilot - High memory usage - 1.1 GB - Google Chrome",
+          "seconds": 23,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "learning.postman.com",
+          "document": "No Details",
+          "seconds": 23,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Github",
+          "document": "Code analysis and cleanup: Remove duplicate project, build artifacts, and metadata files \u00b7 Task \u00b7 GitHub Copilot - High memory usage  - Google Chrome",
+          "seconds": 23,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "dbeaver/dbeaver#4212 github copilot by Destrolaric \u00b7 Pull Request #37270 \u00b7 dbeaver/dbeaver - High memory usage  - Google Chrome",
+          "seconds": 21,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "developer.vetspire.com",
+          "document": "No Details",
+          "seconds": 15,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Github",
+          "document": "Support Github enterprise accounts in AI assistant (Github Copilot) \u00b7 Issue #39442 \u00b7 dbeaver/dbeaver - Google Chrome",
+          "seconds": 14,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Spaces \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 14,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Personal Access Tokens (Classic) - Google Chrome",
+          "seconds": 13,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Dependencies \u00b7 hdsheena/evc-stockout-mcp - Google Chrome",
+          "seconds": 13,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Intercom JWT integration implementation prompt \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 10,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Issues \u00b7 dbeaver/dbeaver - Google Chrome",
+          "seconds": 10,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Code analysis and cleanup: Remove duplicate project, build artifacts, and metadata files \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 8,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Spark - Google Chrome",
+          "seconds": 7,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "GitHub - Google Chrome",
+          "seconds": 6,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "hdsheena (Courtenay) - Google Chrome",
+          "seconds": 6,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Untitled - Google Chrome",
+          "seconds": 5,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Your Repositories - Google Chrome",
+          "seconds": 5,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "SSH and GPG keys - Google Chrome",
+          "seconds": 5,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "hdsheena/github-evc at copilot/evaluate-code-logic-and-files - Google Chrome",
+          "seconds": 5,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "No Details",
+          "seconds": 4,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Device Activation - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Verify Session - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Your profile - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "GAM OAuth flow reauthorization steps \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Confirm access - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "GitHub Apps - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Use a saved passkey for github.com",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Authorize application - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "New conversation \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Customer agreements - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        }
+      ]
+    },
+    {
+      "date_range": "Nov 8-14",
+      "total_seconds": 13455,
+      "entries": [
+        {
+          "activity": "postman",
+          "document": "No Details",
+          "seconds": 2862,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1254,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "hmrah.use1.ezyvet.com",
+          "document": "No Details",
+          "seconds": 968,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "migration.py \u2014 vetspire-to-ezyvet",
+          "seconds": 922,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_contact_new.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 532,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "stunning-guacamole-r7p6vv9jj7fpp66.github.dev",
+          "document": "No Details",
+          "seconds": 506,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_contacts.py \u2014 vetspire-to-ezyvet",
+          "seconds": 482,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_contact_updated.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 416,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "analyze_exports.py \u2014 vetspire-to-ezyvet",
+          "seconds": 402,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contacts_sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 366,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "github desktop",
+          "document": "No Details",
+          "seconds": 352,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_client.py \u2014 vetspire-to-ezyvet",
+          "seconds": 336,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "field_mapper.py \u2014 vetspire-to-ezyvet",
+          "seconds": 326,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "inventoryally.postman.co",
+          "document": "No Details",
+          "seconds": 319,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "smartflow.postman.co",
+          "document": "No Details",
+          "seconds": 303,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "developer.vetspire.com",
+          "document": "No Details",
+          "seconds": 233,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "\"Business Name\",\"Contact Title\",\"Contact \u2022 Untitled-1 \u2014 vetspire-to-ezyvet",
+          "seconds": 201,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_emailphone_new.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 189,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "mappings.py \u2014 vetspire-to-ezyvet",
+          "seconds": 176,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_contact_migrated.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 169,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".env \u2014 vetspire-to-ezyvet",
+          "seconds": 133,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "developers.ezyvet.com",
+          "document": "No Details",
+          "seconds": 132,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "README.md \u2014 vetspire-to-ezyvet",
+          "seconds": 103,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "hopemillsroadanimalhospital.vetspire.com",
+          "document": "No Details",
+          "seconds": 101,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "launch.json \u2014 vetspire-to-ezyvet",
+          "seconds": 100,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "AlexxIT/WebRTC: Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies. - Google Chrome",
+          "seconds": 95,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "{'queryType': {'name': 'RootQueryType'}, \u2022 Untitled-1 \u2014 vetspire-to-ezyvet",
+          "seconds": 94,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "migrate_from_samples.py \u2014 vetspire-to-ezyvet",
+          "seconds": 88,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Contact_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 87,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Inventory dashboard \u00b7 Pull Request #578 \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 87,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "ONVIF - Trying to add unbranded VIKVIZ camera fails because of broken `utf-8` (firmware bug) \u00b7 Issue #89620 \u00b7 home-assistant/core - Google Chrome",
+          "seconds": 86,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "stunning-guacamole-r7p6vv9jj7fpp66-3000.app.github.dev",
+          "document": "No Details",
+          "seconds": 79,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Data grid \u2014 vetspire-to-ezyvet",
+          "seconds": 60,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".gitignore \u2014 vetspire-to-ezyvet",
+          "seconds": 60,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "schema_loader.py \u2014 vetspire-to-ezyvet",
+          "seconds": 56,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Welcome \u2014 vetspire-to-ezyvet",
+          "seconds": 56,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "main.py \u2014 vetspire-to-ezyvet",
+          "seconds": 53,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Yosemite-Crew/apps/api/controllers/InventoryController.ts at 434baca2514e15eafc7cd5125c3a05f35c9c9ce8 \u00b7 YosemiteCrew/Yosemite-Crew - High memory usage  - Google Chrome",
+          "seconds": 51,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Yosemite-Crew/apps/backend/src/controllers/app at main \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 40,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Pull request search results - Google Chrome",
+          "seconds": 37,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "stunning-guacamole-r7p6vv9jj7fpp66-4000.app.github.dev",
+          "document": "No Details",
+          "seconds": 36,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "singleContactExample.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 33,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "postman.com",
+          "document": "No Details",
+          "seconds": 31,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Github",
+          "document": "YosemiteCrew/Yosemite-Crew \u00b7 Discussions \u00b7 GitHub - Google Chrome",
+          "seconds": 28,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "YosemiteCrew/Yosemite-Crew: Open source operating system for animal health - High memory usage  - Google Chrome",
+          "seconds": 27,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Convert Plan Controller to TypeScript with Consistent Naming \u00b7 Pull Request #359 \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 27,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "New chat \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 26,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Yosemite-Crew/packages/fhir/src/inventory-fhir/inventoryFhir.ts at 43bf3262965c969d33f91fcb2be9e462680981fc \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 26,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contactUploadTemplate.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 23,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Yosemite-Crew/packages/types/src/Inventory/InventoryType.ts at 43bf3262965c969d33f91fcb2be9e462680981fc \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 21,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Inventory usage in the repository \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 20,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "emailPhoneUploadTemplate.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 17,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Fix onvif cameras with invalid encodings in device info by bdraco \u00b7 Pull Request #92450 \u00b7 home-assistant/core - Google Chrome",
+          "seconds": 17,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "YosemiteCrew/Yosemite-Crew: Open source operating system for animal health - Google Chrome",
+          "seconds": 16,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Code search results - Google Chrome",
+          "seconds": 13,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "YosemiteCrew/Yosemite-Crew at dev - Google Chrome",
+          "seconds": 13,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "list_client_schema.py \u2014 vetspire-to-ezyvet",
+          "seconds": 12,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add batch comparison tool for LLM model and prompt evaluation \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 12,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Merge branch 'feature/typescript' into inventoryDashboard \u00b7 YosemiteCrew/Yosemite-Crew@434baca - Google Chrome",
+          "seconds": 10,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "CharltonIT/openvpms: The main project for openvpms - Google Chrome",
+          "seconds": 9,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Inventory data conversion from FHIR explained \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 9,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Fix prescription flow \u00b7 Issue #771 \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 8,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "integrate.postman.com",
+          "document": "No Details",
+          "seconds": 8,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Github",
+          "document": "Yosemite-Crew/apps/api/controllers/InventoryController.ts at 434baca2514e15eafc7cd5125c3a05f35c9c9ce8 \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 8,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "identity.getpostman.com",
+          "document": "No Details",
+          "seconds": 7,
+          "category": "Quality Assurance",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Extension: Prettier - Code formatter \u2014 vetspire-to-ezyvet",
+          "seconds": 6,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Pull requests \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 6,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "YosemiteCrew/Yosemite-Crew at 43bf3262965c969d33f91fcb2be9e462680981fc - Google Chrome",
+          "seconds": 6,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Issue search results - Google Chrome",
+          "seconds": 5,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ",,Janet,Bunnells,,YES,NO,NO,NO,NO,NO,,NO \u2022 Untitled-1 \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Integrating Merck Veterinary Manual (MVM/MSD) Into Yosemite Crew (OS - Web for Clinics + Mobile for Owners) \u00b7 YosemiteCrew/Yosemite-Crew \u00b7 Discussion #774 - Google Chrome",
+          "seconds": 4,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Discussion search results - Google Chrome",
+          "seconds": 4,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Page not found \u00b7 GitHub - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Untitled - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "settings.json \u2014 vetspire-to-ezyvet",
+          "seconds": 3,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Discussion search results - High memory usage  - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Animal_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 3,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".env.example \u2014 vetspire-to-ezyvet",
+          "seconds": 3,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Yosemite-Crew/apps at main \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "History for apps/api/controllers/InventoryController.ts - YosemiteCrew/Yosemite-Crew - High memory usage  - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Yosemite-Crew/apps/backend/src at main \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "requirements.txt \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "EmailPhone_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "No Details",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Yosemite-Crew/apps/backend/src/controllers at main \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Verify Session - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "stunning-guacamole-r7p6vv9jj7fpp66.github.dev/pf-signin?id=peaceful-dog-qk5b4xm&cluster=usw2&name=stunning-guacamole-r7p6vv9jj7fpp66&port=3001&pb=https://stunning-guacamole-r7p6vv9jj7fpp66-3001.app.github.dev/auth/postback/tunnel?tunnel=1&cid=61d0054c-76a",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Untitled-1 \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Yosemite-Crew/apps/backend at main \u00b7 YosemiteCrew/Yosemite-Crew - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "csv_handler.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Codespaces - stunning guacamole - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add batch comparison tool for LLM model and prompt evaluation \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "stunning-guacamole-r7p6vv9jj7fpp66-3001.app.github.dev",
+          "document": "No Details",
+          "seconds": 1,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Github",
+          "document": "New conversation \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animals_sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        }
+      ]
+    },
+    {
+      "date_range": "Nov 15-21",
+      "total_seconds": 10944,
+      "entries": [
+        {
+          "activity": "postman",
+          "document": "No Details",
+          "seconds": 2429,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "hmrah.use1.ezyvet.com",
+          "document": "No Details",
+          "seconds": 1660,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_graphql_explorer.ipynb \u2014 vetspire-to-ezyvet",
+          "seconds": 1091,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "hopemillsroadanimalhospital.vetspire.com",
+          "document": "No Details",
+          "seconds": 684,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 548,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "github desktop",
+          "document": "No Details",
+          "seconds": 491,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "developers.ezyvet.com",
+          "document": "No Details",
+          "seconds": 382,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "VisitExam_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 359,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "encounter.json \u2014 vetspire-to-ezyvet",
+          "seconds": 336,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "analyze_exports.py \u2014 vetspire-to-ezyvet",
+          "seconds": 326,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "githubdesktop",
+          "document": "No Details",
+          "seconds": 307,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ConsultAssessment_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 200,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animals_sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 190,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "main.py \u2014 vetspire-to-ezyvet",
+          "seconds": 183,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "VisitHistory_Export [hmrah.use1.ezyvet.com]_random_sample.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 166,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Data grid \u2014 vetspire-to-ezyvet",
+          "seconds": 159,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contacts_sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 102,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ConsultPlan_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 83,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "VisitHistory_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 78,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Extension: Rainbow CSV \u2014 vetspire-to-ezyvet",
+          "seconds": 78,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Animal_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 73,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "patients_sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 72,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Medication_Export [hmrah.use1.ezyvet.com]_HMR_2_11131_records.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 72,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "vscode_rainbow_csv/test/color_customization_example.md at 0166b04d884ae71600221fe3d934fbec3469638a \u00b7 mechatroner/vscode_rainbow_csv - Google Chrome",
+          "seconds": 67,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "VisitHistory_Export [hmrah.use1.ezyvet.com]_HMR_2_11131_records.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 64,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Settings \u2014 vetspire-to-ezyvet",
+          "seconds": 62,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Issues \u00b7 mechatroner/vscode_rainbow_csv - Google Chrome",
+          "seconds": 59,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Ignoring whitespaces inside double quotes \u00b7 Issue #130 \u00b7 mechatroner/vscode_rainbow_csv - Google Chrome",
+          "seconds": 57,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Code search results - Google Chrome",
+          "seconds": 44,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_client.py \u2014 vetspire-to-ezyvet",
+          "seconds": 39,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Vaccination_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 32,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "developer.vetspire.com",
+          "document": "No Details",
+          "seconds": 31,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "InClinic_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 28,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_contacts.py \u2014 vetspire-to-ezyvet",
+          "seconds": 27,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "consultUploadTemplate.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 25,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "visitHistoryUploadTemplate.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 25,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Autodetection of separators not working? \u00b7 Issue #154 \u00b7 mechatroner/vscode_rainbow_csv - Google Chrome",
+          "seconds": 22,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animalUploadTemplate.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 21,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "HealthStatus_Export [hmrah.use1.ezyvet.com]_HMR_2_11131_records.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 21,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Choose CSV Dialect \u2014 vetspire-to-ezyvet",
+          "seconds": 20,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Medication_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 19,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Consult_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 17,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Consult_Export [hmrah.use1.ezyvet.com]_HMR_2_11131_records.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 16,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "GitHub \u00b7 Where software is built - Google Chrome",
+          "seconds": 16,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "README.md \u2014 vetspire-to-ezyvet",
+          "seconds": 15,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Extension: IntelliCode \u2014 vetspire-to-ezyvet",
+          "seconds": 13,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "launch.json \u2014 vetspire-to-ezyvet",
+          "seconds": 13,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "DiagnosticResult_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 12,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "visitExamUploadTemplate.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 11,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "HealthStatus_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 10,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "DiagnosticResultItem_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 9,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Allow backslash-doublequote to be treated as an escape sequence \u00b7 Issue #217 \u00b7 mechatroner/vscode_rainbow_csv - Google Chrome",
+          "seconds": 9,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "mechatroner/vscode_rainbow_csv: \ud83c\udf08Rainbow CSV - VS Code extension: Highlight CSV and TSV files in different rainbow colors to make them more readable - Google Chrome",
+          "seconds": 8,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "migrate_from_samples.py \u2014 vetspire-to-ezyvet",
+          "seconds": 6,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Extension: IntelliCode API Usage Examples \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ConsultAssessment_Export [hmrah.use1.ezyvet.com]_HMR_2_11131_records.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "DiagnosticRequest_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "vscode_rainbow_csv/README.md at 0166b04d884ae71600221fe3d934fbec3469638a \u00b7 mechatroner/vscode_rainbow_csv - Google Chrome",
+          "seconds": 5,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Untitled-1 \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "inClinicUploadTemplate.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "InClinic_Export [hmrah.use1.ezyvet.com]_HMR_2_11131_records.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Issue search results - Google Chrome",
+          "seconds": 4,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".env \u2014 vetspire-to-ezyvet",
+          "seconds": 4,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "VisitExam_Export [hmrah.use1.ezyvet.com]_HMR_2_11131_records.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 4,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Code review and repository cleanup by Copilot \u00b7 Pull Request #1 \u00b7 hdsheena/evc-stockout-mcp - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ConsultPlan_Export [hmrah.use1.ezyvet.com]_HMR_2_11131_records.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add batch comparison tool for LLM model and prompt evaluation \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Users Gmail Messages Threads \u00b7 GAM-team/GAM Wiki - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Vaccination_Export [hmrah.use1.ezyvet.com]_HMR_2_11131_records.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Untitled - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        }
+      ]
+    },
+    {
+      "date_range": "Nov 22-30",
+      "total_seconds": 1905,
+      "entries": [
+        {
+          "activity": "github desktop",
+          "document": "No Details",
+          "seconds": 1046,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "No Details",
+          "seconds": 859,
+          "category": "General Software Development",
+          "productivity": 2
+        }
+      ]
+    },
+    {
+      "date_range": "Dec 1-5",
+      "total_seconds": 12379,
+      "entries": [
+        {
+          "activity": "postman",
+          "document": "No Details",
+          "seconds": 2116,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1755,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "match_all_vetspire_to_ezyvet.py \u2014 vetspire-to-ezyvet",
+          "seconds": 957,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_contact_to_ezy.py \u2014 vetspire-to-ezyvet",
+          "seconds": 650,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "enrich_missing_contacts.py \u2014 vetspire-to-ezyvet",
+          "seconds": 587,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "clients.py \u2014 vetspire-to-ezyvet",
+          "seconds": 576,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contacts.py \u2014 vetspire-to-ezyvet",
+          "seconds": 526,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_contacts_in_files.py \u2014 vetspire-to-ezyvet",
+          "seconds": 496,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_client.py \u2014 vetspire-to-ezyvet",
+          "seconds": 487,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "github desktop",
+          "document": "No Details",
+          "seconds": 399,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_ezyvet_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 340,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_match_results.json \u2014 vetspire-to-ezyvet",
+          "seconds": 319,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_ezyvet_vetspire_refs.py \u2014 vetspire-to-ezyvet",
+          "seconds": 316,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_integration.py \u2014 vetspire-to-ezyvet",
+          "seconds": 303,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "conftest.py \u2014 vetspire-to-ezyvet",
+          "seconds": 265,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "developers.ezyvet.com",
+          "document": "No Details",
+          "seconds": 241,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "debug_match_all_launcher.py \u2014 vetspire-to-ezyvet",
+          "seconds": 236,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_vetspire_pagination.py \u2014 vetspire-to-ezyvet",
+          "seconds": 207,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_match_runner.py \u2014 vetspire-to-ezyvet",
+          "seconds": 193,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_contacts_missing_in_ezy.enriched.json \u2014 vetspire-to-ezyvet",
+          "seconds": 167,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_contacts.py \u2014 vetspire-to-ezyvet",
+          "seconds": 159,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".env \u2014 vetspire-to-ezyvet",
+          "seconds": 127,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "README.md \u2014 vetspire-to-ezyvet",
+          "seconds": 98,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "hopemillsroadanimalhospital.vetspire.com",
+          "document": "No Details",
+          "seconds": 93,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "settings.json \u2014 vetspire-to-ezyvet",
+          "seconds": 93,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_contacts_missing_in_ezy.json \u2014 vetspire-to-ezyvet",
+          "seconds": 67,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contacts_sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 66,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_all_contacts.json \u2014 vetspire-to-ezyvet",
+          "seconds": 66,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_contacts_missing_in_ezy.contactdetails.json \u2014 vetspire-to-ezyvet",
+          "seconds": 60,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_match_results_debug.json \u2014 vetspire-to-ezyvet",
+          "seconds": 59,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Contact_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 53,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "hmrah.usw2.trial.ezyvet.com",
+          "document": "No Details",
+          "seconds": 41,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 38,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "launch.json \u2014 vetspire-to-ezyvet",
+          "seconds": 31,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 31,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "VisitHistory_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 29,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_vetspire_fields_presence.py \u2014 vetspire-to-ezyvet",
+          "seconds": 28,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "migration.py \u2014 vetspire-to-ezyvet",
+          "seconds": 26,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".env.example \u2014 vetspire-to-ezyvet",
+          "seconds": 20,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "hmrah.use1.ezyvet.com",
+          "document": "No Details",
+          "seconds": 17,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_contacts.py \u2014 vetspire-to-ezyvet",
+          "seconds": 13,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "developer.vetspire.com",
+          "document": "No Details",
+          "seconds": 9,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Animal_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "patients_sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 4,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "pyvenv.cfg \u2014 vetspire-to-ezyvet",
+          "seconds": 4,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_match_results_run.json \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".gitignore \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_clients.py \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        }
+      ]
+    },
+    {
+      "date_range": "Dec 6-10",
+      "total_seconds": 122632,
+      "entries": [
+        {
+          "activity": "effective-xylophone-p7pwqqvv9jc966j.github.dev",
+          "document": "No Details",
+          "seconds": 34038,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "justSendContactToEzy.py \u2014 vetspire-to-ezyvet",
+          "seconds": 8602,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "No Details",
+          "seconds": 7758,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_appointments_batch.py \u2014 vetspire-to-ezyvet",
+          "seconds": 5750,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "hmrah.use1.ezyvet.com",
+          "document": "No Details",
+          "seconds": 3962,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_visit_history.py \u2014 vetspire-to-ezyvet",
+          "seconds": 3305,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "hmrah.usw2.trial.ezyvet.com",
+          "document": "No Details",
+          "seconds": 3050,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "enrich_missing_animals.py \u2014 vetspire-to-ezyvet",
+          "seconds": 3030,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_animals_batch.py \u2014 vetspire-to-ezyvet",
+          "seconds": 2980,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_pets_in_files.py \u2014 vetspire-to-ezyvet",
+          "seconds": 2831,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "super-duper-bassoon-5vxrpp67xpfvjq7.github.dev",
+          "document": "No Details",
+          "seconds": 2443,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_contacts_batch.py \u2014 vetspire-to-ezyvet",
+          "seconds": 2016,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_contacts_in_files.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1819,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "build_ezyvet_payloads.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1742,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "github desktop",
+          "document": "No Details",
+          "seconds": 1703,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1685,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "hopemillsroadanimalhospital.vetspire.com",
+          "document": "No Details",
+          "seconds": 1667,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_contact_to_ezy.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1631,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_animal_to_ezyvet.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1263,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_vetspire_patients.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1131,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_appointment_to_ezyvet.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1116,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_consults_from_payloads.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1108,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "inspect_encounter_sections.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1056,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_vitals_to_ezyvet.py \u2014 vetspire-to-ezyvet",
+          "seconds": 950,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "enrich_missing_contacts.py \u2014 vetspire-to-ezyvet",
+          "seconds": 921,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_vitals.py \u2014 vetspire-to-ezyvet",
+          "seconds": 834,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_visit_history.json \u2014 vetspire-to-ezyvet",
+          "seconds": 802,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "sections_flattened.filtered.json \u2014 vetspire-to-ezyvet",
+          "seconds": 758,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "developers.ezyvet.com",
+          "document": "No Details",
+          "seconds": 616,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "build_mappings_from_appointments.py \u2014 vetspire-to-ezyvet",
+          "seconds": 615,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_appointments.success.json \u2014 vetspire-to-ezyvet",
+          "seconds": 574,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Proposing resolutions for merge conflicts \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 564,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.enriched.json \u2014 vetspire-to-ezyvet",
+          "seconds": 515,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contact_lookup.py \u2014 vetspire-to-ezyvet",
+          "seconds": 452,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "SOC - Vetspire to Ezyvet",
+          "seconds": 433,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "populate_species_breed_maps.py \u2014 vetspire-to-ezyvet",
+          "seconds": 430,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_payloads.json \u2014 vetspire-to-ezyvet",
+          "seconds": 419,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_client.py \u2014 vetspire-to-ezyvet",
+          "seconds": 381,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "build_consult_payloads.py \u2014 vetspire-to-ezyvet",
+          "seconds": 368,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "sections_by_encounter.json \u2014 vetspire-to-ezyvet",
+          "seconds": 359,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "analyze_post_appointments.py \u2014 vetspire-to-ezyvet",
+          "seconds": 349,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_consult.py \u2014 vetspire-to-ezyvet",
+          "seconds": 344,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointments_handoff_dedup.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 338,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_appointments.json \u2014 vetspire-to-ezyvet",
+          "seconds": 315,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "build_vitals_payloads.py \u2014 vetspire-to-ezyvet",
+          "seconds": 304,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animal_id_mapping.json \u2014 vetspire-to-ezyvet",
+          "seconds": 291,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_appointments.failure.json \u2014 vetspire-to-ezyvet",
+          "seconds": 290,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "filter_sections_flattened.py \u2014 vetspire-to-ezyvet",
+          "seconds": 276,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vitals_payloads.py \u2014 vetspire-to-ezyvet",
+          "seconds": 271,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_contacts_missing_in_ezy.enriched.json \u2014 vetspire-to-ezyvet",
+          "seconds": 268,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.awaiting_contact.json \u2014 vetspire-to-ezyvet",
+          "seconds": 268,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "sections_flattened.json \u2014 vetspire-to-ezyvet",
+          "seconds": 257,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_all_contacts.json \u2014 vetspire-to-ezyvet",
+          "seconds": 256,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_soc_from_vetspire.py \u2014 vetspire-to-ezyvet",
+          "seconds": 255,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "find_inactive_future_appointments.py \u2014 vetspire-to-ezyvet",
+          "seconds": 230,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_vetspire_appointments.py \u2014 vetspire-to-ezyvet",
+          "seconds": 222,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.json \u2014 vetspire-to-ezyvet",
+          "seconds": 217,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Refactor: Extract nested functions and decompose massive main functions by Copilot \u00b7 Pull Request #2 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 209,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "schema_introspection.json \u2014 vetspire-to-ezyvet",
+          "seconds": 209,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Code review analysis: Python developer strengths and improvement areas \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 205,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_visit_history.py \u2014 vetspire-to-ezyvet",
+          "seconds": 203,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "sections_to_encounter_map.py \u2014 vetspire-to-ezyvet",
+          "seconds": 201,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "HOWTO.md \u2014 vetspire-to-ezyvet",
+          "seconds": 188,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Agents \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 182,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_appointments.pending.json \u2014 vetspire-to-ezyvet",
+          "seconds": 180,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Resolve Conflicts \u00b7 Pull Request #2 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 177,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "generate_sections_query_from_schema.py \u2014 vetspire-to-ezyvet",
+          "seconds": 174,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Contact_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 169,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.unmatched.json \u2014 vetspire-to-ezyvet",
+          "seconds": 164,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 162,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Animal_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 160,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "breed_map.json \u2014 vetspire-to-ezyvet",
+          "seconds": 159,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "export_reservations_summary.py \u2014 vetspire-to-ezyvet",
+          "seconds": 159,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_contacts_manual_review.json \u2014 vetspire-to-ezyvet",
+          "seconds": 156,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "reservation_summary.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 148,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_ezyvet_appointments.py \u2014 vetspire-to-ezyvet",
+          "seconds": 127,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Code review analysis: Python developer strengths and improvement areas \u00b7 GitHub Copilot - High memory usage  - Google Chrome",
+          "seconds": 127,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_animals_missing_in_ezy.json \u2014 vetspire-to-ezyvet",
+          "seconds": 123,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "No Details",
+          "seconds": 123,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animal_map.sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 122,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "reservations.json \u2014 vetspire-to-ezyvet",
+          "seconds": 121,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "vetspire-to-ezyvet/scripts at main \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 121,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_vitals-in-flight.json \u2014 vetspire-to-ezyvet",
+          "seconds": 114,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Fix merge artifacts in justSendContactToEzy.py \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 112,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Premium request analytics - Google Chrome",
+          "seconds": 109,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "Appointment simple test - Vetspire to Ezyvet",
+          "seconds": 108,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Review functionality changes in justSendContactToEzy.py \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 107,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "hdsheena/vetspire-to-ezyvet - High memory usage  - Google Chrome",
+          "seconds": 102,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "New chat \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 101,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Budgets - Google Chrome",
+          "seconds": 99,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add post_contact_batch.py wrapper for singular naming consistency \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 99,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_animal_mappings.py \u2014 vetspire-to-ezyvet",
+          "seconds": 97,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contact_id_mapping.json \u2014 vetspire-to-ezyvet",
+          "seconds": 95,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".gitignore \u2014 vetspire-to-ezyvet",
+          "seconds": 95,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Implement species map loading for strict animal matching in appointment resolution \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 95,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Animals-2025-12-10-12-47-30.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 94,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "hdsheena/vetspire-to-ezyvet at copilot/refactor-large-main-functions - Google Chrome",
+          "seconds": 93,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_filter_sections_flattened.py \u2014 vetspire-to-ezyvet",
+          "seconds": 92,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "reservation_245186.json \u2014 vetspire-to-ezyvet",
+          "seconds": 90,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_appointments.2025-12-10.json \u2014 vetspire-to-ezyvet",
+          "seconds": 90,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Reorganize repository: move deprecated one-off scripts and data to to-remove directory by Copilot \u00b7 Pull Request #1 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 85,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Query encounters by appointment date range instead of sample file by Copilot \u00b7 Pull Request #11 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 84,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.enriched.1.json \u2014 vetspire-to-ezyvet",
+          "seconds": 82,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointment_id_mapping.json \u2014 vetspire-to-ezyvet",
+          "seconds": 82,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Running Copilot coding agent \u00b7 hdsheena/vetspire-to-ezyvet@421fd73 - Google Chrome",
+          "seconds": 81,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contacts_batch_failure_reasons.json \u2014 vetspire-to-ezyvet",
+          "seconds": 80,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contacts_sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 79,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Implement comprehensive 429 (Too Many Requests) handling in EzyVetAPIClient \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 79,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "extract_appointments_by_date.py \u2014 vetspire-to-ezyvet",
+          "seconds": 78,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_reference_dirs.py \u2014 vetspire-to-ezyvet",
+          "seconds": 78,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Refactor functions to use single return point for easier debugging by Copilot \u00b7 Pull Request #14 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 77,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "extract_unmapped_uniques.py \u2014 vetspire-to-ezyvet",
+          "seconds": 77,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "Fetches a list containing Animal(s) - Vetspire to Ezyvet",
+          "seconds": 75,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointment_type_map.json \u2014 vetspire-to-ezyvet",
+          "seconds": 75,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "parse_visit_history.py \u2014 vetspire-to-ezyvet",
+          "seconds": 71,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Fix merge artifacts in justSendContactToEzy.py \u00b7 Task \u00b7 GitHub Copilot - High memory usage  - Google Chrome",
+          "seconds": 71,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add ezyVet v2 appointments fetching and comparison with Vetspire by Copilot \u00b7 Pull Request #7 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 71,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_fetch_visit_history.py \u2014 vetspire-to-ezyvet",
+          "seconds": 69,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Refactor active status pattern for improved breakpoint handling \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 69,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_consults.json \u2014 vetspire-to-ezyvet",
+          "seconds": 69,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_match_results_debug.json \u2014 vetspire-to-ezyvet",
+          "seconds": 67,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_vitals_dec1_7.json \u2014 vetspire-to-ezyvet",
+          "seconds": 67,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Reorganize repository: move deprecated one-off scripts and data to to-remove directory \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 67,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_appointments.2025-12-11.json \u2014 vetspire-to-ezyvet",
+          "seconds": 66,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".env \u2014 vetspire-to-ezyvet",
+          "seconds": 64,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_contacts_missing_in_ezy.contactdetails.json \u2014 vetspire-to-ezyvet",
+          "seconds": 63,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "encounter_section_schema.json \u2014 vetspire-to-ezyvet",
+          "seconds": 61,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add Copilot instructions for repository \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 61,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Fix merge artifacts in justSendContactToEzy.py by Copilot \u00b7 Pull Request #3 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 61,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_recent_consults.py \u2014 vetspire-to-ezyvet",
+          "seconds": 60,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.inactive_contact.json \u2014 vetspire-to-ezyvet",
+          "seconds": 59,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Implement comprehensive 429 (Too Many Requests) handling in EzyVetAPIClient and eliminate raw requests usage by Copilot \u00b7 Pull Request #12 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 58,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Implement comprehensive 429 (Too Many Requests) handling in EzyVetAPIClient and eliminate raw requests usage by Copilot \u00b7 Pull Request #12 \u00b7 hdsheena/vetspire-to-ezyvet - High memory usage  - Google Chrome",
+          "seconds": 57,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "filter_future_reservations.py \u2014 vetspire-to-ezyvet",
+          "seconds": 57,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "vetspire-to-ezyvet/scripts/justSendContactToEzy.py at main \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 57,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Branches \u00b7 hdsheena/vetspire-to-ezyvet - High memory usage  - Google Chrome",
+          "seconds": 56,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_build_ezyvet_payloads_consult_mapping.py \u2014 vetspire-to-ezyvet",
+          "seconds": 55,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_visit_history_comparison.json \u2014 vetspire-to-ezyvet",
+          "seconds": 54,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointment_resource_type_failures.json \u2014 vetspire-to-ezyvet",
+          "seconds": 54,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "tmp_first5.json \u2014 vetspire-to-ezyvet",
+          "seconds": 54,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Fix merge artifacts in justSendContactToEzy.py \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 54,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.failure_reasons.json \u2014 vetspire-to-ezyvet",
+          "seconds": 53,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointment_analysis.json \u2014 vetspire-to-ezyvet",
+          "seconds": 53,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.deceased.json \u2014 vetspire-to-ezyvet",
+          "seconds": 52,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "expanded_sections_from_schema.gql \u2014 vetspire-to-ezyvet",
+          "seconds": 51,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Fix merge artifacts in justSendContactToEzy.py \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 50,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Copilot - Google Chrome",
+          "seconds": 49,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Merging: ezyvet_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 49,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "README.md \u2014 vetspire-to-ezyvet",
+          "seconds": 49,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Organize repository by removing unused files \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 49,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_protocol_reminders.json \u2014 vetspire-to-ezyvet",
+          "seconds": 48,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Port retry logic and deduplication from justSendContactToEzy to post_contact_to_ezy \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 48,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "Get standard of care events - Vetspire to Ezyvet",
+          "seconds": 47,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Manage access - Google Chrome",
+          "seconds": 47,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Edit monthly budget - Google Chrome",
+          "seconds": 47,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_vetspire_reservation.py \u2014 vetspire-to-ezyvet",
+          "seconds": 46,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "user_map.json \u2014 vetspire-to-ezyvet",
+          "seconds": 45,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Refactor active status pattern for improved breakpoint handling \u00b7 GitHub Copilot - High memory usage  - Google Chrome",
+          "seconds": 44,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "New monthly budget - Google Chrome",
+          "seconds": 43,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointments_handoff.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 42,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 42,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.already_exists.json \u2014 vetspire-to-ezyvet",
+          "seconds": 42,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add Copilot instructions for repository by Copilot \u00b7 Pull Request #6 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 42,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animal_map.from_appointments.json \u2014 vetspire-to-ezyvet",
+          "seconds": 42,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_animals_missing_in_ezy.1.json \u2014 vetspire-to-ezyvet",
+          "seconds": 41,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_vitals_payloads.json \u2014 vetspire-to-ezyvet",
+          "seconds": 41,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Pull requests \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 39,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "cxmlSamplePatterson.xml \u2014 vetspire-to-ezyvet",
+          "seconds": 39,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Billing Overview - Google Chrome",
+          "seconds": 38,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Fix merge artifacts in justSendContactToEzy.py \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 38,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Reorganize repository: move deprecated one-off scripts and data to to-remove directory \u00b7 Task \u00b7 GitHub Copilot - High memory usage  - Google Chrome",
+          "seconds": 38,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Set up Copilot instructions for repository by Copilot \u00b7 Pull Request #6 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 38,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Integrate logic from justsend into post_contact_to_ezy by Copilot \u00b7 Pull Request #8 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 38,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "bulk_update_consult_animals.py \u2014 vetspire-to-ezyvet",
+          "seconds": 37,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contact_id_mapping.json (Working Tree) (contact_id_mapping.json) \u2014 vetspire-to-ezyvet",
+          "seconds": 37,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Review functions for handling 429 errors from ezyvet API \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 36,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Billing Usage - High memory usage - 1.1 GB - Google Chrome",
+          "seconds": 36,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "flatten_sectionsjson.py \u2014 vetspire-to-ezyvet",
+          "seconds": 36,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_inspect_no_sample_fallback.py \u2014 vetspire-to-ezyvet",
+          "seconds": 36,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add ezyVet v2 appointments fetching and comparison with Vetspire \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 35,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.active_with_inactive_contact.json \u2014 vetspire-to-ezyvet",
+          "seconds": 35,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Implement species map loading for strict animal matching in appointment resolution by Copilot \u00b7 Pull Request #10 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 35,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_all_contacts.1.json \u2014 vetspire-to-ezyvet",
+          "seconds": 34,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "extract_encounter_section_schema.py \u2014 vetspire-to-ezyvet",
+          "seconds": 34,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Device Activation - Google Chrome",
+          "seconds": 34,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Port retry logic and deduplication from justSendContactToEzy to post_contact_to_ezy and add batch contact posting by Copilot \u00b7 Pull Request #8 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 33,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "future_reservation_ids.json \u2014 vetspire-to-ezyvet",
+          "seconds": 31,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "GitHub \u00b7 Where software is built - Google Chrome",
+          "seconds": 31,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Analysis: Document refactoring changes to justSendContactToEzy.py from PR #2 \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 29,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_contacts_missing_in_ezy.addresses.json \u2014 vetspire-to-ezyvet",
+          "seconds": 29,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_visit_history.progress.json \u2014 vetspire-to-ezyvet",
+          "seconds": 29,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointments_handoff_dedup.json \u2014 vetspire-to-ezyvet",
+          "seconds": 29,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Contacts-2025-12-10-12-52-35.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 28,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_inactive_future_appointments.json \u2014 vetspire-to-ezyvet",
+          "seconds": 28,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_vetspire_reservations_batch.py \u2014 vetspire-to-ezyvet",
+          "seconds": 27,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_appointment_to_ezyvet.py (fe3dd9e) \u2194 post_appointment_to_ezyvet.py (c989387) (post_appointment_to_ezyvet.py) \u2014 vetspire-to-ezyvet",
+          "seconds": 27,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Refactor: Extract nested functions and decompose massive main functions \u00b7 Task \u00b7 GitHub Copilot - High memory usage  - Google Chrome",
+          "seconds": 27,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Compare \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 26,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Addressing comment on PR #3 \u00b7 hdsheena/vetspire-to-ezyvet@ac4cddf - Google Chrome",
+          "seconds": 26,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "history_to_ezyvet_csv.py \u2014 vetspire-to-ezyvet",
+          "seconds": 26,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointment_comparison.json \u2014 vetspire-to-ezyvet",
+          "seconds": 26,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Untitled-1 \u2014 vetspire-to-ezyvet",
+          "seconds": 26,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Refactor: Extract nested functions and decompose massive main functions \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 25,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_all_contacts_without_historicalid.json \u2014 vetspire-to-ezyvet",
+          "seconds": 24,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_contacts.already_exists.json \u2014 vetspire-to-ezyvet",
+          "seconds": 23,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "consult_user_map.json \u2014 vetspire-to-ezyvet",
+          "seconds": 23,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Analysis: Document refactoring changes to justSendContactToEzy.py from PR #2 \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 23,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "ebowman/rescuetime-mcp: MCP interface to the rescuetime API - Google Chrome",
+          "seconds": 23,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "reservation_213206.json \u2014 vetspire-to-ezyvet",
+          "seconds": 23,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_animal_to_ezyvet.py (b7f71f8) \u2194 post_animal_to_ezyvet.py (b4d8ef3) (post_animal_to_ezyvet.py) \u2014 vetspire-to-ezyvet",
+          "seconds": 23,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "New Issue - Google Chrome",
+          "seconds": 22,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_contacts_missing_in_ezy.json \u2014 vetspire-to-ezyvet",
+          "seconds": 21,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Branches \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 21,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "patterson-initial_20251125.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 21,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Billing Usage - Google Chrome",
+          "seconds": 20,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Comparing main...copilot/refactor-large-main-functions \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 20,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Refactor functions to use single return point for easier debugging by Copilot \u00b7 Pull Request #14 \u00b7 hdsheena/vetspire-to-ezyvet - High memory usage  - Google Chrome",
+          "seconds": 19,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Implement comprehensive 429 (Too Many Requests) handling in EzyVetAPIClient and eliminate raw requests usage \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 19,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "validate_animal_id_mapping.py \u2014 vetspire-to-ezyvet",
+          "seconds": 19,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "clinical_payload_utils.py \u2014 vetspire-to-ezyvet",
+          "seconds": 18,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_appointments.json \u2014 vetspire-to-ezyvet",
+          "seconds": 18,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Organize repository by removing unused files \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 17,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_visit_history.py \u2014 vetspire-to-ezyvet",
+          "seconds": 17,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_appointments_batch.py (fe3dd9e) \u2194 post_appointments_batch.py (c989387) (post_appointments_batch.py) \u2014 vetspire-to-ezyvet",
+          "seconds": 17,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "sessions.pyi \u2014 vetspire-to-ezyvet",
+          "seconds": 17,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_visit_history_api.py \u2014 vetspire-to-ezyvet",
+          "seconds": 16,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "contacts_batch_failures.json \u2014 vetspire-to-ezyvet",
+          "seconds": 15,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.progress.json \u2014 vetspire-to-ezyvet",
+          "seconds": 15,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "filter_vitals_by_inserted_at.py \u2014 vetspire-to-ezyvet",
+          "seconds": 15,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_vetspire_contacts.py \u2014 vetspire-to-ezyvet",
+          "seconds": 15,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Your profile - Google Chrome",
+          "seconds": 15,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Refactor: Extract nested functions and decompose massive main functions \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 15,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "docs.github.com",
+          "document": "No Details",
+          "seconds": 14,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_email_utils.py \u2014 vetspire-to-ezyvet",
+          "seconds": 14,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointment_resource_type_failures.dec9bak.json \u2014 vetspire-to-ezyvet",
+          "seconds": 14,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "\u2728 Set up Copilot instructions \u00b7 Issue #5 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 14,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Query encounters by appointment date range instead of sample file \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 14,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Update fetch_visit_history to retrieve recent pet encounters \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 14,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Analysis: Document refactoring changes to justSendContactToEzy.py from PR #2 by Copilot \u00b7 Pull Request #4 \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 13,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Reorganize repository: move deprecated one-off scripts and data to to-remove directory by Copilot \u00b7 Pull Request #1 \u00b7 hdsheena/vetspire-to-ezyvet - High memory usage  - Google Chrome",
+          "seconds": 13,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Refactor files with large main functions and nested functions \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 13,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Refactor functions to use single return point for easier debugging \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 13,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Use a saved passkey for github.com",
+          "seconds": 13,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "post_contact_to_ezy.py (cd26a56) \u2194 post_contact_to_ezy.py (c9b608e) (post_contact_to_ezy.py) \u2014 vetspire-to-ezyvet",
+          "seconds": 12,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "species_map.json \u2014 vetspire-to-ezyvet",
+          "seconds": 12,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "developer.vetspire.com",
+          "document": "No Details",
+          "seconds": 12,
+          "category": "Uncategorized",
+          "productivity": 0
+        },
+        {
+          "activity": "Github",
+          "document": "vetspire-to-ezyvet/src at main \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 12,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "address_mismatch.log \u2014 vetspire-to-ezyvet",
+          "seconds": 12,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "Clinical - Vetspire to Ezyvet",
+          "seconds": 12,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Add post_contact_batch.py wrapper for singular naming consistency \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 11,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_build_ezyvet_payloads_consult_description.py \u2014 vetspire-to-ezyvet",
+          "seconds": 11,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animal_id_mapping.bak2.json \u2014 vetspire-to-ezyvet",
+          "seconds": 11,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_visit_history.py (changes from chat) (fetch_visit_history.py) \u2014 vetspire-to-ezyvet",
+          "seconds": 11,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "__init__.py \u2014 vetspire-to-ezyvet",
+          "seconds": 11,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Comparing main...main \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 11,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointments_handoff_dedup_filtered.json \u2014 vetspire-to-ezyvet",
+          "seconds": 10,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "check_appointment_values.py \u2014 vetspire-to-ezyvet",
+          "seconds": 10,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 9,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Confirm access - Google Chrome",
+          "seconds": 9,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "ezyVet Copy - Vetspire to Ezyvet",
+          "seconds": 9,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_appointments.pending.dec9bak.json \u2014 vetspire-to-ezyvet",
+          "seconds": 8,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "Vitals - Vetspire to Ezyvet",
+          "seconds": 8,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Initial plan \u00b7 hdsheena/vetspire-to-ezyvet@e99de6e - Google Chrome",
+          "seconds": 8,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "sample_single_consult_payload.json \u2014 vetspire-to-ezyvet",
+          "seconds": 8,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "hdsheena/vetspire-to-ezyvet at copilot/cleanup-repo-structure - Google Chrome",
+          "seconds": 8,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Implement species map loading for strict animal matching in appointment resolution \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 8,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_graphql_explorer.ipynb \u2014 vetspire-to-ezyvet",
+          "seconds": 8,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_sections_to_encounter_map.py \u2014 vetspire-to-ezyvet",
+          "seconds": 8,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".env.prod \u2014 vetspire-to-ezyvet",
+          "seconds": 7,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_match_results_run.json \u2014 vetspire-to-ezyvet",
+          "seconds": 7,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Initial plan \u00b7 hdsheena/vetspire-to-ezyvet@421fd73 - Google Chrome",
+          "seconds": 7,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animal_id_mapping copy.json \u2014 vetspire-to-ezyvet",
+          "seconds": 7,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "Patterson-InventoryAlly_SampleFile.xlsx \u2014 vetspire-to-ezyvet",
+          "seconds": 7,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_flatten_sectionsjson.py \u2014 vetspire-to-ezyvet",
+          "seconds": 7,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animal_map.json \u2014 vetspire-to-ezyvet",
+          "seconds": 7,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.enriched.json (Working Tree) (vetspire_patients.enriched.json) \u2014 vetspire-to-ezyvet",
+          "seconds": 7,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Authorize application - Google Chrome",
+          "seconds": 6,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "fetch_visit_history.py (Working Tree) (fetch_visit_history.py) \u2014 vetspire-to-ezyvet",
+          "seconds": 6,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Untitled - Google Chrome",
+          "seconds": 6,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animal_id_mapping.bak.json \u2014 vetspire-to-ezyvet",
+          "seconds": 6,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "ezyvet_recent_consults.json \u2014 vetspire-to-ezyvet",
+          "seconds": 6,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "hdsheena/rescuetime-mcp: MCP interface to the rescuetime API - Google Chrome",
+          "seconds": 6,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "demo_mapping.py \u2014 vetspire-to-ezyvet",
+          "seconds": 6,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "File History (vetspire_visit_history.json) \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "GitHub \u00b7 Change is constant. GitHub keeps you ahead. \u00b7 GitHub - Google Chrome",
+          "seconds": 5,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "animal_id_mapping.bak2 copy.json \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Spark - Google Chrome",
+          "seconds": 5,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "compare_pets_in_files.py (cd26a56) \u2194 compare_pets_in_files.py (c9b608e) (compare_pets_in_files.py) \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "hdsheena (Courtenay) - Google Chrome",
+          "seconds": 5,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "product_map.sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "consults_batch_successes.json \u2014 vetspire-to-ezyvet",
+          "seconds": 5,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Payment Information - Google Chrome",
+          "seconds": 5,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Verify Session - Google Chrome",
+          "seconds": 4,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "File History (Animal_Export [hmrah.use1.ezyvet.com].csv) \u2014 vetspire-to-ezyvet",
+          "seconds": 4,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".gitignore (Working Tree) (.gitignore) \u2014 vetspire-to-ezyvet",
+          "seconds": 4,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "#!/usr/bin/env python3 \u2022 Untitled-1 \u2014 vetspire-to-ezyvet",
+          "seconds": 4,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "GitHub - Google Chrome",
+          "seconds": 4,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Copilot coding agent - High memory usage  - Google Chrome",
+          "seconds": 4,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "clients.py \u2014 vetspire-to-ezyvet",
+          "seconds": 4,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Your Repositories - Google Chrome",
+          "seconds": 4,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_appointments.failure.dec9bak2.json \u2014 vetspire-to-ezyvet",
+          "seconds": 4,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "encounter.json \u2014 vetspire-to-ezyvet",
+          "seconds": 4,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Models - Google Chrome",
+          "seconds": 4,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Two-factor authentication \u00b7 GitHub - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "Animal Management - Vetspire to Ezyvet",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "Postman",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "user_map.sample.json \u2014 vetspire-to-ezyvet",
+          "seconds": 3,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Budgets - High memory usage - 1.1 GB - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_vitals.json \u2014 vetspire-to-ezyvet",
+          "seconds": 3,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Your Repositories - High memory usage  - Google Chrome",
+          "seconds": 3,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_inspect_fallback.py \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Reorganize repository: move deprecated one-off scripts and data to to-remove directory \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "Auth Prod Hope - Vetspire to Ezyvet",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_post_contact_helpers.py \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Analysis: Document refactoring changes to justSendContactToEzy.py from PR #2 \u00b7 Task \u00b7 GitHub Copilot - High memory usage  - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Set up Copilot instructions for repository \u00b7 Task \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "email_utils.py \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Commits \u00b7 hdsheena/vetspire-to-ezyvet - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Sign in to GitHub \u00b7 GitHub - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "New chat \u00b7 GitHub Copilot - High memory usage - 1.1 GB - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "hdsheena/rescuetime-mcp: MCP interface to the rescuetime API - High memory usage - 1.1 GB - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": ".env.test \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "Port retry logic and deduplication from justSendContactToEzy to post_contact_to_ezy \u00b7 Task \u00b7 GitHub Copilot - High memory usage  - Google Chrome",
+          "seconds": 2,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointments_handoff.json \u2014 vetspire-to-ezyvet",
+          "seconds": 2,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "General - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "standardofcare - Vetspire to Ezyvet",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "github.com/login?return_to=https://github.com/login/device - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_history_to_ezyvet_csv.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "postman",
+          "document": "Creates a HealthStatus - Vetspire to Ezyvet",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "sample_history_small.json \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_visit_history.bak2.json \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "test_build_ezyvet_payloads_physical_exams.py \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "vetspire_patients.enriched.csv \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "appointment_status_map.json \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "github.com - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        },
+        {
+          "activity": "Visual Studio Code",
+          "document": "DiagnosticRequest_Export [hmrah.use1.ezyvet.com].csv \u2014 vetspire-to-ezyvet",
+          "seconds": 1,
+          "category": "Editing & IDEs",
+          "productivity": 2
+        },
+        {
+          "activity": "Github",
+          "document": "[WIP] Integrate logic from justsend into post_contact_to_ezy \u00b7 GitHub Copilot - Google Chrome",
+          "seconds": 1,
+          "category": "General Software Development",
+          "productivity": 2
+        }
+      ]
+    }
+  ]
+}
