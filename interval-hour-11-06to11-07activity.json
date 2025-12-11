@@ -1,0 +1,4245 @@
+{
+  "notes": "data is an array of arrays (rows), column names for rows in row_headers",
+  "row_headers": [
+    "Date",
+    "Time Spent (seconds)",
+    "Number of People",
+    "Activity",
+    "Category",
+    "Productivity"
+  ],
+  "rows": [
+    [
+      "2025-11-06T00:00:00",
+      1,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T02:00:00",
+      177,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-06T02:00:00",
+      170,
+      1,
+      "YouTube for Android",
+      "Video",
+      -2
+    ],
+    [
+      "2025-11-06T02:00:00",
+      7,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T08:00:00",
+      1473,
+      1,
+      "Blank Web Browser",
+      "Internet Utilities",
+      1
+    ],
+    [
+      "2025-11-06T08:00:00",
+      390,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-06T08:00:00",
+      256,
+      1,
+      "dbeaver",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      "2025-11-06T08:00:00",
+      176,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T08:00:00",
+      156,
+      1,
+      "scotiabank.com",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      "2025-11-06T08:00:00",
+      135,
+      1,
+      "meet.google.com",
+      "Meetings",
+      1
+    ],
+    [
+      "2025-11-06T08:00:00",
+      81,
+      1,
+      "mycovetrus.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T08:00:00",
+      74,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-06T08:00:00",
+      59,
+      1,
+      "trello.com",
+      "Project Management",
+      1
+    ],
+    [
+      "2025-11-06T08:00:00",
+      41,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T08:00:00",
+      38,
+      1,
+      "go.screenpal.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T08:00:00",
+      35,
+      1,
+      "somup.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T08:00:00",
+      33,
+      1,
+      "my.inventoryally.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T08:00:00",
+      11,
+      1,
+      "granola",
+      "Engineering & Technology",
+      1
+    ],
+    [
+      "2025-11-06T08:00:00",
+      9,
+      1,
+      "app.custify.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T08:00:00",
+      6,
+      1,
+      "Discord",
+      "General Communication & Scheduling",
+      0
+    ],
+    [
+      "2025-11-06T08:00:00",
+      4,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-06T08:00:00",
+      2,
+      1,
+      "omi",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T08:00:00",
+      1,
+      1,
+      "order.wendys.com",
+      "General Entertainment",
+      -2
+    ],
+    [
+      "2025-11-06T09:00:00",
+      1836,
+      1,
+      "Blank Web Browser",
+      "Internet Utilities",
+      1
+    ],
+    [
+      "2025-11-06T09:00:00",
+      631,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-06T09:00:00",
+      426,
+      1,
+      "meet.google.com",
+      "Meetings",
+      1
+    ],
+    [
+      "2025-11-06T09:00:00",
+      218,
+      1,
+      "dbeaver",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      "2025-11-06T09:00:00",
+      199,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T09:00:00",
+      119,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-06T09:00:00",
+      95,
+      1,
+      "github desktop",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T09:00:00",
+      53,
+      1,
+      "Activity Monitor",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T09:00:00",
+      10,
+      1,
+      "google chrome",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T09:00:00",
+      3,
+      1,
+      "omi",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      922,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      523,
+      1,
+      "postman",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      284,
+      1,
+      "evc-test.azurewebsites.net",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      252,
+      1,
+      "dbeaver",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      203,
+      1,
+      "gemini.google.com",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-06T10:00:00",
+      200,
+      1,
+      "trello.com",
+      "Project Management",
+      1
+    ],
+    [
+      "2025-11-06T10:00:00",
+      188,
+      1,
+      "Blank Web Browser",
+      "Internet Utilities",
+      1
+    ],
+    [
+      "2025-11-06T10:00:00",
+      170,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      131,
+      1,
+      "app.intercom.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      127,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      120,
+      1,
+      "iWork Numbers",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      68,
+      1,
+      "veterinarycarelogistics.sandbox.vetspire.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      66,
+      1,
+      "my.inventoryally.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      63,
+      1,
+      "Google Spreadsheets",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      55,
+      1,
+      "google.com/notebook",
+      "Intelligence",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      44,
+      1,
+      "omi",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      33,
+      1,
+      "dev.azure.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      30,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-06T10:00:00",
+      23,
+      1,
+      "learning.postman.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      20,
+      1,
+      "static.bloomgrowth.com",
+      "Meetings",
+      1
+    ],
+    [
+      "2025-11-06T10:00:00",
+      14,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      12,
+      1,
+      "sandbox.vetspire.ai",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      9,
+      1,
+      "mermaidchart.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      7,
+      1,
+      "meet.google.com",
+      "Meetings",
+      1
+    ],
+    [
+      "2025-11-06T10:00:00",
+      7,
+      1,
+      "vetintegrations.vetspire.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      7,
+      1,
+      "sandbox.vetspire.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      5,
+      1,
+      "vetspire.ai",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      5,
+      1,
+      "Activity Monitor",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T10:00:00",
+      4,
+      1,
+      "google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      3,
+      1,
+      "app.custify.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T10:00:00",
+      2,
+      1,
+      "granola",
+      "Engineering & Technology",
+      1
+    ],
+    [
+      "2025-11-06T10:00:00",
+      2,
+      1,
+      "vetspire.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T10:00:00",
+      1,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-06T11:00:00",
+      787,
+      1,
+      "Google Spreadsheets",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      487,
+      1,
+      "postman",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      335,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      300,
+      1,
+      "Github",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      245,
+      1,
+      "github desktop",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      212,
+      1,
+      "developers.ezyvet.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      191,
+      1,
+      "chatgpt",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-06T11:00:00",
+      189,
+      1,
+      "veterinarycarelogistics.sandbox.vetspire.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      173,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      136,
+      1,
+      "survey3.medallia.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      68,
+      1,
+      "Finder",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T11:00:00",
+      54,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-06T11:00:00",
+      51,
+      1,
+      "dbeaver",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      45,
+      1,
+      "gemini.google.com",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-06T11:00:00",
+      40,
+      1,
+      "keep.google.com",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-06T11:00:00",
+      39,
+      1,
+      "docs.litellm.ai",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      38,
+      1,
+      "Discord",
+      "General Communication & Scheduling",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      37,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      27,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      26,
+      1,
+      "jules.google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      22,
+      1,
+      "interiorhealth.ca",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      20,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      19,
+      1,
+      "google.com/notebook",
+      "Intelligence",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      12,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-06T11:00:00",
+      9,
+      1,
+      "appointments.lifelabs.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      9,
+      1,
+      "app.intercom.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T11:00:00",
+      8,
+      1,
+      "lifelabs.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      5,
+      1,
+      "docs.ezyvet.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      3,
+      1,
+      "locations.lifelabs.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      3,
+      1,
+      "google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      2,
+      1,
+      "mermaidchart.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      2,
+      1,
+      "jules.google",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T11:00:00",
+      1,
+      1,
+      "dev.azure.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      908,
+      1,
+      "Github",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      671,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      510,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      336,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T12:00:00",
+      238,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-06T12:00:00",
+      199,
+      1,
+      "labonlinebooking.ca",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T12:00:00",
+      160,
+      1,
+      "granola",
+      "Engineering & Technology",
+      1
+    ],
+    [
+      "2025-11-06T12:00:00",
+      151,
+      1,
+      "jules.google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-06T12:00:00",
+      90,
+      1,
+      "dbeaver",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      85,
+      1,
+      "myhealthportal.interiorhealth.ca",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      70,
+      1,
+      "survey3.medallia.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      27,
+      1,
+      "Finder",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T12:00:00",
+      27,
+      1,
+      "my.inventoryally.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      26,
+      1,
+      "interiorhealth.ca",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      24,
+      1,
+      "github desktop",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      19,
+      1,
+      "keep.google.com",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-06T12:00:00",
+      19,
+      1,
+      "Discord",
+      "General Communication & Scheduling",
+      0
+    ],
+    [
+      "2025-11-06T12:00:00",
+      13,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-06T12:00:00",
+      7,
+      1,
+      "google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-06T12:00:00",
+      6,
+      1,
+      "login.bc.mycarecompass.lifelabs.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T12:00:00",
+      6,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T12:00:00",
+      5,
+      1,
+      "app.intercom.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T12:00:00",
+      1,
+      1,
+      "coreautha",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T13:00:00",
+      1286,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-06T13:00:00",
+      380,
+      1,
+      "Github",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T13:00:00",
+      167,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-06T13:00:00",
+      106,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T13:00:00",
+      101,
+      1,
+      "Preview",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-06T13:00:00",
+      77,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T13:00:00",
+      68,
+      1,
+      "dbeaver",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      "2025-11-06T13:00:00",
+      23,
+      1,
+      "github desktop",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-06T13:00:00",
+      15,
+      1,
+      "jules.google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-06T13:00:00",
+      5,
+      1,
+      "Finder",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T13:00:00",
+      3,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-06T14:00:00",
+      124,
+      1,
+      "mobile - io.intercom.android",
+      "Customer Relations",
+      2
+    ],
+    [
+      "2025-11-06T14:00:00",
+      103,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-06T14:00:00",
+      97,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-06T14:00:00",
+      43,
+      1,
+      "mobile - com.google.android.apps.docs.editors.sheets",
+      "Writing",
+      2
+    ],
+    [
+      "2025-11-06T14:00:00",
+      10,
+      1,
+      "mobile - com.spotify.music",
+      "Music",
+      -2
+    ],
+    [
+      "2025-11-06T14:00:00",
+      3,
+      1,
+      "Google Calendar for Android",
+      "Calendars",
+      1
+    ],
+    [
+      "2025-11-06T15:00:00",
+      1478,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-06T15:00:00",
+      323,
+      1,
+      "Facebook for Android",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T15:00:00",
+      131,
+      1,
+      "mobile - com.google.android.apps.docs.editors.sheets",
+      "Writing",
+      2
+    ],
+    [
+      "2025-11-06T15:00:00",
+      67,
+      1,
+      "Google Photos",
+      "Photos",
+      -2
+    ],
+    [
+      "2025-11-06T15:00:00",
+      34,
+      1,
+      "Camera - Android",
+      "Photos",
+      -2
+    ],
+    [
+      "2025-11-06T15:00:00",
+      19,
+      1,
+      "Android Dialer",
+      "Voice Chat",
+      1
+    ],
+    [
+      "2025-11-06T15:00:00",
+      11,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-06T15:00:00",
+      11,
+      1,
+      "Pocket Casts",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      "2025-11-06T15:00:00",
+      11,
+      1,
+      "mobile - com.google.android.settings.intelligence",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T15:00:00",
+      9,
+      1,
+      "Google Now",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-06T15:00:00",
+      8,
+      1,
+      "mobile - com.google.android.permissioncontroller",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T15:00:00",
+      6,
+      1,
+      "Chromecast for Android",
+      "Video",
+      -2
+    ],
+    [
+      "2025-11-06T15:00:00",
+      6,
+      1,
+      "Google Chrome for Android",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T15:00:00",
+      6,
+      1,
+      "Android telecom",
+      "Internet Utilities",
+      1
+    ],
+    [
+      "2025-11-06T15:00:00",
+      1,
+      1,
+      "Android Settings",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T16:00:00",
+      1044,
+      1,
+      "Facebook for Android",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T16:00:00",
+      372,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-06T16:00:00",
+      366,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-06T16:00:00",
+      162,
+      1,
+      "TikTok",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T16:00:00",
+      108,
+      1,
+      "Google Now",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-06T16:00:00",
+      21,
+      1,
+      "Google Chrome for Android",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T16:00:00",
+      4,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T16:00:00",
+      3,
+      1,
+      "Camera - Android",
+      "Photos",
+      -2
+    ],
+    [
+      "2025-11-06T16:00:00",
+      2,
+      1,
+      "Play Store",
+      "General Shopping",
+      -2
+    ],
+    [
+      "2025-11-06T17:00:00",
+      1047,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-06T17:00:00",
+      330,
+      1,
+      "Google Chrome for Android",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T17:00:00",
+      294,
+      1,
+      "Facebook for Android",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T17:00:00",
+      175,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-06T17:00:00",
+      17,
+      1,
+      "Google Maps for Android",
+      "Maps & Regional",
+      -1
+    ],
+    [
+      "2025-11-06T17:00:00",
+      14,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-06T17:00:00",
+      9,
+      1,
+      "Google Now",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-06T17:00:00",
+      2,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T17:00:00",
+      2,
+      1,
+      "mobile - com.android.intentresolver",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T18:00:00",
+      1108,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-06T18:00:00",
+      573,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-06T18:00:00",
+      83,
+      1,
+      "online-appointments.janeapp.net",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T18:00:00",
+      38,
+      1,
+      "mobile - com.discord",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-06T18:00:00",
+      14,
+      1,
+      "Google Maps for Android",
+      "Maps & Regional",
+      -1
+    ],
+    [
+      "2025-11-06T18:00:00",
+      14,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-06T18:00:00",
+      13,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-06T18:00:00",
+      12,
+      1,
+      "omi",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T18:00:00",
+      10,
+      1,
+      "granola",
+      "Engineering & Technology",
+      1
+    ],
+    [
+      "2025-11-06T18:00:00",
+      2,
+      1,
+      "barlowlaketherapy.janeapp.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T18:00:00",
+      2,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T18:00:00",
+      1,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T18:00:00",
+      1,
+      1,
+      "google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-06T19:00:00",
+      315,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-06T19:00:00",
+      287,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-06T19:00:00",
+      283,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-06T19:00:00",
+      144,
+      1,
+      "granola",
+      "Engineering & Technology",
+      1
+    ],
+    [
+      "2025-11-06T19:00:00",
+      127,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-06T19:00:00",
+      64,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T19:00:00",
+      60,
+      1,
+      "dbeaver",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      "2025-11-06T19:00:00",
+      46,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-06T19:00:00",
+      45,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-06T19:00:00",
+      43,
+      1,
+      "Google Chrome for Android",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T19:00:00",
+      24,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T19:00:00",
+      13,
+      1,
+      "my.inventoryally.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T19:00:00",
+      10,
+      1,
+      "Android Settings",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T19:00:00",
+      5,
+      1,
+      "mobile - com.google.android.apps.weather",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T19:00:00",
+      5,
+      1,
+      "barlowlaketherapy.janeapp.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T19:00:00",
+      4,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-06T19:00:00",
+      2,
+      1,
+      "online-appointments.janeapp.net",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T19:00:00",
+      2,
+      1,
+      "Google Maps for Android",
+      "Maps & Regional",
+      -1
+    ],
+    [
+      "2025-11-06T20:00:00",
+      350,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-06T20:00:00",
+      319,
+      1,
+      "granola",
+      "Engineering & Technology",
+      1
+    ],
+    [
+      "2025-11-06T20:00:00",
+      292,
+      1,
+      "Facebook for Android",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T20:00:00",
+      192,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-06T20:00:00",
+      163,
+      1,
+      "omi",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-06T20:00:00",
+      156,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-06T20:00:00",
+      127,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-06T20:00:00",
+      57,
+      1,
+      "Google Chrome for Android",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T20:00:00",
+      46,
+      1,
+      "dbeaver",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      "2025-11-06T20:00:00",
+      36,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-06T20:00:00",
+      17,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-06T20:00:00",
+      5,
+      1,
+      "mobile - com.discord",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-06T20:00:00",
+      2,
+      1,
+      "my.inventoryally.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T20:00:00",
+      2,
+      1,
+      "mobile - com.amazon.clouddrive.photos",
+      "Photos",
+      -2
+    ],
+    [
+      "2025-11-06T21:00:00",
+      815,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-06T21:00:00",
+      492,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-06T21:00:00",
+      149,
+      1,
+      "TikTok",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-06T21:00:00",
+      54,
+      1,
+      "mobile - com.amazon.mshop.android.shopping",
+      "General Shopping",
+      -2
+    ],
+    [
+      "2025-11-06T21:00:00",
+      34,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-06T21:00:00",
+      24,
+      1,
+      "Google Chrome for Android",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-06T21:00:00",
+      6,
+      1,
+      "Google Docs: Drive",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-06T22:00:00",
+      620,
+      1,
+      "YouTube for Android",
+      "Video",
+      -2
+    ],
+    [
+      "2025-11-06T22:00:00",
+      279,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-06T22:00:00",
+      142,
+      1,
+      "Duolingo: Learn Languages Free",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-06T22:00:00",
+      129,
+      1,
+      "mobile - com.finch.finch",
+      "Health & Medicine",
+      1
+    ],
+    [
+      "2025-11-06T22:00:00",
+      10,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T03:00:00",
+      184,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T03:00:00",
+      126,
+      1,
+      "YouTube for Android",
+      "Video",
+      -2
+    ],
+    [
+      "2025-11-07T03:00:00",
+      14,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T03:00:00",
+      3,
+      1,
+      "Google Now",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T04:00:00",
+      38,
+      1,
+      "YouTube for Android",
+      "Video",
+      -2
+    ],
+    [
+      "2025-11-07T04:00:00",
+      3,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T05:00:00",
+      161,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T05:00:00",
+      24,
+      1,
+      "YouTube for Android",
+      "Video",
+      -2
+    ],
+    [
+      "2025-11-07T05:00:00",
+      15,
+      1,
+      "Sleep as Android",
+      "Health & Medicine",
+      -1
+    ],
+    [
+      "2025-11-07T06:00:00",
+      211,
+      1,
+      "mobile - com.redcell.goldandgoblins",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-07T06:00:00",
+      204,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T06:00:00",
+      130,
+      1,
+      "Google Now",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T06:00:00",
+      54,
+      1,
+      "Google Chrome for Android",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T06:00:00",
+      19,
+      1,
+      "YouTube for Android",
+      "Video",
+      -2
+    ],
+    [
+      "2025-11-07T06:00:00",
+      15,
+      1,
+      "Sleep as Android",
+      "Health & Medicine",
+      -1
+    ],
+    [
+      "2025-11-07T06:00:00",
+      7,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T06:00:00",
+      5,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T06:00:00",
+      4,
+      1,
+      "mobile - com.google.android.photopicker",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T07:00:00",
+      506,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      483,
+      1,
+      "dbeaver",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      464,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      409,
+      1,
+      "jules.google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T07:00:00",
+      186,
+      1,
+      "app.intercom.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      171,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-07T07:00:00",
+      159,
+      1,
+      "trello.com",
+      "Project Management",
+      1
+    ],
+    [
+      "2025-11-07T07:00:00",
+      122,
+      1,
+      "localhost:5678",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      97,
+      1,
+      "andrewkushnerov.medium.com",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      94,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T07:00:00",
+      82,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T07:00:00",
+      81,
+      1,
+      "Terminal",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      62,
+      1,
+      "Finder",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T07:00:00",
+      52,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-07T07:00:00",
+      27,
+      1,
+      "developers.google.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      16,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      16,
+      1,
+      "google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T07:00:00",
+      13,
+      1,
+      "Github",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      12,
+      1,
+      "github desktop",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      7,
+      1,
+      "home assistant",
+      "Other",
+      0
+    ],
+    [
+      "2025-11-07T07:00:00",
+      4,
+      1,
+      "downloads.intercomcdn.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T07:00:00",
+      3,
+      1,
+      "Sleep as Android",
+      "Health & Medicine",
+      -1
+    ],
+    [
+      "2025-11-07T07:00:00",
+      3,
+      1,
+      "gemini.google.com",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-07T07:00:00",
+      3,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T07:00:00",
+      3,
+      1,
+      "Preview",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-07T07:00:00",
+      3,
+      1,
+      "azure data studio",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      1,
+      1,
+      "figma.com",
+      "General Design & Composition",
+      2
+    ],
+    [
+      "2025-11-07T07:00:00",
+      1,
+      1,
+      "coreautha",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T08:00:00",
+      1775,
+      1,
+      "localhost:5678",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T08:00:00",
+      342,
+      1,
+      "docs.gitlab.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T08:00:00",
+      203,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T08:00:00",
+      166,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-07T08:00:00",
+      165,
+      1,
+      "trello.com",
+      "Project Management",
+      1
+    ],
+    [
+      "2025-11-07T08:00:00",
+      157,
+      1,
+      "docs.n8n.io",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T08:00:00",
+      118,
+      1,
+      "git.devmiles.com",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T08:00:00",
+      117,
+      1,
+      "gemini.google.com",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-07T08:00:00",
+      106,
+      1,
+      "Cursor",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T08:00:00",
+      103,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T08:00:00",
+      89,
+      1,
+      "n8n.io",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T08:00:00",
+      81,
+      1,
+      "jules.google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T08:00:00",
+      79,
+      1,
+      "ai.azure.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T08:00:00",
+      30,
+      1,
+      "Terminal",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-07T08:00:00",
+      18,
+      1,
+      "omi",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T08:00:00",
+      14,
+      1,
+      "Finder",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T08:00:00",
+      12,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T08:00:00",
+      8,
+      1,
+      "granola",
+      "Engineering & Technology",
+      1
+    ],
+    [
+      "2025-11-07T08:00:00",
+      3,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T08:00:00",
+      3,
+      1,
+      "andrewkushnerov.medium.com",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      "2025-11-07T08:00:00",
+      2,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T08:00:00",
+      1,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T09:00:00",
+      1012,
+      1,
+      "postman",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T09:00:00",
+      919,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T09:00:00",
+      529,
+      1,
+      "hmrah.use1.ezyvet.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T09:00:00",
+      449,
+      1,
+      "Google Spreadsheets",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T09:00:00",
+      215,
+      1,
+      "developers.ezyvet.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T09:00:00",
+      152,
+      1,
+      "ezyvet.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T09:00:00",
+      95,
+      1,
+      "veterinarycarelogistics.sandbox.vetspire.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T09:00:00",
+      59,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-07T09:00:00",
+      47,
+      1,
+      "google.com/notebook",
+      "Intelligence",
+      2
+    ],
+    [
+      "2025-11-07T09:00:00",
+      31,
+      1,
+      "Android Dialer",
+      "Voice Chat",
+      1
+    ],
+    [
+      "2025-11-07T09:00:00",
+      31,
+      1,
+      "google chrome",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T09:00:00",
+      21,
+      1,
+      "omi",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T09:00:00",
+      21,
+      1,
+      "iWork Numbers",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T09:00:00",
+      19,
+      1,
+      "granola",
+      "Engineering & Technology",
+      1
+    ],
+    [
+      "2025-11-07T09:00:00",
+      12,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T09:00:00",
+      6,
+      1,
+      "Cursor",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T09:00:00",
+      4,
+      1,
+      "docs.gitlab.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T09:00:00",
+      1,
+      1,
+      "mermaidchart.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      564,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      461,
+      1,
+      "postman",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      431,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-07T10:00:00",
+      237,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      212,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      206,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      132,
+      1,
+      "Facebook for Android",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      118,
+      1,
+      "documentation.sync.vet",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      116,
+      1,
+      "google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      90,
+      1,
+      "ctvnews.ca",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      87,
+      1,
+      "apidocs.sync.vet",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      78,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-07T10:00:00",
+      77,
+      1,
+      "instagram.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      53,
+      1,
+      "inspection.canada.ca",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      51,
+      1,
+      "southpaw.dog",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      35,
+      1,
+      "mobile - com.redcell.goldandgoblins",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      34,
+      1,
+      "hmrah.use1.ezyvet.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      27,
+      1,
+      "ubcic.bc.ca",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      26,
+      1,
+      "Google Spreadsheets",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      15,
+      1,
+      "chapaubaines.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      14,
+      1,
+      "canada.ca",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      12,
+      1,
+      "mobile - com.spotify.music",
+      "Music",
+      -2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      9,
+      1,
+      "vetlogic-co-2.domo.com",
+      "Intelligence",
+      2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      9,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T10:00:00",
+      5,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-07T10:00:00",
+      5,
+      1,
+      "mobile - com.viber.voip",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T10:00:00",
+      2,
+      1,
+      "docs.gitlab.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      1790,
+      1,
+      "localhost:5678",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      548,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-07T11:00:00",
+      321,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      263,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      230,
+      1,
+      "chatgpt",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-07T11:00:00",
+      99,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T11:00:00",
+      64,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      53,
+      1,
+      "docs.n8n.io",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T11:00:00",
+      47,
+      1,
+      "ai.azure.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      45,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-07T11:00:00",
+      34,
+      1,
+      "smartflowsheet.com",
+      "Operations",
+      2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      26,
+      1,
+      "support.atlassian.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      18,
+      1,
+      "Google Spreadsheets",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      14,
+      1,
+      "google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T11:00:00",
+      8,
+      1,
+      "stackoverflow.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      8,
+      1,
+      "git.devmiles.com",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T11:00:00",
+      7,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T11:00:00",
+      6,
+      1,
+      "docs.gitlab.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T12:00:00",
+      2318,
+      1,
+      "localhost:5678",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T12:00:00",
+      496,
+      1,
+      "docs.n8n.io",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T12:00:00",
+      288,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-07T12:00:00",
+      282,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T12:00:00",
+      82,
+      1,
+      "gemini.google.com",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-07T12:00:00",
+      58,
+      1,
+      "chatgpt",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-07T12:00:00",
+      26,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-07T12:00:00",
+      11,
+      1,
+      "ai.azure.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T12:00:00",
+      9,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T12:00:00",
+      7,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-07T12:00:00",
+      7,
+      1,
+      "jules.google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T12:00:00",
+      4,
+      1,
+      "docs.gitlab.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T12:00:00",
+      2,
+      1,
+      "support.atlassian.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T12:00:00",
+      2,
+      1,
+      "Google Spreadsheets",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T12:00:00",
+      1,
+      1,
+      "login.microsoftonline.com",
+      "Email",
+      0
+    ],
+    [
+      "2025-11-07T12:00:00",
+      1,
+      1,
+      "omi",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T13:00:00",
+      2486,
+      1,
+      "localhost:5678",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T13:00:00",
+      354,
+      1,
+      "dbeaver",
+      "Data Modeling & Analysis",
+      2
+    ],
+    [
+      "2025-11-07T13:00:00",
+      305,
+      1,
+      "gemini.google.com",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-07T13:00:00",
+      138,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T13:00:00",
+      124,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T13:00:00",
+      118,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-07T13:00:00",
+      78,
+      1,
+      "docs.n8n.io",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T13:00:00",
+      51,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T13:00:00",
+      31,
+      1,
+      "community.n8n.io",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T13:00:00",
+      26,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T13:00:00",
+      22,
+      1,
+      "trello.com",
+      "Project Management",
+      1
+    ],
+    [
+      "2025-11-07T14:00:00",
+      2981,
+      1,
+      "localhost:5678",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T14:00:00",
+      238,
+      1,
+      "ai.azure.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T14:00:00",
+      100,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T14:00:00",
+      86,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-07T14:00:00",
+      71,
+      1,
+      "learn.microsoft.com",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-07T14:00:00",
+      57,
+      1,
+      "docs.n8n.io",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T14:00:00",
+      24,
+      1,
+      "docs.langchain.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T14:00:00",
+      9,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-07T14:00:00",
+      8,
+      1,
+      "gemini.google.com",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-07T14:00:00",
+      5,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T14:00:00",
+      5,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T14:00:00",
+      5,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T14:00:00",
+      4,
+      1,
+      "google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T14:00:00",
+      1,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      1369,
+      1,
+      "localhost:5678",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      628,
+      1,
+      "YouTube for Android",
+      "Video",
+      -2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      479,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-07T15:00:00",
+      367,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      343,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      247,
+      1,
+      "mobile - com.spotify.music",
+      "Music",
+      -2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      201,
+      1,
+      "myhealthportal.interiorhealth.ca",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      164,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      135,
+      1,
+      "mobile - com.mywebgrocer.saveonfoodsshopping",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      117,
+      1,
+      "github desktop",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      113,
+      1,
+      "bc.mycarecompass.lifelabs.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      103,
+      1,
+      "google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      97,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      74,
+      1,
+      "pmc.ncbi.nlm.nih.gov",
+      "General News & Opinion",
+      -2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      46,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-07T15:00:00",
+      37,
+      1,
+      "docs.n8n.io",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      35,
+      1,
+      "Messenger for Android",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T15:00:00",
+      33,
+      1,
+      "Android Dialer",
+      "Voice Chat",
+      1
+    ],
+    [
+      "2025-11-07T15:00:00",
+      26,
+      1,
+      "login.bc.mycarecompass.lifelabs.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      25,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      22,
+      1,
+      "Google Chrome for Android",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      22,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T15:00:00",
+      20,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      16,
+      1,
+      "my.inventoryally.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      15,
+      1,
+      "mobile - com.google.android.contacts",
+      "General Communication & Scheduling",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      3,
+      1,
+      "mobile - com.keylesspalace.tusky",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      2,
+      1,
+      "community.n8n.io",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      2,
+      1,
+      "mobile - com.viber.voip",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T15:00:00",
+      2,
+      1,
+      "git.devmiles.com",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T15:00:00",
+      2,
+      1,
+      "learn.microsoft.com",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-07T15:00:00",
+      1,
+      1,
+      "docs.langchain.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T15:00:00",
+      1,
+      1,
+      "docs.gitlab.com",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T16:00:00",
+      2108,
+      1,
+      "localhost:5678",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T16:00:00",
+      1616,
+      1,
+      "Facebook Messenger",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T16:00:00",
+      497,
+      1,
+      "Facebook for Android",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T16:00:00",
+      456,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-07T16:00:00",
+      318,
+      1,
+      "gemini.google.com",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-07T16:00:00",
+      97,
+      1,
+      "Google Now",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T16:00:00",
+      64,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T16:00:00",
+      63,
+      1,
+      "Github",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T16:00:00",
+      43,
+      1,
+      "ai.azure.com",
+      "General Business",
+      2
+    ],
+    [
+      "2025-11-07T16:00:00",
+      27,
+      1,
+      "Google Photos",
+      "Photos",
+      -2
+    ],
+    [
+      "2025-11-07T16:00:00",
+      19,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-07T16:00:00",
+      15,
+      1,
+      "mobile - io.homeassistant.companion.android",
+      "Other",
+      0
+    ],
+    [
+      "2025-11-07T16:00:00",
+      9,
+      1,
+      "mobile - com.google.android.apps.weather",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T16:00:00",
+      7,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-07T16:00:00",
+      4,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T16:00:00",
+      3,
+      1,
+      "docs.n8n.io",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T16:00:00",
+      3,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T16:00:00",
+      3,
+      1,
+      "jules.google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T17:00:00",
+      254,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-07T17:00:00",
+      65,
+      1,
+      "form.jotform.com",
+      "Presentation",
+      2
+    ],
+    [
+      "2025-11-07T17:00:00",
+      14,
+      1,
+      "mobile - io.intercom.android",
+      "Customer Relations",
+      2
+    ],
+    [
+      "2025-11-07T17:00:00",
+      8,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T17:00:00",
+      8,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-07T17:00:00",
+      6,
+      1,
+      "localhost:5678",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      1799,
+      1,
+      "facebook.com",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      519,
+      1,
+      "form.jotform.com",
+      "Presentation",
+      2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      227,
+      1,
+      "amazon.com",
+      "General Shopping",
+      -2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      180,
+      1,
+      "search.worldcat.org",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      88,
+      1,
+      "epl.bibliocommons.com",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-07T18:00:00",
+      83,
+      1,
+      "google.com",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      78,
+      1,
+      "mobile - com.google.android.apps.docs.editors.sheets",
+      "Writing",
+      2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      72,
+      1,
+      "libgen.li",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-07T18:00:00",
+      67,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-07T18:00:00",
+      61,
+      1,
+      "postman",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      55,
+      1,
+      "epl.ca",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-07T18:00:00",
+      51,
+      1,
+      "hospet.app",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      46,
+      1,
+      "Visual Studio Code",
+      "Editing & IDEs",
+      2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      44,
+      1,
+      "my.hospet.app",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      36,
+      1,
+      "epl.overdrive.com",
+      "General Entertainment",
+      -2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      36,
+      1,
+      "olddogsgotohelen.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      27,
+      1,
+      "avast security",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      24,
+      1,
+      "portal.azure.com",
+      "Systems Operations",
+      2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      23,
+      1,
+      "Slack",
+      "General Communication & Scheduling",
+      1
+    ],
+    [
+      "2025-11-07T18:00:00",
+      23,
+      1,
+      "iaahpc.org",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      16,
+      1,
+      "newworldlibrary.com",
+      "Health & Medicine",
+      1
+    ],
+    [
+      "2025-11-07T18:00:00",
+      16,
+      1,
+      "newtab",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      15,
+      1,
+      "wagandcluck.com",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      12,
+      1,
+      "Preview",
+      "General Reference & Learning",
+      1
+    ],
+    [
+      "2025-11-07T18:00:00",
+      11,
+      1,
+      "iacpdogs.org",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      10,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      10,
+      1,
+      "nomonkeybusinessdogtraining.thinkific.com",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-07T18:00:00",
+      8,
+      1,
+      "discover.tnrl.ca",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      7,
+      1,
+      "sci-hub.se",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      7,
+      1,
+      "myaca.authn.worldcat.org",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      6,
+      1,
+      "accounts.google.com",
+      "General Communication & Scheduling",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      6,
+      1,
+      "submit.jotform.com",
+      "Presentation",
+      2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      5,
+      1,
+      "tnrl.ca",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      3,
+      1,
+      "authn.sd00.worldcat.org",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T18:00:00",
+      3,
+      1,
+      "oauth.oclc.org",
+      "General Software Development",
+      2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      2,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-07T18:00:00",
+      2,
+      1,
+      "library.maessr.org",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T19:00:00",
+      544,
+      1,
+      "my.hospet.app",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T19:00:00",
+      401,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-07T19:00:00",
+      98,
+      1,
+      "support.hospet.app",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T19:00:00",
+      87,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T19:00:00",
+      59,
+      1,
+      "mobile - io.homeassistant.companion.android",
+      "Other",
+      0
+    ],
+    [
+      "2025-11-07T19:00:00",
+      20,
+      1,
+      "beeper nightly",
+      "Uncategorized",
+      0
+    ],
+    [
+      "2025-11-07T19:00:00",
+      16,
+      1,
+      "mobile - com.discord",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T19:00:00",
+      9,
+      1,
+      "mobile - io.intercom.android",
+      "Customer Relations",
+      2
+    ],
+    [
+      "2025-11-07T19:00:00",
+      6,
+      1,
+      "Gmail",
+      "Email",
+      1
+    ],
+    [
+      "2025-11-07T19:00:00",
+      3,
+      1,
+      "mobile - com.google.android.apps.docs.editors.sheets",
+      "Writing",
+      2
+    ],
+    [
+      "2025-11-07T19:00:00",
+      2,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T20:00:00",
+      1374,
+      1,
+      "mobile - com.humble.slaythespire",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-07T20:00:00",
+      484,
+      1,
+      "mobile - com.redcell.goldandgoblins",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-07T20:00:00",
+      368,
+      1,
+      "mobile - name.boyle.chris.sgtpuzzles",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-07T20:00:00",
+      55,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T20:00:00",
+      53,
+      1,
+      "Google Now",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T20:00:00",
+      8,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T21:00:00",
+      1731,
+      1,
+      "Facebook for Android",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T21:00:00",
+      135,
+      1,
+      "GMail for Android",
+      "Email",
+      0
+    ],
+    [
+      "2025-11-07T21:00:00",
+      44,
+      1,
+      "Google Chrome for Android",
+      "Browsers",
+      0
+    ],
+    [
+      "2025-11-07T21:00:00",
+      29,
+      1,
+      "Google Calendar for Android",
+      "Calendars",
+      1
+    ],
+    [
+      "2025-11-07T21:00:00",
+      28,
+      1,
+      "mobile - io.homeassistant.companion.android",
+      "Other",
+      0
+    ],
+    [
+      "2025-11-07T21:00:00",
+      28,
+      1,
+      "Google Now",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T21:00:00",
+      7,
+      1,
+      "mobile - name.boyle.chris.sgtpuzzles",
+      "Games",
+      -2
+    ],
+    [
+      "2025-11-07T21:00:00",
+      1,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T22:00:00",
+      841,
+      1,
+      "TikTok",
+      "General Social Networking",
+      -2
+    ],
+    [
+      "2025-11-07T22:00:00",
+      282,
+      1,
+      "Duolingo: Learn Languages Free",
+      "General Reference & Learning",
+      -1
+    ],
+    [
+      "2025-11-07T22:00:00",
+      124,
+      1,
+      "YouTube for Android",
+      "Video",
+      -2
+    ],
+    [
+      "2025-11-07T22:00:00",
+      60,
+      1,
+      "mobile - com.finch.finch",
+      "Health & Medicine",
+      1
+    ],
+    [
+      "2025-11-07T22:00:00",
+      21,
+      1,
+      "Messenger for Android",
+      "Communications",
+      -1
+    ],
+    [
+      "2025-11-07T22:00:00",
+      18,
+      1,
+      "mobile - com.beeper.android",
+      "Instant Message",
+      0
+    ],
+    [
+      "2025-11-07T22:00:00",
+      18,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ],
+    [
+      "2025-11-07T22:00:00",
+      1,
+      1,
+      "Google Now",
+      "Search",
+      0
+    ],
+    [
+      "2025-11-07T23:00:00",
+      244,
+      1,
+      "mobile - com.finch.finch",
+      "Health & Medicine",
+      1
+    ],
+    [
+      "2025-11-07T23:00:00",
+      23,
+      1,
+      "Android home screen",
+      "General Utilities",
+      1
+    ]
+  ]
+}

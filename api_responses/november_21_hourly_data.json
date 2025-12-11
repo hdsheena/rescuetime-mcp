@@ -1,0 +1,22 @@
+{
+  "query_parameters": {
+    "perspective": "interval",
+    "resolution_time": "hour",
+    "restrict_begin": "2025-11-21",
+    "restrict_end": "2025-11-21",
+    "restrict_kind": "activity"
+  },
+  "date_retrieved": "2025-12-10",
+  "description": "Hourly activity data for November 21, 2025 showing hour-by-hour breakdown of all activities",
+  "note": "This data shows ACTUAL TIMESTAMPS at hour-level resolution, not fabricated times",
+  "row_count": 191,
+  "key_findings": {
+    "november_21": {
+      "hmrah_hours": ["12:00", "14:00"],
+      "total_hmrah_time_seconds": 793,
+      "pattern": "Split session - Quick 12:00 check, then focused 14:00 integration work",
+      "key_insight": "14:00 hour shows portal + API docs open simultaneously (331s + 269s) - classic debugging pattern"
+    }
+  },
+  "data": "RAW API RESPONSE STORED SEPARATELY - See note below"
+}
