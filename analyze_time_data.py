@@ -38,6 +38,41 @@ EXCLUDE_ACTIVITIES = {
 # Special handling for VS Code - include if document contains vetspire-to-ezyvet or other HMRAH repos
 VETSPIRE_REPO_FILES = "vetspire-to-ezyvet"
 
+# Activity categorization for cleaner summaries
+ACTIVITY_CATEGORIES = {
+    "sync contacts": ["post_contact", "contact", "contacts.py", "post_contacts"],
+    "sync animals": ["post_animal", "animal", "animals", "pet", "pets"],
+    "sync appointments": ["appointment", "appointments", "post_appointment"],
+    "sync visits": ["visit", "visits", "fetch_visit"],
+    "data enrichment": ["enrich", "compare_", "analyze", "match_all"],
+    "api integration": ["ezyvet_api", "vetspire_client", "ezyvet_client"],
+    "api testing": ["test_api", "test_ezyvet", "test_integration"],
+    "portal testing": ["ezyvet.com", "vetspire.com"],
+    "codespaces": ["github.dev"],
+    "postman": ["postman"],
+    "github": ["github"],
+}
+
+
+def categorize_activity(activity, document):
+    """Categorize an activity by its functional area."""
+    document_lower = (document or "").lower()
+    activity_lower = activity.lower()
+    
+    # Check document for matches first (more specific)
+    for category, keywords in ACTIVITY_CATEGORIES.items():
+        for keyword in keywords:
+            if keyword.lower() in document_lower:
+                return category
+    
+    # Then check activity name
+    for category, keywords in ACTIVITY_CATEGORIES.items():
+        for keyword in keywords:
+            if keyword.lower() in activity_lower:
+                return category
+    
+    return "other"
+
 
 def is_hmrah_work(activity, document):
     """Determine if an activity-document pair counts as HMRAH work."""
@@ -100,11 +135,13 @@ def analyze_batch(filepath, date_range_desc):
     
     hmrah_entries = []
     total_hmrah_seconds = 0
+    category_totals = defaultdict(int)
     
     for row in rows:
         rank, seconds, people, activity, document, category, productivity = row
         
         if is_hmrah_work(activity, document):
+            category = categorize_activity(activity, document)
             hmrah_entries.append({
                 'activity': activity,
                 'document': document,
@@ -113,6 +150,7 @@ def analyze_batch(filepath, date_range_desc):
                 'productivity': productivity,
             })
             total_hmrah_seconds += seconds
+            category_totals[category] += seconds
     
     # Sort by seconds descending
     hmrah_entries.sort(key=lambda x: x['seconds'], reverse=True)
@@ -121,6 +159,7 @@ def analyze_batch(filepath, date_range_desc):
         'date_range': date_range_desc,
         'total_seconds': total_hmrah_seconds,
         'entries': hmrah_entries,
+        'categories': dict(sorted(category_totals.items(), key=lambda x: x[1], reverse=True)),
     }
 
 
@@ -258,16 +297,12 @@ def main():
 - **Time**: {total_h}h {total_m}m
 - **Activities Tracked**: {len(result['entries'])}
 
-Top activities:
+Top categories:
 """
-        for entry in result['entries'][:15]:
-            doc_str = f" — {entry['document']}" if entry['document'] != "No Details" else ""
-            h, m = seconds_to_hours_minutes(entry['seconds'])
+        for category, seconds in result['categories'].items():
+            h, m = seconds_to_hours_minutes(seconds)
             time_str = f"{h}h {m}m" if h > 0 else f"{m}m"
-            md_content += f"- **{entry['activity']}{doc_str}**: {time_str}\n"
-        
-        if len(result['entries']) > 15:
-            md_content += f"- ... and {len(result['entries']) - 15} more activities\n"
+            md_content += f"- **{category}**: {time_str}\n"
         md_content += "\n"
     
     # Add key insights section
